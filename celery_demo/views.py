@@ -95,7 +95,7 @@ def tasks(request):
                              jobname, jobparams)
                     logger.info("任务添加成功,开始爬取")
                     sz_credit_dict = {"1": user, "2": pwd, "3": batchid, "4": companyid,
-                                      "5": customerid, "6": 'main01', "7": '1433', "8": 'ACTCenter'}
+                                      "5": customerid, "6": '39.108.1.170', "7": '3433', "8": 'Platform'}
                     pjson = json.dumps(sz_credit_dict)
                     redis_cli.lpush("sz_credit_list", pjson)
                     # ss=redis_cli.lpop("list")
