@@ -91,7 +91,7 @@ def tasks(request):
                     # 添加任务
                     logger.info("添加任务到数据库")
                     # logger.info(db)
-                    add_task('main01', '1433', 'ACTCenter', batchid, batchyear, batchmonth, companyid, customerid, "CUSTOMERINFO",
+                    add_task('39.108.1.170', '3433', 'Platform', batchid, batchyear, batchmonth, companyid, customerid, "CUSTOMERINFO",
                              jobname, jobparams)
                     logger.info("任务添加成功,开始爬取")
                     sz_credit_dict = {"1": user, "2": pwd, "3": batchid, "4": companyid,
