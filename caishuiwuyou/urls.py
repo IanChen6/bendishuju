@@ -20,7 +20,7 @@ from django.conf.urls import url
 
 urlpatterns = [
     # path('admin/', admin.site.urls),
-    url('^craw2local/', views.tasks,name="task"),
+    url('^crawl2local/', views.tasks,name="task"),
     url('^local_cc/', views.cancel_task, name="cancel_task"),
 
 ]
