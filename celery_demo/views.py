@@ -72,11 +72,17 @@ def tasks(request):
             if post_data['Type'][0] == "CUSTOMERINFO":
                 logger.info("爬取信用信息")
                 if post_data['BatchID'] and post_data[
-                    'CompanyID'] and post_data['CustomerID'] and post_data[
-                    'TaxId'] and post_data['TaxPwd'] and post_data[
+                    'CompanyID'] and post_data['CustomerID'] and post_data['TaxPwd'] and post_data[
                     'jobname'] and post_data['jobparams']:
                     logger.info("任务信息接收成功")
-                    user = post_data['TaxId'][0]
+                    try:
+                        user = post_data['TaxId'][0]
+                    except:
+                        user=""
+                    try:
+                        companyname=post_data['CustomerName'][0]
+                    except:
+                        companyname=""
                     pwd = post_data['TaxPwd'][0]
                     batchid = post_data['BatchID'][0]
                     companyid = int(post_data['CompanyID'][0])
@@ -95,7 +101,7 @@ def tasks(request):
                              jobname, jobparams)
                     logger.info("任务添加成功,开始爬取")
                     sz_credit_dict = {"1": user, "2": pwd, "3": batchid, "4": companyid,
-                                      "5": customerid, "6": '39.108.1.170', "7": '3433', "8": 'Platform'}
+                                      "5": customerid, "6": '39.108.1.170', "7": '3433', "8": 'Platform',"9":companyname}
                     pjson = json.dumps(sz_credit_dict)
                     redis_cli.lpush("sz_credit_list", pjson)
                     # ss=redis_cli.lpop("list")
@@ -299,8 +305,6 @@ def cancel_task(request):
                     # print(redis_cli.lpop("list"))
                     # result=run_test_suit.delay(user=account, pwd=pwd, batchid=batchid, batchyear=batchyear, batchmonth=batchmonth,companyid=companyid, customerid=customerid,host=host,port=port,db=db)
                     return HttpResponse("job is cancelled successfully~")
-
-
                 if post_data['BatchID'] and post_data[
                     'CompanyID'] and post_data['CustomerID'] and post_data[
                     'TaxId'] and post_data['TaxPwd'] and post_data[
