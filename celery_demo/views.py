@@ -293,7 +293,7 @@ def cancel_task(request):
                 logger.info("取消信用信息")
                 if post_data['bathcancel']:
                     logger.info("任务信息接收成功")
-                    batchid = post_data['bathcancel']
+                    batchid = post_data['bathcancel'][0]
                     #
                     logger.info("取消任务")
                     a = redis_cli.lrange('sz_credit_list', 0, -1)
@@ -301,6 +301,17 @@ def cancel_task(request):
                         for batch in batchid:
                             if batch in i:
                                 redis_cli.lrem('sz_credit_list', 1, i)
+                                # 获取数据库
+                                i=json.loads(i)
+                                host, port, db = get_db(i["4"])
+                                # 添加任务
+                                logger.info("取消任务到数据库")
+                                logger.info(db)
+                                cancelling_task(host, port, db, batchid, "0", "0", i["4"], "0",
+                                                "CUSTOMERINFO", "000", "")
+                                logger.info("取消任务已添加到数据库")
+                                logger.info("取消成功")
+                                print("取消成功")
                     # ss=redis_cli.lpop("list")
                     # print(redis_cli.lpop("list"))
                     # result=run_test_suit.delay(user=account, pwd=pwd, batchid=batchid, batchyear=batchyear, batchmonth=batchmonth,companyid=companyid, customerid=customerid,host=host,port=port,db=db)
