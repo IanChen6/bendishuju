@@ -40,3 +40,34 @@ Thu 15 Mar 2018 18:08:16 INFO views.py 73 13976 3040 爬取信用信息
 Thu 15 Mar 2018 18:08:16 INFO views.py 77 13976 3040 任务信息接收成功
 Thu 15 Mar 2018 18:08:16 INFO views.py 98 13976 3040 添加任务到数据库
 Thu 15 Mar 2018 18:08:16 INFO views.py 102 13976 3040 任务添加成功,开始爬取
+Fri 16 Mar 2018 16:29:21 INFO views.py 248 4540 20256 开始接受请求
+Fri 16 Mar 2018 16:29:21 INFO views.py 250 4540 20256 接受到post请求
+Fri 16 Mar 2018 16:29:21 INFO views.py 252 4540 20256 接受请求成功
+Fri 16 Mar 2018 16:29:21 INFO views.py 253 4540 20256 {'jobname': ['中止任务 获取信用信息'], 'SocialID': [''], 'Type': ['CUSTOMERINFO'], 'BatchID': ['7e0973a20ff64a72820cd4060c56b20c'], 'TaxPwd': ['666888'], 'CustomerID': ['0'], 'CustomerName': ['深圳市长盛俊电子有限公司'], 'BatchYear': ['0'], 'CompanyID': ['0'], 'BatchMonth': ['0'], 'jobparams': ['{"BatchID":"7e0973a20ff64a72820cd4060c56b20c","BatchYear":0,"BatchMonth":0,"CompanyID":0,"CustomerID":0,"Type":"CUSTOMERINFO","TaxId":"440300559867473","TaxPwd":"666888","jobname":"获取信用信息","jobparams":null,"CustomerName":"深圳市长盛俊电子有限公司","SocialID":""}'], 'TaxId': ['440300559867473']}
+Fri 16 Mar 2018 16:29:21 INFO views.py 293 4540 20256 取消信用信息
+Fri 16 Mar 2018 16:29:44 INFO views.py 248 9268 20256 开始接受请求
+Fri 16 Mar 2018 16:29:44 INFO views.py 250 9268 20256 接受到post请求
+Fri 16 Mar 2018 16:29:44 INFO views.py 252 9268 20256 接受请求成功
+Fri 16 Mar 2018 16:29:44 INFO views.py 253 9268 20256 {'jobname': ['中止任务 获取信用信息'], 'SocialID': [''], 'Type': ['CUSTOMERINFO'], 'BatchID': ['7e0973a20ff64a72820cd4060c56b20c'], 'TaxPwd': ['666888'], 'CustomerID': ['0'], 'CustomerName': ['深圳市长盛俊电子有限公司'], 'BatchYear': ['0'], 'CompanyID': ['0'], 'BatchMonth': ['0'], 'jobparams': ['{"BatchID":"7e0973a20ff64a72820cd4060c56b20c","BatchYear":0,"BatchMonth":0,"CompanyID":0,"CustomerID":0,"Type":"CUSTOMERINFO","TaxId":"440300559867473","TaxPwd":"666888","jobname":"获取信用信息","jobparams":null,"CustomerName":"深圳市长盛俊电子有限公司","SocialID":""}'], 'TaxId': ['440300559867473']}
+Fri 16 Mar 2018 16:29:44 INFO views.py 293 9268 20256 取消信用信息
+Fri 16 Mar 2018 16:30:17 INFO views.py 248 344 12956 开始接受请求
+Fri 16 Mar 2018 16:30:20 INFO views.py 250 344 12956 接受到post请求
+Fri 16 Mar 2018 16:30:20 INFO views.py 252 344 12956 接受请求成功
+Fri 16 Mar 2018 16:30:20 INFO views.py 253 344 12956 {'BatchMonth': ['0'], 'TaxPwd': ['666888'], 'Type': ['CUSTOMERINFO'], 'CustomerID': ['0'], 'jobname': ['中止任务 获取信用信息'], 'CustomerName': ['深圳市长盛俊电子有限公司'], 'BatchYear': ['0'], 'BatchID': ['7e0973a20ff64a72820cd4060c56b20c'], 'TaxId': ['440300559867473'], 'jobparams': ['{"BatchID":"7e0973a20ff64a72820cd4060c56b20c","BatchYear":0,"BatchMonth":0,"CompanyID":0,"CustomerID":0,"Type":"CUSTOMERINFO","TaxId":"440300559867473","TaxPwd":"666888","jobname":"获取信用信息","jobparams":null,"CustomerName":"深圳市长盛俊电子有限公司","SocialID":""}'], 'SocialID': [''], 'CompanyID': ['0']}
+Fri 16 Mar 2018 16:30:21 INFO views.py 293 344 12956 取消信用信息
+Fri 16 Mar 2018 16:32:41 INFO views.py 248 2092 6008 开始接受请求
+Fri 16 Mar 2018 16:32:45 INFO views.py 250 2092 6008 接受到post请求
+Fri 16 Mar 2018 16:32:45 INFO views.py 252 2092 6008 接受请求成功
+Fri 16 Mar 2018 16:32:46 INFO views.py 253 2092 6008 {'jobname': ['中止任务 获取信用信息'], 'SocialID': [''], 'BatchYear': ['0'], 'BatchMonth': ['0'], 'Type': ['CUSTOMERINFO'], 'jobparams': ['{"BatchID":"7e0973a20ff64a72820cd4060c56b20c","BatchYear":0,"BatchMonth":0,"CompanyID":0,"CustomerID":0,"Type":"CUSTOMERINFO","TaxId":"440300559867473","TaxPwd":"666888","jobname":"获取信用信息","jobparams":null,"CustomerName":"深圳市长盛俊电子有限公司","SocialID":""}'], 'CustomerName': ['深圳市长盛俊电子有限公司'], 'CustomerID': ['0'], 'TaxId': ['440300559867473'], 'CompanyID': ['0'], 'BatchID': ['7e0973a20ff64a72820cd4060c56b20c'], 'TaxPwd': ['666888']}
+Fri 16 Mar 2018 16:32:47 INFO views.py 293 2092 6008 取消信用信息
+Fri 16 Mar 2018 16:32:51 INFO views.py 326 2092 6008 任务信息接收成功
+Fri 16 Mar 2018 16:32:54 INFO views.py 340 2092 6008 取消任务到数据库
+Fri 16 Mar 2018 16:32:56 INFO views.py 344 2092 6008 取消任务已添加到数据库
+Fri 16 Mar 2018 16:33:43 INFO views.py 248 2928 6008 开始接受请求
+Fri 16 Mar 2018 16:33:45 INFO views.py 250 2928 6008 接受到post请求
+Fri 16 Mar 2018 16:33:46 INFO views.py 252 2928 6008 接受请求成功
+Fri 16 Mar 2018 16:33:46 INFO views.py 253 2928 6008 {'jobname': ['中止任务 获取信用信息'], 'SocialID': [''], 'BatchYear': ['0'], 'BatchMonth': ['0'], 'Type': ['CUSTOMERINFO'], 'jobparams': ['{"BatchID":"7e0973a20ff64a72820cd4060c56b20c","BatchYear":0,"BatchMonth":0,"CompanyID":0,"CustomerID":0,"Type":"CUSTOMERINFO","TaxId":"440300559867473","TaxPwd":"666888","jobname":"获取信用信息","jobparams":null,"CustomerName":"深圳市长盛俊电子有限公司","SocialID":""}'], 'CustomerName': ['深圳市长盛俊电子有限公司'], 'CustomerID': ['0'], 'TaxId': ['440300559867473'], 'CompanyID': ['0'], 'BatchID': ['7e0973a20ff64a72820cd4060c56b20c'], 'TaxPwd': ['666888']}
+Fri 16 Mar 2018 16:33:49 INFO views.py 293 2928 6008 取消信用信息
+Fri 16 Mar 2018 16:33:54 INFO views.py 326 2928 6008 任务信息接收成功
+Fri 16 Mar 2018 16:33:59 INFO views.py 340 2928 6008 取消任务到数据库
+Fri 16 Mar 2018 16:34:01 INFO views.py 344 2928 6008 取消任务已添加到数据库
