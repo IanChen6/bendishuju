@@ -76,6 +76,10 @@ def tasks(request):
                     'jobname'] and post_data['jobparams']:
                     logger.info("任务信息接收成功")
                     try:
+                        mobile = post_data['Request'][0]
+                    except:
+                        mobile=""
+                    try:
                         user = post_data['TaxId'][0]
                     except:
                         user=""
@@ -101,7 +105,7 @@ def tasks(request):
                              jobname, jobparams)
                     logger.info("任务添加成功,开始爬取")
                     sz_credit_dict = {"1": user, "2": pwd, "3": batchid, "4": companyid,
-                                      "5": customerid, "6": '39.108.1.170', "7": '3433', "8": 'Platform',"9":companyname}
+                                      "5": customerid, "6": '39.108.1.170', "7": '3433', "8": 'Platform',"9":companyname,"10":mobile}
                     pjson = json.dumps(sz_credit_dict)
                     redis_cli.lpush("sz_credit_list", pjson)
                     # ss=redis_cli.lpop("list")
