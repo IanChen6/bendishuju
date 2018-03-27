@@ -96,7 +96,7 @@ def tasks(request):
                     jobname = post_data['jobname'][0]
                     jobparams = post_data['jobparams'][0]
                     jobparams=json.loads(jobparams)
-                    jobparams['Area']='SZ'
+                    jobparams["Area"]="SZ"
                     jobparams=json.dumps(jobparams,ensure_ascii=False)
                     # 获取数据库
                     # host, port, db = get_db(companyid)
