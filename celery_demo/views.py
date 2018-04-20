@@ -343,7 +343,7 @@ def cancel_task(request):
                     # 添加任务
                     logger.info("取消任务到数据库")
                     # logger.info(db)
-                    cancelling_task('main01', '1433', 'ACTCenter', batchid, batchyear, batchmonth, companyid, customerid,
+                    cancelling_task('39.108.1.170', '3433', 'Platform', batchid, batchyear, batchmonth, companyid, customerid,
                                     "CUSTOMERINFO", jobname, jobparams)
                     logger.info("取消任务已添加到数据库")
                     # sz_credit_dict = {"1": user, "2": pwd, "3": batchid, "4": companyid,

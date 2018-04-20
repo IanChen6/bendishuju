@@ -711,3 +711,1240 @@ Tue 27 Mar 2018 10:46:56 INFO views.py 73 4800 22820 爬取信用信息
 Tue 27 Mar 2018 10:46:56 INFO views.py 77 4800 22820 任务信息接收成功
 Tue 27 Mar 2018 10:46:56 INFO views.py 102 4800 22820 添加任务到数据库
 Tue 27 Mar 2018 10:46:56 INFO views.py 106 4800 22820 任务添加成功,开始爬取
+Wed 28 Mar 2018 14:33:19 INFO views.py 29 17516 19368 开始接受请求
+Wed 28 Mar 2018 14:33:19 INFO views.py 32 17516 19368 接受请求成功
+Wed 28 Mar 2018 14:33:19 INFO views.py 33 17516 19368 {'BatchID': ['5590'], 'CustomerName': ['深圳市飞德利精密五金有限公司'], 'jobparams': ['工作中'], 'TaxId': ['440300088471201'], 'jobname': ['工程1'], 'Type': ['CUSTOMERINFO'], 'TaxPwd': ['ys12345678'], 'CompanyID': ['18282900'], 'BatchMonth': ['1'], 'CustomerID': ['9'], 'BatchYear': ['2018']}
+Wed 28 Mar 2018 14:33:19 INFO views.py 73 17516 19368 爬取信用信息
+Wed 28 Mar 2018 14:33:19 INFO views.py 77 17516 19368 任务信息接收成功
+Wed 28 Mar 2018 14:33:19 INFO views.py 102 17516 19368 添加任务到数据库
+Wed 28 Mar 2018 14:33:19 INFO views.py 106 17516 19368 任务添加成功,开始爬取
+Wed 28 Mar 2018 14:33:23 INFO views.py 29 28584 19368 开始接受请求
+Wed 28 Mar 2018 14:33:23 INFO views.py 32 28584 19368 接受请求成功
+Wed 28 Mar 2018 14:33:23 INFO views.py 33 28584 19368 {'BatchID': ['5590'], 'CustomerName': ['深圳市飞德利精密五金有限公司'], 'jobparams': ['工作中'], 'TaxId': ['440300088471201'], 'jobname': ['工程1'], 'Type': ['CUSTOMERINFO'], 'BatchYear': ['2018'], 'CompanyID': ['18282900'], 'BatchMonth': ['1'], 'CustomerID': ['9'], 'TaxPwd': ['ys12345678']}
+Wed 28 Mar 2018 14:33:23 INFO views.py 73 28584 19368 爬取信用信息
+Wed 28 Mar 2018 14:33:23 INFO views.py 77 28584 19368 任务信息接收成功
+Wed 28 Mar 2018 14:33:23 INFO views.py 102 28584 19368 添加任务到数据库
+Wed 28 Mar 2018 14:33:23 INFO views.py 106 28584 19368 任务添加成功,开始爬取
+Wed 28 Mar 2018 14:33:23 WARNING views.py 243 17516 19368 Error 10061 connecting to localhost:6379. 由于目标计算机积极拒绝，无法连接。.
+Wed 28 Mar 2018 14:33:27 WARNING views.py 243 28584 19368 Error 10061 connecting to localhost:6379. 由于目标计算机积极拒绝，无法连接。.
+Wed 28 Mar 2018 14:33:29 INFO views.py 29 22916 19368 开始接受请求
+Wed 28 Mar 2018 14:33:29 INFO views.py 32 22916 19368 接受请求成功
+Wed 28 Mar 2018 14:33:29 INFO views.py 33 22916 19368 {'BatchID': ['5590'], 'CustomerName': ['深圳市飞德利精密五金有限公司'], 'jobparams': ['工作中'], 'TaxId': ['440300088471201'], 'jobname': ['工程1'], 'Type': ['CUSTOMERINFO'], 'TaxPwd': ['ys12345678'], 'CompanyID': ['18282900'], 'BatchMonth': ['1'], 'CustomerID': ['9'], 'BatchYear': ['2018']}
+Wed 28 Mar 2018 14:33:29 INFO views.py 73 22916 19368 爬取信用信息
+Wed 28 Mar 2018 14:33:29 INFO views.py 77 22916 19368 任务信息接收成功
+Wed 28 Mar 2018 14:33:29 INFO views.py 102 22916 19368 添加任务到数据库
+Wed 28 Mar 2018 14:33:29 INFO views.py 106 22916 19368 任务添加成功,开始爬取
+Wed 28 Mar 2018 14:33:33 WARNING views.py 243 22916 19368 Error 10061 connecting to localhost:6379. 由于目标计算机积极拒绝，无法连接。.
+Wed 28 Mar 2018 14:34:08 INFO views.py 29 28724 28740 开始接受请求
+Wed 28 Mar 2018 14:34:11 INFO views.py 32 28724 28740 接受请求成功
+Wed 28 Mar 2018 14:34:12 INFO views.py 33 28724 28740 {'BatchMonth': ['1'], 'CustomerName': ['深圳市飞德利精密五金有限公司'], 'CustomerID': ['9'], 'TaxId': ['440300088471201'], 'jobparams': ['工作中'], 'CompanyID': ['18282900'], 'Type': ['CUSTOMERINFO'], 'BatchID': ['5590'], 'BatchYear': ['2018'], 'jobname': ['工程1'], 'TaxPwd': ['ys12345678']}
+Wed 28 Mar 2018 14:34:14 INFO views.py 73 28724 28740 爬取信用信息
+Wed 28 Mar 2018 14:34:15 INFO views.py 77 28724 28740 任务信息接收成功
+Wed 28 Mar 2018 14:34:25 INFO views.py 102 28724 28740 添加任务到数据库
+Wed 28 Mar 2018 14:34:34 INFO views.py 106 28724 28740 任务添加成功,开始爬取
+Wed 28 Mar 2018 14:34:42 WARNING views.py 243 28724 28740 Error 10061 connecting to localhost:6379. 由于目标计算机积极拒绝，无法连接。.
+Wed 28 Mar 2018 14:35:39 INFO views.py 29 30400 30020 开始接受请求
+Wed 28 Mar 2018 14:35:39 INFO views.py 32 30400 30020 接受请求成功
+Wed 28 Mar 2018 14:35:39 INFO views.py 33 30400 30020 {'BatchID': ['5590'], 'BatchYear': ['2018'], 'BatchMonth': ['1'], 'jobparams': ['工作中'], 'CustomerID': ['9'], 'jobname': ['工程1'], 'TaxId': ['440300088471201'], 'Type': ['CUSTOMERINFO'], 'TaxPwd': ['ys12345678'], 'CompanyID': ['18282900'], 'CustomerName': ['深圳市飞德利精密五金有限公司']}
+Wed 28 Mar 2018 14:35:39 INFO views.py 73 30400 30020 爬取信用信息
+Wed 28 Mar 2018 14:35:39 INFO views.py 77 30400 30020 任务信息接收成功
+Wed 28 Mar 2018 14:35:39 INFO views.py 102 30400 30020 添加任务到数据库
+Wed 28 Mar 2018 14:35:39 INFO views.py 106 30400 30020 任务添加成功,开始爬取
+Wed 28 Mar 2018 15:27:49 INFO views.py 29 31764 30020 开始接受请求
+Wed 28 Mar 2018 15:27:49 INFO views.py 32 31764 30020 接受请求成功
+Wed 28 Mar 2018 15:27:49 INFO views.py 33 31764 30020 {'BatchID': ['5590'], 'BatchYear': ['2018'], 'BatchMonth': ['1'], 'jobname': ['工程1'], 'CustomerID': ['9'], 'jobparams': ['工作中'], 'TaxId': [''], 'Type': ['CUSTOMERINFO'], 'TaxPwd': ['58123456'], 'CompanyID': ['18282900'], 'CustomerName': ['深圳市芃博科技有限公司']}
+Wed 28 Mar 2018 15:27:49 INFO views.py 73 31764 30020 爬取信用信息
+Wed 28 Mar 2018 15:27:49 INFO views.py 77 31764 30020 任务信息接收成功
+Wed 28 Mar 2018 15:27:49 INFO views.py 102 31764 30020 添加任务到数据库
+Wed 28 Mar 2018 15:27:49 INFO views.py 106 31764 30020 任务添加成功,开始爬取
+Wed 28 Mar 2018 15:39:23 INFO views.py 29 32544 30020 开始接受请求
+Wed 28 Mar 2018 15:39:23 INFO views.py 32 32544 30020 接受请求成功
+Wed 28 Mar 2018 15:39:23 INFO views.py 33 32544 30020 {'TaxPwd': ['58123456'], 'BatchYear': ['2018'], 'BatchMonth': ['1'], 'jobname': ['工程1'], 'CustomerID': ['9'], 'jobparams': ['工作中'], 'TaxId': [''], 'Type': ['CUSTOMERINFO'], 'BatchID': ['5590'], 'CompanyID': ['18282900'], 'CustomerName': ['深圳市芃博科技有限公司']}
+Wed 28 Mar 2018 15:39:23 INFO views.py 73 32544 30020 爬取信用信息
+Wed 28 Mar 2018 15:39:23 INFO views.py 77 32544 30020 任务信息接收成功
+Wed 28 Mar 2018 15:39:23 INFO views.py 102 32544 30020 添加任务到数据库
+Wed 28 Mar 2018 15:39:23 INFO views.py 106 32544 30020 任务添加成功,开始爬取
+Wed 28 Mar 2018 15:42:40 INFO views.py 29 33292 30020 开始接受请求
+Wed 28 Mar 2018 15:42:40 INFO views.py 32 33292 30020 接受请求成功
+Wed 28 Mar 2018 15:42:40 INFO views.py 33 33292 30020 {'TaxPwd': ['58123456'], 'BatchYear': ['2018'], 'BatchMonth': ['1'], 'jobparams': ['工作中'], 'CustomerID': ['9'], 'jobname': ['工程1'], 'TaxId': [''], 'Type': ['CUSTOMERINFO'], 'BatchID': ['5590'], 'CompanyID': ['18282900'], 'CustomerName': ['深圳市芃博科技有限公司']}
+Wed 28 Mar 2018 15:42:40 INFO views.py 73 33292 30020 爬取信用信息
+Wed 28 Mar 2018 15:42:40 INFO views.py 77 33292 30020 任务信息接收成功
+Wed 28 Mar 2018 15:42:40 INFO views.py 102 33292 30020 添加任务到数据库
+Wed 28 Mar 2018 15:42:40 INFO views.py 106 33292 30020 任务添加成功,开始爬取
+Wed 28 Mar 2018 15:46:07 INFO views.py 29 31140 30020 开始接受请求
+Wed 28 Mar 2018 15:46:07 INFO views.py 32 31140 30020 接受请求成功
+Wed 28 Mar 2018 15:46:07 INFO views.py 33 31140 30020 {'TaxPwd': ['58123456'], 'BatchYear': ['2018'], 'BatchMonth': ['1'], 'jobparams': ['工作中'], 'CustomerID': ['9'], 'jobname': ['工程1'], 'TaxId': [''], 'Type': ['CUSTOMERINFO'], 'BatchID': ['5590'], 'CompanyID': ['18282900'], 'CustomerName': ['深圳市芃博科技有限公司']}
+Wed 28 Mar 2018 15:46:07 INFO views.py 73 31140 30020 爬取信用信息
+Wed 28 Mar 2018 15:46:07 INFO views.py 77 31140 30020 任务信息接收成功
+Wed 28 Mar 2018 15:46:07 INFO views.py 102 31140 30020 添加任务到数据库
+Wed 28 Mar 2018 15:46:07 INFO views.py 106 31140 30020 任务添加成功,开始爬取
+Wed 28 Mar 2018 15:46:41 INFO views.py 29 33340 30020 开始接受请求
+Wed 28 Mar 2018 15:46:41 INFO views.py 32 33340 30020 接受请求成功
+Wed 28 Mar 2018 15:46:41 INFO views.py 33 33340 30020 {'BatchID': ['5590'], 'BatchYear': ['2018'], 'BatchMonth': ['1'], 'jobparams': ['工作中'], 'CustomerID': ['9'], 'jobname': ['工程1'], 'TaxId': [''], 'Type': ['CUSTOMERINFO'], 'TaxPwd': ['58123456'], 'CompanyID': ['18282900'], 'CustomerName': ['深圳市芃博科技有限公司']}
+Wed 28 Mar 2018 15:46:41 INFO views.py 73 33340 30020 爬取信用信息
+Wed 28 Mar 2018 15:46:41 INFO views.py 77 33340 30020 任务信息接收成功
+Wed 28 Mar 2018 15:46:41 INFO views.py 102 33340 30020 添加任务到数据库
+Wed 28 Mar 2018 15:46:41 INFO views.py 106 33340 30020 任务添加成功,开始爬取
+Wed 28 Mar 2018 15:50:27 INFO views.py 29 30508 30020 开始接受请求
+Wed 28 Mar 2018 15:50:27 INFO views.py 32 30508 30020 接受请求成功
+Wed 28 Mar 2018 15:50:27 INFO views.py 33 30508 30020 {'TaxPwd': ['58123456'], 'BatchYear': ['2018'], 'BatchMonth': ['1'], 'jobname': ['工程1'], 'CustomerID': ['9'], 'jobparams': ['工作中'], 'TaxId': [''], 'Type': ['CUSTOMERINFO'], 'BatchID': ['5590'], 'CompanyID': ['18282900'], 'CustomerName': ['深圳市芃博科技有限公司']}
+Wed 28 Mar 2018 15:50:27 INFO views.py 73 30508 30020 爬取信用信息
+Wed 28 Mar 2018 15:50:27 INFO views.py 77 30508 30020 任务信息接收成功
+Wed 28 Mar 2018 15:50:27 INFO views.py 102 30508 30020 添加任务到数据库
+Wed 28 Mar 2018 15:50:27 INFO views.py 106 30508 30020 任务添加成功,开始爬取
+Wed 28 Mar 2018 16:02:40 INFO views.py 29 30896 30020 开始接受请求
+Wed 28 Mar 2018 16:02:40 INFO views.py 32 30896 30020 接受请求成功
+Wed 28 Mar 2018 16:02:40 INFO views.py 33 30896 30020 {'TaxPwd': ['58123456'], 'BatchYear': ['2018'], 'BatchMonth': ['1'], 'jobname': ['工程1'], 'CustomerID': ['9'], 'jobparams': ['工作中'], 'TaxId': [''], 'Type': ['CUSTOMERINFO'], 'BatchID': ['5590'], 'CompanyID': ['18282900'], 'CustomerName': ['深圳市芃博科技有限公司']}
+Wed 28 Mar 2018 16:02:40 INFO views.py 73 30896 30020 爬取信用信息
+Wed 28 Mar 2018 16:02:40 INFO views.py 77 30896 30020 任务信息接收成功
+Wed 28 Mar 2018 16:02:40 INFO views.py 102 30896 30020 添加任务到数据库
+Wed 28 Mar 2018 16:02:40 INFO views.py 106 30896 30020 任务添加成功,开始爬取
+Wed 28 Mar 2018 16:07:23 INFO views.py 29 25188 30020 开始接受请求
+Wed 28 Mar 2018 16:07:23 INFO views.py 32 25188 30020 接受请求成功
+Wed 28 Mar 2018 16:07:23 INFO views.py 33 25188 30020 {'TaxPwd': ['58123456'], 'BatchYear': ['2018'], 'BatchMonth': ['1'], 'jobname': ['工程1'], 'CustomerID': ['9'], 'jobparams': ['工作中'], 'TaxId': [''], 'Type': ['CUSTOMERINFO'], 'BatchID': ['5590'], 'CompanyID': ['18282900'], 'CustomerName': ['深圳市芃博科技有限公司']}
+Wed 28 Mar 2018 16:07:23 INFO views.py 73 25188 30020 爬取信用信息
+Wed 28 Mar 2018 16:07:23 INFO views.py 77 25188 30020 任务信息接收成功
+Wed 28 Mar 2018 16:07:23 INFO views.py 102 25188 30020 添加任务到数据库
+Wed 28 Mar 2018 16:07:23 INFO views.py 106 25188 30020 任务添加成功,开始爬取
+Wed 28 Mar 2018 16:09:31 INFO views.py 29 32516 30020 开始接受请求
+Wed 28 Mar 2018 16:09:31 INFO views.py 32 32516 30020 接受请求成功
+Wed 28 Mar 2018 16:09:31 INFO views.py 33 32516 30020 {'TaxPwd': ['58123456'], 'BatchYear': ['2018'], 'BatchMonth': ['1'], 'jobname': ['工程1'], 'CustomerID': ['9'], 'jobparams': ['工作中'], 'TaxId': [''], 'Type': ['CUSTOMERINFO'], 'BatchID': ['5590'], 'CompanyID': ['18282900'], 'CustomerName': ['深圳市芃博科技有限公司']}
+Wed 28 Mar 2018 16:09:31 INFO views.py 73 32516 30020 爬取信用信息
+Wed 28 Mar 2018 16:09:31 INFO views.py 77 32516 30020 任务信息接收成功
+Wed 28 Mar 2018 16:09:31 INFO views.py 102 32516 30020 添加任务到数据库
+Wed 28 Mar 2018 16:09:31 INFO views.py 106 32516 30020 任务添加成功,开始爬取
+Wed 28 Mar 2018 16:22:40 INFO views.py 29 18404 30020 开始接受请求
+Wed 28 Mar 2018 16:22:40 INFO views.py 32 18404 30020 接受请求成功
+Wed 28 Mar 2018 16:22:40 INFO views.py 33 18404 30020 {'BatchID': ['5590'], 'BatchYear': ['2018'], 'BatchMonth': ['1'], 'jobname': ['工程1'], 'CustomerID': ['9'], 'jobparams': ['工作中'], 'TaxId': ['440300334928095'], 'Type': ['CUSTOMERINFO'], 'TaxPwd': ['58123456'], 'CompanyID': ['18282900'], 'CustomerName': ['深圳市芃博科技有限公司']}
+Wed 28 Mar 2018 16:22:40 INFO views.py 73 18404 30020 爬取信用信息
+Wed 28 Mar 2018 16:22:40 INFO views.py 77 18404 30020 任务信息接收成功
+Wed 28 Mar 2018 16:22:40 INFO views.py 102 18404 30020 添加任务到数据库
+Wed 28 Mar 2018 16:22:40 INFO views.py 106 18404 30020 任务添加成功,开始爬取
+Wed 28 Mar 2018 16:25:12 INFO views.py 29 33864 30020 开始接受请求
+Wed 28 Mar 2018 16:25:12 INFO views.py 32 33864 30020 接受请求成功
+Wed 28 Mar 2018 16:25:12 INFO views.py 33 33864 30020 {'BatchID': ['5590'], 'BatchYear': ['2018'], 'BatchMonth': ['1'], 'jobparams': ['工作中'], 'CustomerID': ['9'], 'jobname': ['工程1'], 'TaxId': ['440300334928095'], 'Type': ['CUSTOMERINFO'], 'TaxPwd': ['58123456'], 'CompanyID': ['18282900'], 'CustomerName': ['深圳市芃博科技有限公司']}
+Wed 28 Mar 2018 16:25:12 INFO views.py 73 33864 30020 爬取信用信息
+Wed 28 Mar 2018 16:25:12 INFO views.py 77 33864 30020 任务信息接收成功
+Wed 28 Mar 2018 16:25:12 INFO views.py 102 33864 30020 添加任务到数据库
+Wed 28 Mar 2018 16:25:12 INFO views.py 106 33864 30020 任务添加成功,开始爬取
+Wed 28 Mar 2018 16:25:28 INFO views.py 29 34596 30020 开始接受请求
+Wed 28 Mar 2018 16:25:28 INFO views.py 32 34596 30020 接受请求成功
+Wed 28 Mar 2018 16:25:28 INFO views.py 33 34596 30020 {'BatchID': ['5590'], 'BatchYear': ['2018'], 'BatchMonth': ['1'], 'jobparams': ['工作中'], 'CustomerID': ['9'], 'jobname': ['工程1'], 'TaxId': ['440300334928095'], 'Type': ['CUSTOMERINFO'], 'TaxPwd': ['58123456'], 'CompanyID': ['18282900'], 'CustomerName': ['深圳市芃博科技有限公司']}
+Wed 28 Mar 2018 16:25:28 INFO views.py 73 34596 30020 爬取信用信息
+Wed 28 Mar 2018 16:25:28 INFO views.py 77 34596 30020 任务信息接收成功
+Wed 28 Mar 2018 16:25:28 INFO views.py 102 34596 30020 添加任务到数据库
+Wed 28 Mar 2018 16:25:28 INFO views.py 106 34596 30020 任务添加成功,开始爬取
+Wed 28 Mar 2018 16:30:38 INFO views.py 29 30672 30020 开始接受请求
+Wed 28 Mar 2018 16:30:38 INFO views.py 32 30672 30020 接受请求成功
+Wed 28 Mar 2018 16:30:38 INFO views.py 33 30672 30020 {'BatchID': ['5590'], 'BatchYear': ['2018'], 'BatchMonth': ['1'], 'jobname': ['工程1'], 'CustomerID': ['9'], 'jobparams': ['工作中'], 'TaxId': ['440300334928095'], 'Type': ['CUSTOMERINFO'], 'TaxPwd': ['58123456'], 'CompanyID': ['18282900'], 'CustomerName': ['深圳市芃博科技有限公司']}
+Wed 28 Mar 2018 16:30:38 INFO views.py 73 30672 30020 爬取信用信息
+Wed 28 Mar 2018 16:30:38 INFO views.py 77 30672 30020 任务信息接收成功
+Wed 28 Mar 2018 16:30:38 INFO views.py 102 30672 30020 添加任务到数据库
+Wed 28 Mar 2018 16:30:38 INFO views.py 106 30672 30020 任务添加成功,开始爬取
+Wed 28 Mar 2018 16:32:00 INFO views.py 29 34448 30020 开始接受请求
+Wed 28 Mar 2018 16:32:00 INFO views.py 32 34448 30020 接受请求成功
+Wed 28 Mar 2018 16:32:00 INFO views.py 33 34448 30020 {'TaxPwd': ['58123456'], 'BatchYear': ['2018'], 'BatchMonth': ['1'], 'jobparams': ['工作中'], 'CustomerID': ['9'], 'jobname': ['工程1'], 'TaxId': ['440300334928095'], 'Type': ['CUSTOMERINFO'], 'BatchID': ['5590'], 'CompanyID': ['18282900'], 'CustomerName': ['深圳市芃博科技有限公司']}
+Wed 28 Mar 2018 16:32:00 INFO views.py 73 34448 30020 爬取信用信息
+Wed 28 Mar 2018 16:32:00 INFO views.py 77 34448 30020 任务信息接收成功
+Wed 28 Mar 2018 16:32:00 INFO views.py 102 34448 30020 添加任务到数据库
+Wed 28 Mar 2018 16:32:00 INFO views.py 106 34448 30020 任务添加成功,开始爬取
+Wed 28 Mar 2018 16:34:53 INFO views.py 29 35368 30020 开始接受请求
+Wed 28 Mar 2018 16:34:53 INFO views.py 32 35368 30020 接受请求成功
+Wed 28 Mar 2018 16:34:53 INFO views.py 33 35368 30020 {'BatchID': ['5590'], 'BatchYear': ['2018'], 'BatchMonth': ['1'], 'jobparams': ['工作中'], 'CustomerID': ['9'], 'jobname': ['工程1'], 'TaxId': ['440300334928095'], 'Type': ['CUSTOMERINFO'], 'TaxPwd': ['58123456'], 'CompanyID': ['18282900'], 'CustomerName': ['深圳市芃博科技有限公司']}
+Wed 28 Mar 2018 16:34:53 INFO views.py 73 35368 30020 爬取信用信息
+Wed 28 Mar 2018 16:34:53 INFO views.py 77 35368 30020 任务信息接收成功
+Wed 28 Mar 2018 16:34:53 INFO views.py 102 35368 30020 添加任务到数据库
+Wed 28 Mar 2018 16:34:53 INFO views.py 106 35368 30020 任务添加成功,开始爬取
+Wed 28 Mar 2018 16:40:31 INFO views.py 29 35372 30020 开始接受请求
+Wed 28 Mar 2018 16:40:31 INFO views.py 32 35372 30020 接受请求成功
+Wed 28 Mar 2018 16:40:31 INFO views.py 33 35372 30020 {'TaxPwd': ['58123456'], 'BatchYear': ['2018'], 'BatchMonth': ['1'], 'jobname': ['工程1'], 'CustomerID': ['9'], 'jobparams': ['工作中'], 'TaxId': ['440300334928095'], 'Type': ['CUSTOMERINFO'], 'BatchID': ['5590'], 'CompanyID': ['18282900'], 'CustomerName': ['深圳市芃博科技有限公司']}
+Wed 28 Mar 2018 16:40:31 INFO views.py 73 35372 30020 爬取信用信息
+Wed 28 Mar 2018 16:40:31 INFO views.py 77 35372 30020 任务信息接收成功
+Wed 28 Mar 2018 16:40:31 INFO views.py 102 35372 30020 添加任务到数据库
+Wed 28 Mar 2018 16:40:32 INFO views.py 106 35372 30020 任务添加成功,开始爬取
+Wed 28 Mar 2018 16:46:29 INFO views.py 29 33984 30020 开始接受请求
+Wed 28 Mar 2018 16:46:29 INFO views.py 32 33984 30020 接受请求成功
+Wed 28 Mar 2018 16:46:29 INFO views.py 33 33984 30020 {'BatchID': ['5590'], 'BatchYear': ['2018'], 'BatchMonth': ['1'], 'jobparams': ['工作中'], 'CustomerID': ['9'], 'jobname': ['工程1'], 'TaxId': ['440300334928095'], 'Type': ['CUSTOMERINFO'], 'TaxPwd': ['58123456'], 'CompanyID': ['18282900'], 'CustomerName': ['深圳市芃博科技有限公司']}
+Wed 28 Mar 2018 16:46:29 INFO views.py 73 33984 30020 爬取信用信息
+Wed 28 Mar 2018 16:46:29 INFO views.py 77 33984 30020 任务信息接收成功
+Wed 28 Mar 2018 16:46:29 INFO views.py 102 33984 30020 添加任务到数据库
+Wed 28 Mar 2018 16:46:29 INFO views.py 106 33984 30020 任务添加成功,开始爬取
+Wed 28 Mar 2018 16:50:09 INFO views.py 29 35492 30020 开始接受请求
+Wed 28 Mar 2018 16:50:09 INFO views.py 32 35492 30020 接受请求成功
+Wed 28 Mar 2018 16:50:09 INFO views.py 33 35492 30020 {'TaxPwd': ['58123456'], 'BatchYear': ['2018'], 'BatchMonth': ['1'], 'jobparams': ['工作中'], 'CustomerID': ['9'], 'jobname': ['工程1'], 'TaxId': ['440300334928095'], 'Type': ['CUSTOMERINFO'], 'BatchID': ['5590'], 'CompanyID': ['18282900'], 'CustomerName': ['深圳市芃博科技有限公司']}
+Wed 28 Mar 2018 16:50:09 INFO views.py 73 35492 30020 爬取信用信息
+Wed 28 Mar 2018 16:50:09 INFO views.py 77 35492 30020 任务信息接收成功
+Wed 28 Mar 2018 16:50:09 INFO views.py 102 35492 30020 添加任务到数据库
+Wed 28 Mar 2018 16:50:09 INFO views.py 106 35492 30020 任务添加成功,开始爬取
+Wed 28 Mar 2018 16:58:12 INFO views.py 29 34060 30020 开始接受请求
+Wed 28 Mar 2018 16:58:12 INFO views.py 32 34060 30020 接受请求成功
+Wed 28 Mar 2018 16:58:12 INFO views.py 33 34060 30020 {'TaxPwd': ['58123456'], 'BatchYear': ['2018'], 'BatchMonth': ['1'], 'jobname': ['工程1'], 'CustomerID': ['9'], 'jobparams': ['工作中'], 'TaxId': ['440300334928095'], 'Type': ['CUSTOMERINFO'], 'BatchID': ['5590'], 'CompanyID': ['18282900'], 'CustomerName': ['深圳市芃博科技有限公司']}
+Wed 28 Mar 2018 16:58:12 INFO views.py 73 34060 30020 爬取信用信息
+Wed 28 Mar 2018 16:58:12 INFO views.py 77 34060 30020 任务信息接收成功
+Wed 28 Mar 2018 16:58:12 INFO views.py 102 34060 30020 添加任务到数据库
+Wed 28 Mar 2018 16:58:12 INFO views.py 106 34060 30020 任务添加成功,开始爬取
+Wed 28 Mar 2018 17:07:15 INFO views.py 29 36568 30020 开始接受请求
+Wed 28 Mar 2018 17:07:15 INFO views.py 32 36568 30020 接受请求成功
+Wed 28 Mar 2018 17:07:15 INFO views.py 33 36568 30020 {'BatchID': ['5590'], 'BatchYear': ['2018'], 'BatchMonth': ['1'], 'jobname': ['工程1'], 'CustomerID': ['9'], 'jobparams': ['工作中'], 'TaxId': ['440300334928095'], 'Type': ['CUSTOMERINFO'], 'TaxPwd': ['58123456'], 'CompanyID': ['18282900'], 'CustomerName': ['深圳市芃博科技有限公司']}
+Wed 28 Mar 2018 17:07:15 INFO views.py 73 36568 30020 爬取信用信息
+Wed 28 Mar 2018 17:07:15 INFO views.py 77 36568 30020 任务信息接收成功
+Wed 28 Mar 2018 17:07:15 INFO views.py 102 36568 30020 添加任务到数据库
+Wed 28 Mar 2018 17:07:16 INFO views.py 106 36568 30020 任务添加成功,开始爬取
+Wed 28 Mar 2018 17:11:23 INFO views.py 29 36344 30020 开始接受请求
+Wed 28 Mar 2018 17:11:23 INFO views.py 32 36344 30020 接受请求成功
+Wed 28 Mar 2018 17:11:23 INFO views.py 33 36344 30020 {'BatchID': ['5590'], 'BatchYear': ['2018'], 'BatchMonth': ['1'], 'jobparams': ['工作中'], 'CustomerID': ['9'], 'jobname': ['工程1'], 'TaxId': ['440300334928095'], 'Type': ['CUSTOMERINFO'], 'TaxPwd': ['58123456'], 'CompanyID': ['18282900'], 'CustomerName': ['深圳市芃博科技有限公司']}
+Wed 28 Mar 2018 17:11:23 INFO views.py 73 36344 30020 爬取信用信息
+Wed 28 Mar 2018 17:11:23 INFO views.py 77 36344 30020 任务信息接收成功
+Wed 28 Mar 2018 17:11:23 INFO views.py 102 36344 30020 添加任务到数据库
+Wed 28 Mar 2018 17:11:23 INFO views.py 106 36344 30020 任务添加成功,开始爬取
+Wed 28 Mar 2018 17:14:46 INFO views.py 29 36636 30020 开始接受请求
+Wed 28 Mar 2018 17:14:46 INFO views.py 32 36636 30020 接受请求成功
+Wed 28 Mar 2018 17:14:46 INFO views.py 33 36636 30020 {'BatchID': ['5590'], 'BatchYear': ['2018'], 'BatchMonth': ['1'], 'jobparams': ['工作中'], 'CustomerID': ['9'], 'jobname': ['工程1'], 'TaxId': ['440300334928095'], 'Type': ['CUSTOMERINFO'], 'TaxPwd': ['58123456'], 'CompanyID': ['18282900'], 'CustomerName': ['深圳市芃博科技有限公司']}
+Wed 28 Mar 2018 17:14:46 INFO views.py 73 36636 30020 爬取信用信息
+Wed 28 Mar 2018 17:14:46 INFO views.py 77 36636 30020 任务信息接收成功
+Wed 28 Mar 2018 17:14:46 INFO views.py 102 36636 30020 添加任务到数据库
+Wed 28 Mar 2018 17:14:46 INFO views.py 106 36636 30020 任务添加成功,开始爬取
+Wed 28 Mar 2018 17:18:10 INFO views.py 29 36516 30020 开始接受请求
+Wed 28 Mar 2018 17:18:10 INFO views.py 32 36516 30020 接受请求成功
+Wed 28 Mar 2018 17:18:10 INFO views.py 33 36516 30020 {'TaxPwd': ['58123456'], 'BatchYear': ['2018'], 'BatchMonth': ['1'], 'jobname': ['工程1'], 'CustomerID': ['9'], 'jobparams': ['工作中'], 'TaxId': ['440300334928095'], 'Type': ['CUSTOMERINFO'], 'BatchID': ['5590'], 'CompanyID': ['18282900'], 'CustomerName': ['深圳市芃博科技有限公司']}
+Wed 28 Mar 2018 17:18:10 INFO views.py 73 36516 30020 爬取信用信息
+Wed 28 Mar 2018 17:18:10 INFO views.py 77 36516 30020 任务信息接收成功
+Wed 28 Mar 2018 17:18:10 INFO views.py 102 36516 30020 添加任务到数据库
+Wed 28 Mar 2018 17:18:10 INFO views.py 106 36516 30020 任务添加成功,开始爬取
+Wed 28 Mar 2018 17:23:33 INFO views.py 29 27372 30020 开始接受请求
+Wed 28 Mar 2018 17:23:33 INFO views.py 32 27372 30020 接受请求成功
+Wed 28 Mar 2018 17:23:33 INFO views.py 33 27372 30020 {'TaxPwd': ['58123456'], 'BatchYear': ['2018'], 'BatchMonth': ['1'], 'jobname': ['工程1'], 'CustomerID': ['9'], 'jobparams': ['工作中'], 'TaxId': ['440300334928095'], 'Type': ['CUSTOMERINFO'], 'BatchID': ['5590'], 'CompanyID': ['18282900'], 'CustomerName': ['深圳市芃博科技有限公司']}
+Wed 28 Mar 2018 17:23:33 INFO views.py 73 27372 30020 爬取信用信息
+Wed 28 Mar 2018 17:23:33 INFO views.py 77 27372 30020 任务信息接收成功
+Wed 28 Mar 2018 17:23:33 INFO views.py 102 27372 30020 添加任务到数据库
+Wed 28 Mar 2018 17:23:33 INFO views.py 106 27372 30020 任务添加成功,开始爬取
+Wed 28 Mar 2018 17:31:54 INFO views.py 29 39572 30020 开始接受请求
+Wed 28 Mar 2018 17:31:54 INFO views.py 32 39572 30020 接受请求成功
+Wed 28 Mar 2018 17:31:54 INFO views.py 33 39572 30020 {'BatchID': ['5590'], 'BatchYear': ['2018'], 'BatchMonth': ['1'], 'jobparams': ['工作中'], 'CustomerID': ['9'], 'jobname': ['工程1'], 'TaxId': ['440300334928095'], 'Type': ['CUSTOMERINFO'], 'TaxPwd': ['58123456'], 'CompanyID': ['18282900'], 'CustomerName': ['深圳市芃博科技有限公司']}
+Wed 28 Mar 2018 17:31:54 INFO views.py 73 39572 30020 爬取信用信息
+Wed 28 Mar 2018 17:31:54 INFO views.py 77 39572 30020 任务信息接收成功
+Wed 28 Mar 2018 17:31:54 INFO views.py 102 39572 30020 添加任务到数据库
+Wed 28 Mar 2018 17:31:54 INFO views.py 106 39572 30020 任务添加成功,开始爬取
+Wed 28 Mar 2018 17:37:52 INFO views.py 29 37072 30020 开始接受请求
+Wed 28 Mar 2018 17:37:52 INFO views.py 32 37072 30020 接受请求成功
+Wed 28 Mar 2018 17:37:52 INFO views.py 33 37072 30020 {'BatchID': ['5590'], 'BatchYear': ['2018'], 'BatchMonth': ['1'], 'jobparams': ['工作中'], 'CustomerID': ['9'], 'jobname': ['工程1'], 'TaxId': ['440300334928095'], 'Type': ['CUSTOMERINFO'], 'TaxPwd': ['58123456'], 'CompanyID': ['18282900'], 'CustomerName': ['深圳市芃博科技有限公司']}
+Wed 28 Mar 2018 17:37:52 INFO views.py 73 37072 30020 爬取信用信息
+Wed 28 Mar 2018 17:37:52 INFO views.py 77 37072 30020 任务信息接收成功
+Wed 28 Mar 2018 17:37:52 INFO views.py 102 37072 30020 添加任务到数据库
+Wed 28 Mar 2018 17:37:52 INFO views.py 106 37072 30020 任务添加成功,开始爬取
+Wed 28 Mar 2018 17:52:30 INFO views.py 29 37332 30020 开始接受请求
+Wed 28 Mar 2018 17:52:30 INFO views.py 32 37332 30020 接受请求成功
+Wed 28 Mar 2018 17:52:30 INFO views.py 33 37332 30020 {'BatchID': ['5590'], 'BatchYear': ['2018'], 'BatchMonth': ['1'], 'jobparams': ['工作中'], 'CustomerID': ['9'], 'jobname': ['工程1'], 'TaxId': ['440300334928095'], 'Type': ['CUSTOMERINFO'], 'TaxPwd': ['58123456'], 'CompanyID': ['18282900'], 'CustomerName': ['深圳市芃博科技有限公司']}
+Wed 28 Mar 2018 17:52:30 INFO views.py 73 37332 30020 爬取信用信息
+Wed 28 Mar 2018 17:52:30 INFO views.py 77 37332 30020 任务信息接收成功
+Wed 28 Mar 2018 17:52:30 INFO views.py 102 37332 30020 添加任务到数据库
+Wed 28 Mar 2018 17:52:30 INFO views.py 106 37332 30020 任务添加成功,开始爬取
+Wed 28 Mar 2018 17:52:30 INFO views.py 29 34768 30020 开始接受请求
+Wed 28 Mar 2018 17:52:30 INFO views.py 32 34768 30020 接受请求成功
+Wed 28 Mar 2018 17:52:30 INFO views.py 33 34768 30020 {'TaxPwd': ['58123456'], 'BatchYear': ['2018'], 'BatchMonth': ['1'], 'jobname': ['工程1'], 'CustomerID': ['9'], 'jobparams': ['工作中'], 'TaxId': ['440300334928095'], 'Type': ['CUSTOMERINFO'], 'BatchID': ['5590'], 'CompanyID': ['18282900'], 'CustomerName': ['深圳市芃博科技有限公司']}
+Wed 28 Mar 2018 17:52:30 INFO views.py 73 34768 30020 爬取信用信息
+Wed 28 Mar 2018 17:52:30 INFO views.py 77 34768 30020 任务信息接收成功
+Wed 28 Mar 2018 17:52:30 INFO views.py 102 34768 30020 添加任务到数据库
+Wed 28 Mar 2018 17:52:31 INFO views.py 106 34768 30020 任务添加成功,开始爬取
+Wed 28 Mar 2018 17:52:58 INFO views.py 29 37956 30020 开始接受请求
+Wed 28 Mar 2018 17:52:58 INFO views.py 32 37956 30020 接受请求成功
+Wed 28 Mar 2018 17:52:58 INFO views.py 33 37956 30020 {'BatchID': ['5590'], 'BatchYear': ['2018'], 'BatchMonth': ['1'], 'jobname': ['工程1'], 'CustomerID': ['9'], 'jobparams': ['工作中'], 'TaxId': ['440300334928095'], 'Type': ['CUSTOMERINFO'], 'TaxPwd': ['58123456'], 'CompanyID': ['18282900'], 'CustomerName': ['深圳市芃博科技有限公司']}
+Wed 28 Mar 2018 17:52:58 INFO views.py 73 37956 30020 爬取信用信息
+Wed 28 Mar 2018 17:52:58 INFO views.py 77 37956 30020 任务信息接收成功
+Wed 28 Mar 2018 17:52:58 INFO views.py 102 37956 30020 添加任务到数据库
+Wed 28 Mar 2018 17:52:58 INFO views.py 106 37956 30020 任务添加成功,开始爬取
+Wed 28 Mar 2018 17:56:02 INFO views.py 29 37608 30020 开始接受请求
+Wed 28 Mar 2018 17:56:02 INFO views.py 32 37608 30020 接受请求成功
+Wed 28 Mar 2018 17:56:02 INFO views.py 33 37608 30020 {'BatchID': ['5590'], 'BatchYear': ['2018'], 'BatchMonth': ['1'], 'jobparams': ['工作中'], 'CustomerID': ['9'], 'jobname': ['工程1'], 'TaxId': ['440300334928095'], 'Type': ['CUSTOMERINFO'], 'TaxPwd': ['58123456'], 'CompanyID': ['18282900'], 'CustomerName': ['深圳市芃博科技有限公司']}
+Wed 28 Mar 2018 17:56:02 INFO views.py 73 37608 30020 爬取信用信息
+Wed 28 Mar 2018 17:56:02 INFO views.py 77 37608 30020 任务信息接收成功
+Wed 28 Mar 2018 17:56:02 INFO views.py 102 37608 30020 添加任务到数据库
+Wed 28 Mar 2018 17:56:02 INFO views.py 106 37608 30020 任务添加成功,开始爬取
+Wed 28 Mar 2018 17:59:41 INFO views.py 29 33564 30020 开始接受请求
+Wed 28 Mar 2018 17:59:41 INFO views.py 32 33564 30020 接受请求成功
+Wed 28 Mar 2018 17:59:41 INFO views.py 33 33564 30020 {'TaxPwd': ['58123456'], 'BatchYear': ['2018'], 'BatchMonth': ['1'], 'jobparams': ['工作中'], 'CustomerID': ['9'], 'jobname': ['工程1'], 'TaxId': ['440300334928095'], 'Type': ['CUSTOMERINFO'], 'BatchID': ['5590'], 'CompanyID': ['18282900'], 'CustomerName': ['深圳市芃博科技有限公司']}
+Wed 28 Mar 2018 17:59:41 INFO views.py 73 33564 30020 爬取信用信息
+Wed 28 Mar 2018 17:59:41 INFO views.py 77 33564 30020 任务信息接收成功
+Wed 28 Mar 2018 17:59:41 INFO views.py 102 33564 30020 添加任务到数据库
+Wed 28 Mar 2018 17:59:41 INFO views.py 106 33564 30020 任务添加成功,开始爬取
+Wed 28 Mar 2018 19:45:59 INFO views.py 29 18600 30020 开始接受请求
+Wed 28 Mar 2018 19:45:59 INFO views.py 32 18600 30020 接受请求成功
+Wed 28 Mar 2018 19:45:59 INFO views.py 33 18600 30020 {'TaxPwd': ['58123456'], 'BatchYear': ['2018'], 'BatchMonth': ['1'], 'jobname': ['工程1'], 'CustomerID': ['9'], 'jobparams': ['工作中'], 'TaxId': ['91440300334928095Q'], 'Type': ['CUSTOMERINFO'], 'BatchID': ['5590'], 'CompanyID': ['18282900'], 'CustomerName': ['深圳市芃博科技有限公司']}
+Wed 28 Mar 2018 19:45:59 INFO views.py 73 18600 30020 爬取信用信息
+Wed 28 Mar 2018 19:45:59 INFO views.py 77 18600 30020 任务信息接收成功
+Wed 28 Mar 2018 19:45:59 INFO views.py 102 18600 30020 添加任务到数据库
+Wed 28 Mar 2018 19:45:59 INFO views.py 106 18600 30020 任务添加成功,开始爬取
+Wed 28 Mar 2018 19:48:22 INFO views.py 29 40516 30020 开始接受请求
+Wed 28 Mar 2018 19:48:22 INFO views.py 32 40516 30020 接受请求成功
+Wed 28 Mar 2018 19:48:22 INFO views.py 33 40516 30020 {'BatchID': ['be8883334c054c07955db71d165ee77a'], 'BatchYear': ['2018'], 'BatchMonth': ['1'], 'jobname': ['工程1'], 'CustomerID': ['0'], 'jobparams': ['工作中'], 'TaxId': ['91440300334928095Q'], 'Type': ['CUSTOMERINFO'], 'TaxPwd': ['58123456'], 'CompanyID': ['0'], 'CustomerName': ['深圳市芃博科技有限公司']}
+Wed 28 Mar 2018 19:48:22 INFO views.py 73 40516 30020 爬取信用信息
+Wed 28 Mar 2018 19:48:22 INFO views.py 77 40516 30020 任务信息接收成功
+Wed 28 Mar 2018 19:48:22 INFO views.py 102 40516 30020 添加任务到数据库
+Wed 28 Mar 2018 19:48:22 INFO views.py 106 40516 30020 任务添加成功,开始爬取
+Wed 28 Mar 2018 19:50:48 INFO views.py 29 36680 30020 开始接受请求
+Wed 28 Mar 2018 19:50:48 INFO views.py 32 36680 30020 接受请求成功
+Wed 28 Mar 2018 19:50:48 INFO views.py 33 36680 30020 {'BatchID': ['be8883334c054c07955db71d165ee77a'], 'BatchYear': ['2018'], 'BatchMonth': ['1'], 'jobname': ['工程1'], 'CustomerID': ['0'], 'jobparams': ['工作中'], 'TaxId': ['91440300334928095Q'], 'Type': ['CUSTOMERINFO'], 'TaxPwd': ['58123456'], 'CompanyID': ['0'], 'CustomerName': ['深圳市芃博科技有限公司']}
+Wed 28 Mar 2018 19:50:48 INFO views.py 73 36680 30020 爬取信用信息
+Wed 28 Mar 2018 19:50:48 INFO views.py 77 36680 30020 任务信息接收成功
+Wed 28 Mar 2018 19:50:48 INFO views.py 102 36680 30020 添加任务到数据库
+Wed 28 Mar 2018 19:50:48 INFO views.py 106 36680 30020 任务添加成功,开始爬取
+Thu 29 Mar 2018 09:55:51 INFO views.py 29 44388 30020 开始接受请求
+Thu 29 Mar 2018 09:55:51 INFO views.py 32 44388 30020 接受请求成功
+Thu 29 Mar 2018 09:55:51 INFO views.py 33 44388 30020 {'BatchID': ['111'], 'BatchYear': ['2018'], 'BatchMonth': ['1'], 'jobparams': ['工作中'], 'CustomerID': ['0'], 'jobname': ['工程1'], 'TaxId': ['440300590705026'], 'Type': ['CUSTOMERINFO'], 'TaxPwd': ['85036203'], 'CompanyID': ['0']}
+Thu 29 Mar 2018 09:55:51 INFO views.py 73 44388 30020 爬取信用信息
+Thu 29 Mar 2018 09:55:51 INFO views.py 77 44388 30020 任务信息接收成功
+Thu 29 Mar 2018 09:55:51 INFO views.py 102 44388 30020 添加任务到数据库
+Thu 29 Mar 2018 09:55:51 INFO views.py 106 44388 30020 任务添加成功,开始爬取
+Thu 29 Mar 2018 10:05:52 INFO views.py 29 11836 30020 开始接受请求
+Thu 29 Mar 2018 10:05:52 INFO views.py 32 11836 30020 接受请求成功
+Thu 29 Mar 2018 10:05:52 INFO views.py 33 11836 30020 {'TaxPwd': ['85036203'], 'BatchYear': ['2018'], 'BatchMonth': ['1'], 'jobname': ['工程1'], 'CustomerID': ['0'], 'jobparams': ['工作中'], 'TaxId': ['440300590705026'], 'Type': ['CUSTOMERINFO'], 'BatchID': ['111'], 'CompanyID': ['0']}
+Thu 29 Mar 2018 10:05:52 INFO views.py 73 11836 30020 爬取信用信息
+Thu 29 Mar 2018 10:05:52 INFO views.py 77 11836 30020 任务信息接收成功
+Thu 29 Mar 2018 10:05:52 INFO views.py 102 11836 30020 添加任务到数据库
+Thu 29 Mar 2018 10:05:52 INFO views.py 106 11836 30020 任务添加成功,开始爬取
+Thu 29 Mar 2018 11:12:49 INFO views.py 29 29420 30020 开始接受请求
+Thu 29 Mar 2018 11:12:49 INFO views.py 32 29420 30020 接受请求成功
+Thu 29 Mar 2018 11:12:49 INFO views.py 33 29420 30020 {'BatchID': ['111'], 'BatchYear': ['2018'], 'BatchMonth': ['1'], 'jobname': ['工程1'], 'CustomerID': ['0'], 'jobparams': ['工作中'], 'TaxId': ['914403007892237371'], 'Type': ['CUSTOMERINFO'], 'TaxPwd': ['80042992'], 'CompanyID': ['0']}
+Thu 29 Mar 2018 11:12:49 INFO views.py 73 29420 30020 爬取信用信息
+Thu 29 Mar 2018 11:12:49 INFO views.py 77 29420 30020 任务信息接收成功
+Thu 29 Mar 2018 11:12:49 INFO views.py 102 29420 30020 添加任务到数据库
+Thu 29 Mar 2018 11:12:49 INFO views.py 106 29420 30020 任务添加成功,开始爬取
+Thu 29 Mar 2018 11:20:35 INFO views.py 29 38476 30020 开始接受请求
+Thu 29 Mar 2018 11:20:35 INFO views.py 32 38476 30020 接受请求成功
+Thu 29 Mar 2018 11:20:35 INFO views.py 33 38476 30020 {'TaxPwd': ['80042992'], 'BatchYear': ['2018'], 'BatchMonth': ['1'], 'jobname': ['工程1'], 'CustomerID': ['0'], 'jobparams': ['工作中'], 'TaxId': ['914403007892237371'], 'Type': ['CUSTOMERINFO'], 'BatchID': ['111'], 'CompanyID': ['0']}
+Thu 29 Mar 2018 11:20:35 INFO views.py 73 38476 30020 爬取信用信息
+Thu 29 Mar 2018 11:20:35 INFO views.py 77 38476 30020 任务信息接收成功
+Thu 29 Mar 2018 11:20:35 INFO views.py 102 38476 30020 添加任务到数据库
+Thu 29 Mar 2018 11:20:35 INFO views.py 106 38476 30020 任务添加成功,开始爬取
+Thu 29 Mar 2018 15:00:23 INFO views.py 29 53496 30020 开始接受请求
+Thu 29 Mar 2018 15:00:23 INFO views.py 32 53496 30020 接受请求成功
+Thu 29 Mar 2018 15:00:23 INFO views.py 33 53496 30020 {'TaxPwd': ['ty212121'], 'BatchYear': ['2018'], 'BatchMonth': ['1'], 'jobparams': ['工作中'], 'CustomerID': ['0'], 'jobname': ['工程1'], 'TaxId': ['91440300358741268Y'], 'Type': ['CUSTOMERINFO'], 'BatchID': ['111'], 'CompanyID': ['0']}
+Thu 29 Mar 2018 15:00:23 INFO views.py 73 53496 30020 爬取信用信息
+Thu 29 Mar 2018 15:00:23 INFO views.py 77 53496 30020 任务信息接收成功
+Thu 29 Mar 2018 15:00:23 INFO views.py 102 53496 30020 添加任务到数据库
+Thu 29 Mar 2018 15:00:23 INFO views.py 106 53496 30020 任务添加成功,开始爬取
+Thu 29 Mar 2018 15:05:16 INFO views.py 29 53312 30020 开始接受请求
+Thu 29 Mar 2018 15:05:16 INFO views.py 32 53312 30020 接受请求成功
+Thu 29 Mar 2018 15:05:16 INFO views.py 33 53312 30020 {'TaxPwd': ['ty212121'], 'BatchYear': ['2018'], 'BatchMonth': ['1'], 'jobname': ['工程1'], 'CustomerID': ['0'], 'jobparams': ['工作中'], 'TaxId': ['91440300358741268Y'], 'Type': ['CUSTOMERINFO'], 'BatchID': ['111'], 'CompanyID': ['0']}
+Thu 29 Mar 2018 15:05:16 INFO views.py 73 53312 30020 爬取信用信息
+Thu 29 Mar 2018 15:05:16 INFO views.py 77 53312 30020 任务信息接收成功
+Thu 29 Mar 2018 15:05:16 INFO views.py 102 53312 30020 添加任务到数据库
+Thu 29 Mar 2018 15:05:16 INFO views.py 106 53312 30020 任务添加成功,开始爬取
+Thu 29 Mar 2018 15:10:58 INFO views.py 29 53524 30020 开始接受请求
+Thu 29 Mar 2018 15:10:58 INFO views.py 32 53524 30020 接受请求成功
+Thu 29 Mar 2018 15:10:58 INFO views.py 33 53524 30020 {'BatchID': ['111'], 'BatchYear': ['2018'], 'BatchMonth': ['1'], 'jobname': ['工程1'], 'CustomerID': ['0'], 'jobparams': ['工作中'], 'TaxId': ['91440300358741268Y'], 'Type': ['CUSTOMERINFO'], 'TaxPwd': ['ty212121'], 'CompanyID': ['0']}
+Thu 29 Mar 2018 15:10:58 INFO views.py 73 53524 30020 爬取信用信息
+Thu 29 Mar 2018 15:10:58 INFO views.py 77 53524 30020 任务信息接收成功
+Thu 29 Mar 2018 15:10:58 INFO views.py 102 53524 30020 添加任务到数据库
+Thu 29 Mar 2018 15:10:58 INFO views.py 106 53524 30020 任务添加成功,开始爬取
+Thu 29 Mar 2018 15:17:00 INFO views.py 29 47240 30020 开始接受请求
+Thu 29 Mar 2018 15:17:00 INFO views.py 32 47240 30020 接受请求成功
+Thu 29 Mar 2018 15:17:00 INFO views.py 33 47240 30020 {'TaxPwd': ['10716674'], 'BatchYear': ['2018'], 'BatchMonth': ['1'], 'jobname': ['工程1'], 'CustomerID': ['0'], 'jobparams': ['工作中'], 'TaxId': ['91440300MA5EQUCD5J'], 'Type': ['CUSTOMERINFO'], 'BatchID': ['111'], 'CompanyID': ['0']}
+Thu 29 Mar 2018 15:17:00 INFO views.py 73 47240 30020 爬取信用信息
+Thu 29 Mar 2018 15:17:00 INFO views.py 77 47240 30020 任务信息接收成功
+Thu 29 Mar 2018 15:17:00 INFO views.py 102 47240 30020 添加任务到数据库
+Thu 29 Mar 2018 15:17:00 INFO views.py 106 47240 30020 任务添加成功,开始爬取
+Thu 29 Mar 2018 15:17:32 INFO views.py 29 47800 30020 开始接受请求
+Thu 29 Mar 2018 15:17:32 INFO views.py 32 47800 30020 接受请求成功
+Thu 29 Mar 2018 15:17:32 INFO views.py 33 47800 30020 {'TaxPwd': ['10716674'], 'BatchYear': ['2018'], 'BatchMonth': ['1'], 'jobparams': ['工作中'], 'CustomerID': ['0'], 'jobname': ['工程1'], 'TaxId': ['91440300MA5EQUCD5J'], 'Type': ['CUSTOMERINFO'], 'BatchID': ['111'], 'CompanyID': ['0']}
+Thu 29 Mar 2018 15:17:32 INFO views.py 73 47800 30020 爬取信用信息
+Thu 29 Mar 2018 15:17:32 INFO views.py 77 47800 30020 任务信息接收成功
+Thu 29 Mar 2018 15:17:32 INFO views.py 102 47800 30020 添加任务到数据库
+Thu 29 Mar 2018 15:17:32 INFO views.py 106 47800 30020 任务添加成功,开始爬取
+Thu 29 Mar 2018 16:06:30 INFO views.py 29 41036 30020 开始接受请求
+Thu 29 Mar 2018 16:06:30 INFO views.py 32 41036 30020 接受请求成功
+Thu 29 Mar 2018 16:06:30 INFO views.py 33 41036 30020 {'TaxPwd': ['10716674'], 'BatchYear': ['2018'], 'BatchMonth': ['1'], 'jobparams': ['工作中'], 'CustomerID': ['0'], 'jobname': ['工程1'], 'TaxId': ['91440300MA5EQUCD5J'], 'Type': ['CUSTOMERINFO'], 'BatchID': ['111'], 'CompanyID': ['0']}
+Thu 29 Mar 2018 16:06:30 INFO views.py 73 41036 30020 爬取信用信息
+Thu 29 Mar 2018 16:06:30 INFO views.py 77 41036 30020 任务信息接收成功
+Thu 29 Mar 2018 16:06:30 INFO views.py 102 41036 30020 添加任务到数据库
+Thu 29 Mar 2018 16:06:30 INFO views.py 106 41036 30020 任务添加成功,开始爬取
+Mon 02 Apr 2018 09:50:06 INFO views.py 29 16236 18040 开始接受请求
+Mon 02 Apr 2018 09:50:06 INFO views.py 32 16236 18040 接受请求成功
+Mon 02 Apr 2018 09:50:06 INFO views.py 33 16236 18040 {'BatchMonth': ['1'], 'Type': ['CUSTOMERINFO'], 'BatchYear': ['2018'], 'CustomerID': ['0'], 'jobname': ['工程1'], 'TaxId': ['91440300MA5EQUCD5J'], 'CompanyID': ['0'], 'jobparams': ['工作中'], 'BatchID': ['111'], 'TaxPwd': ['10716674']}
+Mon 02 Apr 2018 09:50:06 INFO views.py 73 16236 18040 爬取信用信息
+Mon 02 Apr 2018 09:50:06 INFO views.py 77 16236 18040 任务信息接收成功
+Mon 02 Apr 2018 09:50:06 INFO views.py 102 16236 18040 添加任务到数据库
+Mon 02 Apr 2018 09:50:06 INFO views.py 106 16236 18040 任务添加成功,开始爬取
+Mon 02 Apr 2018 10:08:42 INFO views.py 29 13152 18040 开始接受请求
+Mon 02 Apr 2018 10:08:42 INFO views.py 32 13152 18040 接受请求成功
+Mon 02 Apr 2018 10:08:42 INFO views.py 33 13152 18040 {'BatchMonth': ['1'], 'jobname': ['工程1'], 'BatchYear': ['2018'], 'CustomerID': ['0'], 'Type': ['CUSTOMERINFO'], 'TaxId': ['91440300MA5EQUCD5J'], 'CompanyID': ['0'], 'jobparams': ['工作中'], 'BatchID': ['111'], 'TaxPwd': ['10716674']}
+Mon 02 Apr 2018 10:08:42 INFO views.py 73 13152 18040 爬取信用信息
+Mon 02 Apr 2018 10:08:42 INFO views.py 77 13152 18040 任务信息接收成功
+Mon 02 Apr 2018 10:08:42 INFO views.py 102 13152 18040 添加任务到数据库
+Mon 02 Apr 2018 10:08:42 INFO views.py 106 13152 18040 任务添加成功,开始爬取
+Sun 08 Apr 2018 19:52:58 INFO views.py 29 18924 30732 开始接受请求
+Sun 08 Apr 2018 19:52:58 INFO views.py 32 18924 30732 接受请求成功
+Sun 08 Apr 2018 19:52:58 INFO views.py 33 18924 30732 {'CustomerID': ['0'], 'TaxId': ['91440300MA5EQUCD5J'], 'jobname': ['工程1'], 'TaxPwd': ['10716674'], 'BatchMonth': ['1'], 'Type': ['CUSTOMERINFO'], 'CompanyID': ['0'], 'BatchID': ['111'], 'jobparams': ['工作中'], 'BatchYear': ['2018']}
+Sun 08 Apr 2018 19:52:58 INFO views.py 73 18924 30732 爬取信用信息
+Sun 08 Apr 2018 19:52:58 INFO views.py 77 18924 30732 任务信息接收成功
+Sun 08 Apr 2018 19:52:58 INFO views.py 102 18924 30732 添加任务到数据库
+Sun 08 Apr 2018 19:52:58 INFO views.py 106 18924 30732 任务添加成功,开始爬取
+Sun 08 Apr 2018 19:53:51 INFO views.py 29 10812 30732 开始接受请求
+Sun 08 Apr 2018 19:53:51 INFO views.py 32 10812 30732 接受请求成功
+Sun 08 Apr 2018 19:53:51 INFO views.py 33 10812 30732 {'CustomerID': ['0'], 'TaxId': ['91440300MA5EQUCD5J'], 'jobname': ['工程1'], 'TaxPwd': ['10716674'], 'BatchMonth': ['1'], 'Type': ['CUSTOMERINFO'], 'CompanyID': ['0'], 'BatchID': ['111'], 'jobparams': ['工作中'], 'BatchYear': ['2018']}
+Sun 08 Apr 2018 19:53:51 INFO views.py 73 10812 30732 爬取信用信息
+Sun 08 Apr 2018 19:53:51 INFO views.py 77 10812 30732 任务信息接收成功
+Sun 08 Apr 2018 19:53:51 INFO views.py 102 10812 30732 添加任务到数据库
+Sun 08 Apr 2018 19:53:51 INFO views.py 106 10812 30732 任务添加成功,开始爬取
+Sun 08 Apr 2018 19:56:44 INFO views.py 29 9944 30732 开始接受请求
+Sun 08 Apr 2018 19:56:44 INFO views.py 32 9944 30732 接受请求成功
+Sun 08 Apr 2018 19:56:44 INFO views.py 33 9944 30732 {'CustomerID': ['0'], 'TaxId': ['91440300MA5EQUCD5J'], 'BatchMonth': ['1'], 'TaxPwd': ['10716674'], 'jobname': ['工程1'], 'Type': ['CUSTOMERINFO'], 'CompanyID': ['0'], 'BatchID': ['111'], 'jobparams': ['工作中'], 'BatchYear': ['2018']}
+Sun 08 Apr 2018 19:56:44 INFO views.py 73 9944 30732 爬取信用信息
+Sun 08 Apr 2018 19:56:44 INFO views.py 77 9944 30732 任务信息接收成功
+Sun 08 Apr 2018 19:56:44 INFO views.py 102 9944 30732 添加任务到数据库
+Sun 08 Apr 2018 19:56:44 INFO views.py 106 9944 30732 任务添加成功,开始爬取
+Sun 08 Apr 2018 19:58:45 INFO views.py 29 33768 30732 开始接受请求
+Sun 08 Apr 2018 19:58:45 INFO views.py 32 33768 30732 接受请求成功
+Sun 08 Apr 2018 19:58:45 INFO views.py 33 33768 30732 {'CustomerID': ['0'], 'TaxId': ['91440300MA5EQUCD5J'], 'BatchMonth': ['1'], 'TaxPwd': ['10716674'], 'jobname': ['工程1'], 'Type': ['CUSTOMERINFO'], 'CompanyID': ['0'], 'BatchID': ['111'], 'jobparams': ['工作中'], 'BatchYear': ['2018']}
+Sun 08 Apr 2018 19:58:45 INFO views.py 73 33768 30732 爬取信用信息
+Sun 08 Apr 2018 19:58:45 INFO views.py 77 33768 30732 任务信息接收成功
+Sun 08 Apr 2018 19:58:45 INFO views.py 102 33768 30732 添加任务到数据库
+Sun 08 Apr 2018 19:58:45 INFO views.py 106 33768 30732 任务添加成功,开始爬取
+Sun 08 Apr 2018 20:04:31 INFO views.py 29 19424 30732 开始接受请求
+Sun 08 Apr 2018 20:04:31 INFO views.py 32 19424 30732 接受请求成功
+Sun 08 Apr 2018 20:04:31 INFO views.py 33 19424 30732 {'CustomerID': ['0'], 'TaxId': ['91440300MA5EQUCD5J'], 'BatchMonth': ['1'], 'TaxPwd': ['10716674'], 'jobname': ['工程1'], 'Type': ['CUSTOMERINFO'], 'CompanyID': ['0'], 'BatchID': ['111'], 'jobparams': ['工作中'], 'BatchYear': ['2018']}
+Sun 08 Apr 2018 20:04:31 INFO views.py 73 19424 30732 爬取信用信息
+Sun 08 Apr 2018 20:04:31 INFO views.py 77 19424 30732 任务信息接收成功
+Sun 08 Apr 2018 20:04:31 INFO views.py 102 19424 30732 添加任务到数据库
+Sun 08 Apr 2018 20:04:31 INFO views.py 106 19424 30732 任务添加成功,开始爬取
+Sun 08 Apr 2018 20:06:14 INFO views.py 29 34360 30732 开始接受请求
+Sun 08 Apr 2018 20:06:14 INFO views.py 32 34360 30732 接受请求成功
+Sun 08 Apr 2018 20:06:14 INFO views.py 33 34360 30732 {'CustomerID': ['0'], 'TaxId': ['91440300MA5EQUCD5J'], 'jobname': ['工程1'], 'TaxPwd': ['10716674'], 'BatchMonth': ['1'], 'Type': ['CUSTOMERINFO'], 'CompanyID': ['0'], 'BatchID': ['111'], 'jobparams': ['工作中'], 'BatchYear': ['2018']}
+Sun 08 Apr 2018 20:06:14 INFO views.py 73 34360 30732 爬取信用信息
+Sun 08 Apr 2018 20:06:14 INFO views.py 77 34360 30732 任务信息接收成功
+Sun 08 Apr 2018 20:06:14 INFO views.py 102 34360 30732 添加任务到数据库
+Sun 08 Apr 2018 20:06:14 INFO views.py 106 34360 30732 任务添加成功,开始爬取
+Sun 08 Apr 2018 20:07:26 INFO views.py 29 21776 30732 开始接受请求
+Sun 08 Apr 2018 20:07:26 INFO views.py 32 21776 30732 接受请求成功
+Sun 08 Apr 2018 20:07:26 INFO views.py 33 21776 30732 {'CustomerID': ['0'], 'TaxId': ['91440300MA5EQUCD5J'], 'BatchMonth': ['1'], 'TaxPwd': ['10716674'], 'jobname': ['工程1'], 'Type': ['CUSTOMERINFO'], 'CompanyID': ['0'], 'BatchID': ['111'], 'jobparams': ['工作中'], 'BatchYear': ['2018']}
+Sun 08 Apr 2018 20:07:26 INFO views.py 73 21776 30732 爬取信用信息
+Sun 08 Apr 2018 20:07:26 INFO views.py 77 21776 30732 任务信息接收成功
+Sun 08 Apr 2018 20:07:26 INFO views.py 102 21776 30732 添加任务到数据库
+Sun 08 Apr 2018 20:07:26 INFO views.py 106 21776 30732 任务添加成功,开始爬取
+Sun 08 Apr 2018 20:08:46 INFO views.py 29 20296 30732 开始接受请求
+Sun 08 Apr 2018 20:08:46 INFO views.py 32 20296 30732 接受请求成功
+Sun 08 Apr 2018 20:08:46 INFO views.py 33 20296 30732 {'CustomerID': ['0'], 'TaxId': ['91440300MA5EQUCD5J'], 'BatchMonth': ['1'], 'TaxPwd': ['10716674'], 'jobname': ['工程1'], 'Type': ['CUSTOMERINFO'], 'CompanyID': ['0'], 'BatchID': ['111'], 'jobparams': ['工作中'], 'BatchYear': ['2018']}
+Sun 08 Apr 2018 20:08:46 INFO views.py 73 20296 30732 爬取信用信息
+Sun 08 Apr 2018 20:08:46 INFO views.py 77 20296 30732 任务信息接收成功
+Sun 08 Apr 2018 20:08:46 INFO views.py 102 20296 30732 添加任务到数据库
+Sun 08 Apr 2018 20:08:46 INFO views.py 106 20296 30732 任务添加成功,开始爬取
+Sun 08 Apr 2018 20:11:43 INFO views.py 29 32708 30732 开始接受请求
+Sun 08 Apr 2018 20:11:43 INFO views.py 32 32708 30732 接受请求成功
+Sun 08 Apr 2018 20:11:43 INFO views.py 33 32708 30732 {'CustomerID': ['0'], 'TaxId': ['91440300MA5EQUCD5J'], 'BatchMonth': ['1'], 'TaxPwd': ['10716674'], 'jobname': ['工程1'], 'Type': ['CUSTOMERINFO'], 'CompanyID': ['0'], 'BatchID': ['111'], 'jobparams': ['工作中'], 'BatchYear': ['2018']}
+Sun 08 Apr 2018 20:11:43 INFO views.py 73 32708 30732 爬取信用信息
+Sun 08 Apr 2018 20:11:43 INFO views.py 77 32708 30732 任务信息接收成功
+Sun 08 Apr 2018 20:11:43 INFO views.py 102 32708 30732 添加任务到数据库
+Sun 08 Apr 2018 20:11:43 INFO views.py 106 32708 30732 任务添加成功,开始爬取
+Sun 08 Apr 2018 20:13:41 INFO views.py 29 27784 30732 开始接受请求
+Sun 08 Apr 2018 20:13:41 INFO views.py 32 27784 30732 接受请求成功
+Sun 08 Apr 2018 20:13:41 INFO views.py 33 27784 30732 {'CustomerID': ['0'], 'TaxId': ['91440300MA5EQUCD5J'], 'BatchMonth': ['1'], 'TaxPwd': ['10716674'], 'jobname': ['工程1'], 'Type': ['CUSTOMERINFO'], 'CompanyID': ['0'], 'BatchID': ['111'], 'jobparams': ['工作中'], 'BatchYear': ['2018']}
+Sun 08 Apr 2018 20:13:41 INFO views.py 73 27784 30732 爬取信用信息
+Sun 08 Apr 2018 20:13:41 INFO views.py 77 27784 30732 任务信息接收成功
+Sun 08 Apr 2018 20:13:41 INFO views.py 102 27784 30732 添加任务到数据库
+Sun 08 Apr 2018 20:13:41 INFO views.py 106 27784 30732 任务添加成功,开始爬取
+Sun 08 Apr 2018 20:15:22 INFO views.py 29 27784 30732 开始接受请求
+Sun 08 Apr 2018 20:15:22 INFO views.py 32 27784 30732 接受请求成功
+Sun 08 Apr 2018 20:15:22 INFO views.py 33 27784 30732 {'CustomerID': ['0'], 'TaxId': ['91440300MA5EQUCD5J'], 'BatchMonth': ['1'], 'TaxPwd': ['10716674'], 'jobname': ['工程1'], 'Type': ['CUSTOMERINFO'], 'CompanyID': ['0'], 'BatchID': ['111'], 'jobparams': ['工作中'], 'BatchYear': ['2018']}
+Sun 08 Apr 2018 20:15:22 INFO views.py 73 27784 30732 爬取信用信息
+Sun 08 Apr 2018 20:15:22 INFO views.py 77 27784 30732 任务信息接收成功
+Sun 08 Apr 2018 20:15:22 INFO views.py 102 27784 30732 添加任务到数据库
+Sun 08 Apr 2018 20:15:23 INFO views.py 106 27784 30732 任务添加成功,开始爬取
+Sun 08 Apr 2018 20:16:45 INFO views.py 29 34392 30732 开始接受请求
+Sun 08 Apr 2018 20:16:45 INFO views.py 32 34392 30732 接受请求成功
+Sun 08 Apr 2018 20:16:45 INFO views.py 33 34392 30732 {'CustomerID': ['0'], 'TaxId': ['91440300MA5EQUCD5J'], 'BatchMonth': ['1'], 'TaxPwd': ['10716674'], 'jobname': ['工程1'], 'Type': ['CUSTOMERINFO'], 'CompanyID': ['0'], 'BatchID': ['111'], 'jobparams': ['工作中'], 'BatchYear': ['2018']}
+Sun 08 Apr 2018 20:16:45 INFO views.py 73 34392 30732 爬取信用信息
+Sun 08 Apr 2018 20:16:45 INFO views.py 77 34392 30732 任务信息接收成功
+Sun 08 Apr 2018 20:16:45 INFO views.py 102 34392 30732 添加任务到数据库
+Sun 08 Apr 2018 20:16:45 INFO views.py 106 34392 30732 任务添加成功,开始爬取
+Sun 08 Apr 2018 20:18:46 INFO views.py 29 28668 30732 开始接受请求
+Sun 08 Apr 2018 20:18:46 INFO views.py 32 28668 30732 接受请求成功
+Sun 08 Apr 2018 20:18:46 INFO views.py 33 28668 30732 {'CustomerID': ['0'], 'TaxId': ['91440300MA5EQUCD5J'], 'BatchMonth': ['1'], 'TaxPwd': ['10716674'], 'jobname': ['工程1'], 'Type': ['CUSTOMERINFO'], 'CompanyID': ['0'], 'BatchID': ['111'], 'jobparams': ['工作中'], 'BatchYear': ['2018']}
+Sun 08 Apr 2018 20:18:46 INFO views.py 73 28668 30732 爬取信用信息
+Sun 08 Apr 2018 20:18:46 INFO views.py 77 28668 30732 任务信息接收成功
+Sun 08 Apr 2018 20:18:46 INFO views.py 102 28668 30732 添加任务到数据库
+Sun 08 Apr 2018 20:18:47 INFO views.py 106 28668 30732 任务添加成功,开始爬取
+Mon 09 Apr 2018 09:27:10 INFO views.py 29 54220 30732 开始接受请求
+Mon 09 Apr 2018 09:27:10 INFO views.py 32 54220 30732 接受请求成功
+Mon 09 Apr 2018 09:27:10 INFO views.py 33 54220 30732 {'CustomerID': ['0'], 'TaxId': ['91440300MA5EQUCD5J'], 'jobname': ['工程1'], 'TaxPwd': ['10716674'], 'BatchMonth': ['1'], 'Type': ['CUSTOMERINFO'], 'CompanyID': ['0'], 'BatchID': ['111'], 'jobparams': ['工作中'], 'BatchYear': ['2018']}
+Mon 09 Apr 2018 09:27:10 INFO views.py 73 54220 30732 爬取信用信息
+Mon 09 Apr 2018 09:27:10 INFO views.py 77 54220 30732 任务信息接收成功
+Mon 09 Apr 2018 09:27:10 INFO views.py 102 54220 30732 添加任务到数据库
+Mon 09 Apr 2018 09:27:10 INFO views.py 106 54220 30732 任务添加成功,开始爬取
+Mon 09 Apr 2018 09:36:15 INFO views.py 29 53872 30732 开始接受请求
+Mon 09 Apr 2018 09:36:15 INFO views.py 32 53872 30732 接受请求成功
+Mon 09 Apr 2018 09:36:15 INFO views.py 33 53872 30732 {'CustomerID': ['0'], 'TaxId': ['91440300MA5EQUCD5J'], 'BatchMonth': ['1'], 'TaxPwd': ['10716674'], 'jobname': ['工程1'], 'Type': ['CUSTOMERINFO'], 'CompanyID': ['0'], 'BatchID': ['111'], 'jobparams': ['工作中'], 'BatchYear': ['2018']}
+Mon 09 Apr 2018 09:36:15 INFO views.py 73 53872 30732 爬取信用信息
+Mon 09 Apr 2018 09:36:15 INFO views.py 77 53872 30732 任务信息接收成功
+Mon 09 Apr 2018 09:36:15 INFO views.py 102 53872 30732 添加任务到数据库
+Mon 09 Apr 2018 09:36:15 INFO views.py 106 53872 30732 任务添加成功,开始爬取
+Mon 09 Apr 2018 09:40:30 INFO views.py 29 54612 30732 开始接受请求
+Mon 09 Apr 2018 09:40:30 INFO views.py 32 54612 30732 接受请求成功
+Mon 09 Apr 2018 09:40:30 INFO views.py 33 54612 30732 {'CustomerID': ['0'], 'TaxId': ['91440300MA5EQUCD5J'], 'BatchMonth': ['1'], 'TaxPwd': ['10716674'], 'jobname': ['工程1'], 'Type': ['CUSTOMERINFO'], 'CompanyID': ['0'], 'BatchID': ['111'], 'jobparams': ['工作中'], 'BatchYear': ['2018']}
+Mon 09 Apr 2018 09:40:30 INFO views.py 73 54612 30732 爬取信用信息
+Mon 09 Apr 2018 09:40:30 INFO views.py 77 54612 30732 任务信息接收成功
+Mon 09 Apr 2018 09:40:30 INFO views.py 102 54612 30732 添加任务到数据库
+Mon 09 Apr 2018 09:40:30 INFO views.py 106 54612 30732 任务添加成功,开始爬取
+Mon 09 Apr 2018 09:47:06 INFO views.py 29 53900 30732 开始接受请求
+Mon 09 Apr 2018 09:47:06 INFO views.py 32 53900 30732 接受请求成功
+Mon 09 Apr 2018 09:47:06 INFO views.py 33 53900 30732 {'CustomerID': ['0'], 'TaxId': ['91440300MA5EQUCD5J'], 'BatchMonth': ['1'], 'TaxPwd': ['10716674'], 'jobname': ['工程1'], 'Type': ['CUSTOMERINFO'], 'CompanyID': ['0'], 'BatchID': ['111'], 'jobparams': ['工作中'], 'BatchYear': ['2018']}
+Mon 09 Apr 2018 09:47:06 INFO views.py 73 53900 30732 爬取信用信息
+Mon 09 Apr 2018 09:47:06 INFO views.py 77 53900 30732 任务信息接收成功
+Mon 09 Apr 2018 09:47:06 INFO views.py 102 53900 30732 添加任务到数据库
+Mon 09 Apr 2018 09:47:06 INFO views.py 106 53900 30732 任务添加成功,开始爬取
+Mon 09 Apr 2018 09:51:14 INFO views.py 29 53980 30732 开始接受请求
+Mon 09 Apr 2018 09:51:14 INFO views.py 32 53980 30732 接受请求成功
+Mon 09 Apr 2018 09:51:14 INFO views.py 33 53980 30732 {'CustomerID': ['0'], 'TaxId': ['91440300MA5EQUCD5J'], 'BatchMonth': ['1'], 'TaxPwd': ['10716674'], 'jobname': ['工程1'], 'Type': ['CUSTOMERINFO'], 'CompanyID': ['0'], 'BatchID': ['111'], 'jobparams': ['工作中'], 'BatchYear': ['2018']}
+Mon 09 Apr 2018 09:51:14 INFO views.py 73 53980 30732 爬取信用信息
+Mon 09 Apr 2018 09:51:14 INFO views.py 77 53980 30732 任务信息接收成功
+Mon 09 Apr 2018 09:51:14 INFO views.py 102 53980 30732 添加任务到数据库
+Mon 09 Apr 2018 09:51:14 INFO views.py 106 53980 30732 任务添加成功,开始爬取
+Mon 09 Apr 2018 10:01:23 INFO views.py 29 28452 30732 开始接受请求
+Mon 09 Apr 2018 10:01:23 INFO views.py 32 28452 30732 接受请求成功
+Mon 09 Apr 2018 10:01:23 INFO views.py 33 28452 30732 {'CustomerID': ['0'], 'TaxId': ['91440300MA5EQUCD5J'], 'jobname': ['工程1'], 'TaxPwd': ['10716674'], 'BatchMonth': ['1'], 'Type': ['CUSTOMERINFO'], 'CompanyID': ['0'], 'BatchID': ['111'], 'jobparams': ['工作中'], 'BatchYear': ['2018']}
+Mon 09 Apr 2018 10:01:23 INFO views.py 73 28452 30732 爬取信用信息
+Mon 09 Apr 2018 10:01:23 INFO views.py 77 28452 30732 任务信息接收成功
+Mon 09 Apr 2018 10:01:23 INFO views.py 102 28452 30732 添加任务到数据库
+Mon 09 Apr 2018 10:01:23 INFO views.py 106 28452 30732 任务添加成功,开始爬取
+Mon 09 Apr 2018 10:03:32 INFO views.py 29 29848 30732 开始接受请求
+Mon 09 Apr 2018 10:03:32 INFO views.py 32 29848 30732 接受请求成功
+Mon 09 Apr 2018 10:03:32 INFO views.py 33 29848 30732 {'CustomerID': ['0'], 'TaxId': ['91440300MA5EQUCD5J'], 'BatchMonth': ['1'], 'TaxPwd': ['10716674'], 'jobname': ['工程1'], 'Type': ['CUSTOMERINFO'], 'CompanyID': ['0'], 'BatchID': ['111'], 'jobparams': ['工作中'], 'BatchYear': ['2018']}
+Mon 09 Apr 2018 10:03:32 INFO views.py 73 29848 30732 爬取信用信息
+Mon 09 Apr 2018 10:03:32 INFO views.py 77 29848 30732 任务信息接收成功
+Mon 09 Apr 2018 10:03:32 INFO views.py 102 29848 30732 添加任务到数据库
+Mon 09 Apr 2018 10:03:32 INFO views.py 106 29848 30732 任务添加成功,开始爬取
+Mon 09 Apr 2018 10:06:05 INFO views.py 29 54156 30732 开始接受请求
+Mon 09 Apr 2018 10:06:05 INFO views.py 32 54156 30732 接受请求成功
+Mon 09 Apr 2018 10:06:05 INFO views.py 33 54156 30732 {'CustomerID': ['0'], 'TaxId': ['91440300MA5EQUCD5J'], 'BatchMonth': ['1'], 'TaxPwd': ['10716674'], 'jobname': ['工程1'], 'Type': ['CUSTOMERINFO'], 'CompanyID': ['0'], 'BatchID': ['111'], 'jobparams': ['工作中'], 'BatchYear': ['2018']}
+Mon 09 Apr 2018 10:06:05 INFO views.py 73 54156 30732 爬取信用信息
+Mon 09 Apr 2018 10:06:05 INFO views.py 77 54156 30732 任务信息接收成功
+Mon 09 Apr 2018 10:06:05 INFO views.py 102 54156 30732 添加任务到数据库
+Mon 09 Apr 2018 10:06:05 INFO views.py 106 54156 30732 任务添加成功,开始爬取
+Mon 09 Apr 2018 10:09:14 INFO views.py 29 54296 30732 开始接受请求
+Mon 09 Apr 2018 10:09:14 INFO views.py 32 54296 30732 接受请求成功
+Mon 09 Apr 2018 10:09:14 INFO views.py 33 54296 30732 {'CustomerID': ['0'], 'TaxId': ['91440300MA5EQUCD5J'], 'jobname': ['工程1'], 'TaxPwd': ['10716674'], 'BatchMonth': ['1'], 'Type': ['CUSTOMERINFO'], 'CompanyID': ['0'], 'BatchID': ['111'], 'jobparams': ['工作中'], 'BatchYear': ['2018']}
+Mon 09 Apr 2018 10:09:14 INFO views.py 73 54296 30732 爬取信用信息
+Mon 09 Apr 2018 10:09:14 INFO views.py 77 54296 30732 任务信息接收成功
+Mon 09 Apr 2018 10:09:14 INFO views.py 102 54296 30732 添加任务到数据库
+Mon 09 Apr 2018 10:09:14 INFO views.py 106 54296 30732 任务添加成功,开始爬取
+Mon 09 Apr 2018 10:09:15 INFO views.py 29 54400 30732 开始接受请求
+Mon 09 Apr 2018 10:09:15 INFO views.py 32 54400 30732 接受请求成功
+Mon 09 Apr 2018 10:09:15 INFO views.py 33 54400 30732 {'CustomerID': ['0'], 'TaxId': ['91440300MA5EQUCD5J'], 'BatchMonth': ['1'], 'TaxPwd': ['10716674'], 'jobname': ['工程1'], 'Type': ['CUSTOMERINFO'], 'CompanyID': ['0'], 'BatchID': ['111'], 'jobparams': ['工作中'], 'BatchYear': ['2018']}
+Mon 09 Apr 2018 10:09:15 INFO views.py 73 54400 30732 爬取信用信息
+Mon 09 Apr 2018 10:09:15 INFO views.py 77 54400 30732 任务信息接收成功
+Mon 09 Apr 2018 10:09:15 INFO views.py 102 54400 30732 添加任务到数据库
+Mon 09 Apr 2018 10:09:15 INFO views.py 106 54400 30732 任务添加成功,开始爬取
+Mon 09 Apr 2018 10:11:12 INFO views.py 29 51320 30732 开始接受请求
+Mon 09 Apr 2018 10:11:12 INFO views.py 32 51320 30732 接受请求成功
+Mon 09 Apr 2018 10:11:12 INFO views.py 33 51320 30732 {'CustomerID': ['0'], 'TaxId': ['91440300MA5EQUCD5J'], 'jobname': ['工程1'], 'TaxPwd': ['10716674'], 'BatchMonth': ['1'], 'Type': ['CUSTOMERINFO'], 'CompanyID': ['0'], 'BatchID': ['111'], 'jobparams': ['工作中'], 'BatchYear': ['2018']}
+Mon 09 Apr 2018 10:11:12 INFO views.py 73 51320 30732 爬取信用信息
+Mon 09 Apr 2018 10:11:12 INFO views.py 77 51320 30732 任务信息接收成功
+Mon 09 Apr 2018 10:11:12 INFO views.py 102 51320 30732 添加任务到数据库
+Mon 09 Apr 2018 10:11:12 INFO views.py 106 51320 30732 任务添加成功,开始爬取
+Mon 09 Apr 2018 10:11:14 INFO views.py 29 51332 30732 开始接受请求
+Mon 09 Apr 2018 10:11:14 INFO views.py 32 51332 30732 接受请求成功
+Mon 09 Apr 2018 10:11:14 INFO views.py 33 51332 30732 {'CustomerID': ['0'], 'TaxId': ['91440300MA5EQUCD5J'], 'BatchMonth': ['1'], 'TaxPwd': ['10716674'], 'jobname': ['工程1'], 'Type': ['CUSTOMERINFO'], 'CompanyID': ['0'], 'BatchID': ['111'], 'jobparams': ['工作中'], 'BatchYear': ['2018']}
+Mon 09 Apr 2018 10:11:14 INFO views.py 73 51332 30732 爬取信用信息
+Mon 09 Apr 2018 10:11:14 INFO views.py 77 51332 30732 任务信息接收成功
+Mon 09 Apr 2018 10:11:14 INFO views.py 102 51332 30732 添加任务到数据库
+Mon 09 Apr 2018 10:11:14 INFO views.py 106 51332 30732 任务添加成功,开始爬取
+Mon 09 Apr 2018 10:13:42 INFO views.py 29 49636 30732 开始接受请求
+Mon 09 Apr 2018 10:13:42 INFO views.py 32 49636 30732 接受请求成功
+Mon 09 Apr 2018 10:13:42 INFO views.py 33 49636 30732 {'CustomerID': ['0'], 'TaxId': ['91440300MA5EQUCD5J'], 'jobname': ['工程1'], 'TaxPwd': ['10716674'], 'BatchMonth': ['1'], 'Type': ['CUSTOMERINFO'], 'CompanyID': ['0'], 'BatchID': ['111'], 'jobparams': ['工作中'], 'BatchYear': ['2018']}
+Mon 09 Apr 2018 10:13:42 INFO views.py 73 49636 30732 爬取信用信息
+Mon 09 Apr 2018 10:13:42 INFO views.py 77 49636 30732 任务信息接收成功
+Mon 09 Apr 2018 10:13:42 INFO views.py 102 49636 30732 添加任务到数据库
+Mon 09 Apr 2018 10:13:42 INFO views.py 106 49636 30732 任务添加成功,开始爬取
+Mon 09 Apr 2018 10:18:02 INFO views.py 29 48508 30732 开始接受请求
+Mon 09 Apr 2018 10:18:02 INFO views.py 32 48508 30732 接受请求成功
+Mon 09 Apr 2018 10:18:02 INFO views.py 33 48508 30732 {'CustomerID': ['0'], 'TaxId': ['91440300MA5EQUCD5J'], 'jobname': ['工程1'], 'TaxPwd': ['10716674'], 'BatchMonth': ['1'], 'Type': ['CUSTOMERINFO'], 'CompanyID': ['0'], 'BatchID': ['111'], 'jobparams': ['工作中'], 'BatchYear': ['2018']}
+Mon 09 Apr 2018 10:18:02 INFO views.py 73 48508 30732 爬取信用信息
+Mon 09 Apr 2018 10:18:02 INFO views.py 77 48508 30732 任务信息接收成功
+Mon 09 Apr 2018 10:18:02 INFO views.py 102 48508 30732 添加任务到数据库
+Mon 09 Apr 2018 10:18:02 INFO views.py 106 48508 30732 任务添加成功,开始爬取
+Mon 09 Apr 2018 10:21:15 INFO views.py 29 54720 30732 开始接受请求
+Mon 09 Apr 2018 10:21:15 INFO views.py 32 54720 30732 接受请求成功
+Mon 09 Apr 2018 10:21:15 INFO views.py 33 54720 30732 {'CustomerID': ['0'], 'TaxId': ['440300692516197'], 'jobname': ['工程1'], 'TaxPwd': ['27930462'], 'BatchMonth': ['1'], 'Type': ['CUSTOMERINFO'], 'CompanyID': ['0'], 'BatchID': ['111'], 'jobparams': ['工作中'], 'BatchYear': ['2018']}
+Mon 09 Apr 2018 10:21:15 INFO views.py 73 54720 30732 爬取信用信息
+Mon 09 Apr 2018 10:21:15 INFO views.py 77 54720 30732 任务信息接收成功
+Mon 09 Apr 2018 10:21:15 INFO views.py 102 54720 30732 添加任务到数据库
+Mon 09 Apr 2018 10:21:16 INFO views.py 106 54720 30732 任务添加成功,开始爬取
+Mon 09 Apr 2018 10:28:02 INFO views.py 29 46092 30732 开始接受请求
+Mon 09 Apr 2018 10:28:02 INFO views.py 32 46092 30732 接受请求成功
+Mon 09 Apr 2018 10:28:02 INFO views.py 33 46092 30732 {'CustomerID': ['0'], 'TaxId': ['440300692516197'], 'BatchMonth': ['1'], 'TaxPwd': ['27930462'], 'jobname': ['工程1'], 'Type': ['CUSTOMERINFO'], 'CompanyID': ['0'], 'BatchID': ['111'], 'jobparams': ['工作中'], 'BatchYear': ['2018']}
+Mon 09 Apr 2018 10:28:02 INFO views.py 73 46092 30732 爬取信用信息
+Mon 09 Apr 2018 10:28:02 INFO views.py 77 46092 30732 任务信息接收成功
+Mon 09 Apr 2018 10:28:02 INFO views.py 102 46092 30732 添加任务到数据库
+Mon 09 Apr 2018 10:28:02 INFO views.py 106 46092 30732 任务添加成功,开始爬取
+Mon 09 Apr 2018 10:29:34 INFO views.py 29 54368 30732 开始接受请求
+Mon 09 Apr 2018 10:29:34 INFO views.py 32 54368 30732 接受请求成功
+Mon 09 Apr 2018 10:29:34 INFO views.py 33 54368 30732 {'CustomerID': ['0'], 'TaxId': ['440300692516197'], 'jobname': ['工程1'], 'TaxPwd': ['27930462'], 'BatchMonth': ['1'], 'Type': ['CUSTOMERINFO'], 'CompanyID': ['0'], 'BatchID': ['111'], 'jobparams': ['工作中'], 'BatchYear': ['2018']}
+Mon 09 Apr 2018 10:29:34 INFO views.py 73 54368 30732 爬取信用信息
+Mon 09 Apr 2018 10:29:34 INFO views.py 77 54368 30732 任务信息接收成功
+Mon 09 Apr 2018 10:29:34 INFO views.py 102 54368 30732 添加任务到数据库
+Mon 09 Apr 2018 10:29:34 INFO views.py 106 54368 30732 任务添加成功,开始爬取
+Fri 13 Apr 2018 18:40:05 INFO views.py 29 90128 88044 开始接受请求
+Fri 13 Apr 2018 18:40:05 INFO views.py 32 90128 88044 接受请求成功
+Fri 13 Apr 2018 18:40:05 INFO views.py 33 90128 88044 {'BatchYear': ['2018'], 'jobparams': ['工作中'], 'CustomerID': ['0'], 'CompanyID': ['0'], 'TaxPwd': ['27930462'], 'BatchID': ['111'], 'BatchMonth': ['1'], 'jobname': ['工程1'], 'TaxId': ['440300692516197'], 'Type': ['CUSTOMERINFO']}
+Fri 13 Apr 2018 18:40:05 INFO views.py 73 90128 88044 爬取信用信息
+Fri 13 Apr 2018 18:40:05 INFO views.py 77 90128 88044 任务信息接收成功
+Fri 13 Apr 2018 18:40:05 INFO views.py 102 90128 88044 添加任务到数据库
+Fri 13 Apr 2018 18:40:05 INFO views.py 106 90128 88044 任务添加成功,开始爬取
+Fri 13 Apr 2018 18:40:09 WARNING views.py 243 90128 88044 Error 10061 connecting to localhost:6379. 由于目标计算机积极拒绝，无法连接。.
+Fri 13 Apr 2018 18:40:52 INFO views.py 29 82368 90944 开始接受请求
+Fri 13 Apr 2018 18:40:54 INFO views.py 32 82368 90944 接受请求成功
+Fri 13 Apr 2018 18:40:54 INFO views.py 33 82368 90944 {'jobparams': ['工作中'], 'jobname': ['工程1'], 'BatchID': ['111'], 'BatchYear': ['2018'], 'Type': ['CUSTOMERINFO'], 'BatchMonth': ['1'], 'CompanyID': ['0'], 'TaxPwd': ['27930462'], 'CustomerID': ['0'], 'TaxId': ['440300692516197']}
+Fri 13 Apr 2018 18:40:56 INFO views.py 73 82368 90944 爬取信用信息
+Fri 13 Apr 2018 18:40:57 INFO views.py 77 82368 90944 任务信息接收成功
+Fri 13 Apr 2018 18:41:10 INFO views.py 102 82368 90944 添加任务到数据库
+Fri 13 Apr 2018 18:41:11 INFO views.py 106 82368 90944 任务添加成功,开始爬取
+Fri 13 Apr 2018 18:42:12 INFO views.py 29 90132 90576 开始接受请求
+Fri 13 Apr 2018 18:42:12 INFO views.py 32 90132 90576 接受请求成功
+Fri 13 Apr 2018 18:42:12 INFO views.py 33 90132 90576 {'BatchID': ['111'], 'TaxPwd': ['27930462'], 'TaxId': ['440300692516197'], 'jobparams': ['工作中'], 'BatchYear': ['2018'], 'CompanyID': ['0'], 'Type': ['CUSTOMERINFO'], 'jobname': ['工程1'], 'BatchMonth': ['1'], 'CustomerID': ['0']}
+Fri 13 Apr 2018 18:42:12 INFO views.py 73 90132 90576 爬取信用信息
+Fri 13 Apr 2018 18:42:12 INFO views.py 77 90132 90576 任务信息接收成功
+Fri 13 Apr 2018 18:42:12 INFO views.py 102 90132 90576 添加任务到数据库
+Fri 13 Apr 2018 18:42:12 INFO views.py 106 90132 90576 任务添加成功,开始爬取
+Fri 13 Apr 2018 18:56:03 INFO views.py 29 90540 90576 开始接受请求
+Fri 13 Apr 2018 18:56:03 INFO views.py 32 90540 90576 接受请求成功
+Fri 13 Apr 2018 18:56:03 INFO views.py 33 90540 90576 {'BatchID': ['111'], 'TaxPwd': ['abcd1234'], 'TaxId': ['440300692516197'], 'jobparams': ['工作中'], 'BatchYear': ['2018'], 'CompanyID': ['0'], 'Type': ['CUSTOMERINFO'], 'jobname': ['工程1'], 'BatchMonth': ['1'], 'CustomerID': ['0'], 'Request': ['登录账号：13590240680 密码：abcd1234']}
+Fri 13 Apr 2018 18:56:03 INFO views.py 73 90540 90576 爬取信用信息
+Fri 13 Apr 2018 18:56:03 INFO views.py 77 90540 90576 任务信息接收成功
+Fri 13 Apr 2018 18:56:03 INFO views.py 102 90540 90576 添加任务到数据库
+Fri 13 Apr 2018 18:56:03 INFO views.py 106 90540 90576 任务添加成功,开始爬取
+Fri 13 Apr 2018 18:56:35 INFO views.py 29 87344 90576 开始接受请求
+Fri 13 Apr 2018 18:56:35 INFO views.py 32 87344 90576 接受请求成功
+Fri 13 Apr 2018 18:56:35 INFO views.py 33 87344 90576 {'Type': ['CUSTOMERINFO'], 'TaxPwd': ['abcd1234'], 'TaxId': ['440300692516197'], 'jobparams': ['工作中'], 'BatchYear': ['2018'], 'CompanyID': ['0'], 'BatchID': ['111'], 'jobname': ['工程1'], 'BatchMonth': ['1'], 'CustomerID': ['0'], 'Request': ['登录账号：13590240680 密码：abcd1234']}
+Fri 13 Apr 2018 18:56:35 INFO views.py 73 87344 90576 爬取信用信息
+Fri 13 Apr 2018 18:56:35 INFO views.py 77 87344 90576 任务信息接收成功
+Fri 13 Apr 2018 18:56:35 INFO views.py 102 87344 90576 添加任务到数据库
+Fri 13 Apr 2018 18:56:35 INFO views.py 106 87344 90576 任务添加成功,开始爬取
+Fri 13 Apr 2018 18:57:22 INFO views.py 29 89656 90576 开始接受请求
+Fri 13 Apr 2018 18:57:22 INFO views.py 32 89656 90576 接受请求成功
+Fri 13 Apr 2018 18:57:22 INFO views.py 33 89656 90576 {'Type': ['CUSTOMERINFO'], 'TaxPwd': ['abcd1234'], 'TaxId': ['440300692516197'], 'jobparams': ['工作中'], 'BatchYear': ['2018'], 'CompanyID': ['0'], 'BatchID': ['111'], 'jobname': ['工程1'], 'BatchMonth': ['1'], 'CustomerID': ['0'], 'Request': ['登录账号：13590240680 密码：abcd1234']}
+Fri 13 Apr 2018 18:57:22 INFO views.py 73 89656 90576 爬取信用信息
+Fri 13 Apr 2018 18:57:22 INFO views.py 77 89656 90576 任务信息接收成功
+Fri 13 Apr 2018 18:57:22 INFO views.py 102 89656 90576 添加任务到数据库
+Fri 13 Apr 2018 18:57:22 INFO views.py 106 89656 90576 任务添加成功,开始爬取
+Fri 13 Apr 2018 18:59:14 INFO views.py 29 74384 90576 开始接受请求
+Fri 13 Apr 2018 18:59:14 INFO views.py 32 74384 90576 接受请求成功
+Fri 13 Apr 2018 18:59:14 INFO views.py 33 74384 90576 {'BatchID': ['111'], 'TaxPwd': ['abcd1234'], 'TaxId': ['440300692516197'], 'jobparams': ['工作中'], 'BatchYear': ['2018'], 'CompanyID': ['0'], 'Type': ['CUSTOMERINFO'], 'jobname': ['工程1'], 'BatchMonth': ['1'], 'CustomerID': ['0'], 'Request': ['登录账号：13590240680 密码：abcd1234']}
+Fri 13 Apr 2018 18:59:14 INFO views.py 73 74384 90576 爬取信用信息
+Fri 13 Apr 2018 18:59:14 INFO views.py 77 74384 90576 任务信息接收成功
+Fri 13 Apr 2018 18:59:14 INFO views.py 102 74384 90576 添加任务到数据库
+Fri 13 Apr 2018 18:59:14 INFO views.py 106 74384 90576 任务添加成功,开始爬取
+Fri 13 Apr 2018 18:59:24 INFO views.py 29 88228 90576 开始接受请求
+Fri 13 Apr 2018 18:59:24 INFO views.py 32 88228 90576 接受请求成功
+Fri 13 Apr 2018 18:59:24 INFO views.py 33 88228 90576 {'Type': ['CUSTOMERINFO'], 'TaxPwd': ['abcd1234'], 'TaxId': ['440300692516197'], 'jobparams': ['工作中'], 'BatchYear': ['2018'], 'CompanyID': ['0'], 'BatchID': ['111'], 'jobname': ['工程1'], 'BatchMonth': ['1'], 'CustomerID': ['0'], 'Request': ['登录账号：13590240680 密码：abcd1234']}
+Fri 13 Apr 2018 18:59:24 INFO views.py 73 88228 90576 爬取信用信息
+Fri 13 Apr 2018 18:59:24 INFO views.py 77 88228 90576 任务信息接收成功
+Fri 13 Apr 2018 18:59:24 INFO views.py 102 88228 90576 添加任务到数据库
+Fri 13 Apr 2018 18:59:24 INFO views.py 106 88228 90576 任务添加成功,开始爬取
+Fri 13 Apr 2018 18:59:25 INFO views.py 29 90540 90576 开始接受请求
+Fri 13 Apr 2018 18:59:25 INFO views.py 32 90540 90576 接受请求成功
+Fri 13 Apr 2018 18:59:25 INFO views.py 33 90540 90576 {'BatchID': ['111'], 'TaxPwd': ['abcd1234'], 'TaxId': ['440300692516197'], 'jobparams': ['工作中'], 'BatchYear': ['2018'], 'CompanyID': ['0'], 'Type': ['CUSTOMERINFO'], 'jobname': ['工程1'], 'BatchMonth': ['1'], 'CustomerID': ['0'], 'Request': ['登录账号：13590240680 密码：abcd1234']}
+Fri 13 Apr 2018 18:59:25 INFO views.py 73 90540 90576 爬取信用信息
+Fri 13 Apr 2018 18:59:25 INFO views.py 77 90540 90576 任务信息接收成功
+Fri 13 Apr 2018 18:59:25 INFO views.py 102 90540 90576 添加任务到数据库
+Fri 13 Apr 2018 18:59:25 INFO views.py 106 90540 90576 任务添加成功,开始爬取
+Fri 13 Apr 2018 18:59:27 INFO views.py 29 79936 90576 开始接受请求
+Fri 13 Apr 2018 18:59:27 INFO views.py 32 79936 90576 接受请求成功
+Fri 13 Apr 2018 18:59:27 INFO views.py 33 79936 90576 {'BatchID': ['111'], 'TaxPwd': ['abcd1234'], 'TaxId': ['440300692516197'], 'jobparams': ['工作中'], 'BatchYear': ['2018'], 'CompanyID': ['0'], 'Type': ['CUSTOMERINFO'], 'jobname': ['工程1'], 'BatchMonth': ['1'], 'CustomerID': ['0'], 'Request': ['登录账号：13590240680 密码：abcd1234']}
+Fri 13 Apr 2018 18:59:27 INFO views.py 73 79936 90576 爬取信用信息
+Fri 13 Apr 2018 18:59:27 INFO views.py 77 79936 90576 任务信息接收成功
+Fri 13 Apr 2018 18:59:27 INFO views.py 102 79936 90576 添加任务到数据库
+Fri 13 Apr 2018 18:59:27 INFO views.py 106 79936 90576 任务添加成功,开始爬取
+Fri 13 Apr 2018 19:22:27 INFO views.py 29 84796 90576 开始接受请求
+Fri 13 Apr 2018 19:22:27 INFO views.py 32 84796 90576 接受请求成功
+Fri 13 Apr 2018 19:22:27 INFO views.py 33 84796 90576 {'Type': ['CUSTOMERINFO'], 'TaxPwd': ['abcd1234'], 'TaxId': ['440300692516197'], 'jobparams': ['工作中'], 'BatchYear': ['2018'], 'CompanyID': ['0'], 'BatchID': ['111'], 'jobname': ['工程1'], 'BatchMonth': ['1'], 'CustomerID': ['0'], 'Request': ['登录账号：13590240680 密码：abcd1234']}
+Fri 13 Apr 2018 19:22:27 INFO views.py 73 84796 90576 爬取信用信息
+Fri 13 Apr 2018 19:22:27 INFO views.py 77 84796 90576 任务信息接收成功
+Fri 13 Apr 2018 19:22:27 INFO views.py 102 84796 90576 添加任务到数据库
+Fri 13 Apr 2018 19:22:27 INFO views.py 106 84796 90576 任务添加成功,开始爬取
+Fri 13 Apr 2018 19:29:07 INFO views.py 29 86900 90576 开始接受请求
+Fri 13 Apr 2018 19:29:07 INFO views.py 32 86900 90576 接受请求成功
+Fri 13 Apr 2018 19:29:07 INFO views.py 33 86900 90576 {'BatchID': ['111'], 'TaxPwd': ['abcd1234'], 'TaxId': ['440300692516197'], 'jobparams': ['工作中'], 'BatchYear': ['2018'], 'CompanyID': ['0'], 'Type': ['CUSTOMERINFO'], 'jobname': ['工程1'], 'BatchMonth': ['1'], 'CustomerID': ['0'], 'Request': ['登录账号：13590240680 密码：abcd1234']}
+Fri 13 Apr 2018 19:29:07 INFO views.py 73 86900 90576 爬取信用信息
+Fri 13 Apr 2018 19:29:07 INFO views.py 77 86900 90576 任务信息接收成功
+Fri 13 Apr 2018 19:29:07 INFO views.py 102 86900 90576 添加任务到数据库
+Fri 13 Apr 2018 19:29:07 INFO views.py 106 86900 90576 任务添加成功,开始爬取
+Fri 13 Apr 2018 19:29:09 INFO views.py 29 92072 90576 开始接受请求
+Fri 13 Apr 2018 19:29:09 INFO views.py 32 92072 90576 接受请求成功
+Fri 13 Apr 2018 19:29:09 INFO views.py 33 92072 90576 {'BatchID': ['111'], 'TaxPwd': ['abcd1234'], 'TaxId': ['440300692516197'], 'jobparams': ['工作中'], 'BatchYear': ['2018'], 'CompanyID': ['0'], 'Type': ['CUSTOMERINFO'], 'jobname': ['工程1'], 'BatchMonth': ['1'], 'CustomerID': ['0'], 'Request': ['登录账号：13590240680 密码：abcd1234']}
+Fri 13 Apr 2018 19:29:09 INFO views.py 73 92072 90576 爬取信用信息
+Fri 13 Apr 2018 19:29:09 INFO views.py 77 92072 90576 任务信息接收成功
+Fri 13 Apr 2018 19:29:09 INFO views.py 102 92072 90576 添加任务到数据库
+Fri 13 Apr 2018 19:29:09 INFO views.py 106 92072 90576 任务添加成功,开始爬取
+Fri 13 Apr 2018 19:29:11 INFO views.py 29 84956 90576 开始接受请求
+Fri 13 Apr 2018 19:29:11 INFO views.py 32 84956 90576 接受请求成功
+Fri 13 Apr 2018 19:29:11 INFO views.py 33 84956 90576 {'BatchID': ['111'], 'TaxPwd': ['abcd1234'], 'TaxId': ['440300692516197'], 'jobparams': ['工作中'], 'BatchYear': ['2018'], 'CompanyID': ['0'], 'Type': ['CUSTOMERINFO'], 'jobname': ['工程1'], 'BatchMonth': ['1'], 'CustomerID': ['0'], 'Request': ['登录账号：13590240680 密码：abcd1234']}
+Fri 13 Apr 2018 19:29:11 INFO views.py 73 84956 90576 爬取信用信息
+Fri 13 Apr 2018 19:29:11 INFO views.py 77 84956 90576 任务信息接收成功
+Fri 13 Apr 2018 19:29:11 INFO views.py 102 84956 90576 添加任务到数据库
+Fri 13 Apr 2018 19:29:11 INFO views.py 106 84956 90576 任务添加成功,开始爬取
+Fri 13 Apr 2018 19:36:57 INFO views.py 29 82252 90576 开始接受请求
+Fri 13 Apr 2018 19:36:57 INFO views.py 32 82252 90576 接受请求成功
+Fri 13 Apr 2018 19:36:57 INFO views.py 33 82252 90576 {'Type': ['CUSTOMERINFO'], 'TaxPwd': ['abcd1234'], 'TaxId': ['440300692516197'], 'jobparams': ['工作中'], 'BatchYear': ['2018'], 'CompanyID': ['0'], 'BatchID': ['111'], 'jobname': ['工程1'], 'BatchMonth': ['1'], 'CustomerID': ['0'], 'Request': ['登录账号：13590240680 密码：abcd1234']}
+Fri 13 Apr 2018 19:36:57 INFO views.py 73 82252 90576 爬取信用信息
+Fri 13 Apr 2018 19:36:57 INFO views.py 77 82252 90576 任务信息接收成功
+Fri 13 Apr 2018 19:36:57 INFO views.py 102 82252 90576 添加任务到数据库
+Fri 13 Apr 2018 19:36:58 INFO views.py 106 82252 90576 任务添加成功,开始爬取
+Fri 13 Apr 2018 19:39:31 INFO views.py 29 90032 90576 开始接受请求
+Fri 13 Apr 2018 19:39:31 INFO views.py 32 90032 90576 接受请求成功
+Fri 13 Apr 2018 19:39:31 INFO views.py 33 90032 90576 {'Type': ['CUSTOMERINFO'], 'TaxPwd': ['abcd1234'], 'TaxId': ['440300692516197'], 'jobparams': ['工作中'], 'BatchYear': ['2018'], 'CompanyID': ['0'], 'BatchID': ['111'], 'jobname': ['工程1'], 'BatchMonth': ['1'], 'CustomerID': ['0'], 'Request': ['登录账号：13590240680 密码：abcd1234']}
+Fri 13 Apr 2018 19:39:31 INFO views.py 73 90032 90576 爬取信用信息
+Fri 13 Apr 2018 19:39:31 INFO views.py 77 90032 90576 任务信息接收成功
+Fri 13 Apr 2018 19:39:31 INFO views.py 102 90032 90576 添加任务到数据库
+Fri 13 Apr 2018 19:39:31 INFO views.py 106 90032 90576 任务添加成功,开始爬取
+Sat 14 Apr 2018 16:31:31 INFO views.py 29 121512 90576 开始接受请求
+Sat 14 Apr 2018 16:31:31 INFO views.py 32 121512 90576 接受请求成功
+Sat 14 Apr 2018 16:31:31 INFO views.py 33 121512 90576 {'Type': ['CUSTOMERINFO'], 'TaxPwd': ['abcd1234'], 'TaxId': ['440300692516197'], 'jobparams': ['工作中'], 'BatchYear': ['2018'], 'CompanyID': ['0'], 'BatchID': ['111'], 'jobname': ['工程1'], 'BatchMonth': ['1'], 'CustomerID': ['0'], 'Request': ['登录账号：13590240680 密码：abcd1234']}
+Sat 14 Apr 2018 16:31:31 INFO views.py 73 121512 90576 爬取信用信息
+Sat 14 Apr 2018 16:31:31 INFO views.py 77 121512 90576 任务信息接收成功
+Sat 14 Apr 2018 16:31:31 INFO views.py 102 121512 90576 添加任务到数据库
+Sat 14 Apr 2018 16:31:32 INFO views.py 106 121512 90576 任务添加成功,开始爬取
+Sat 14 Apr 2018 16:34:12 INFO views.py 29 120388 90576 开始接受请求
+Sat 14 Apr 2018 16:34:12 INFO views.py 32 120388 90576 接受请求成功
+Sat 14 Apr 2018 16:34:12 INFO views.py 33 120388 90576 {'BatchID': ['111'], 'TaxPwd': ['abcd1234'], 'TaxId': ['440300692516197'], 'jobparams': ['工作中'], 'BatchYear': ['2018'], 'CompanyID': ['0'], 'Type': ['CUSTOMERINFO'], 'jobname': ['工程1'], 'BatchMonth': ['1'], 'CustomerID': ['0'], 'Request': ['登录账号：13590240680 密码：abcd1234']}
+Sat 14 Apr 2018 16:34:12 INFO views.py 73 120388 90576 爬取信用信息
+Sat 14 Apr 2018 16:34:12 INFO views.py 77 120388 90576 任务信息接收成功
+Sat 14 Apr 2018 16:34:12 INFO views.py 102 120388 90576 添加任务到数据库
+Sat 14 Apr 2018 16:34:13 INFO views.py 106 120388 90576 任务添加成功,开始爬取
+Sat 14 Apr 2018 16:58:56 INFO views.py 29 121260 90576 开始接受请求
+Sat 14 Apr 2018 16:58:56 INFO views.py 32 121260 90576 接受请求成功
+Sat 14 Apr 2018 16:58:56 INFO views.py 33 121260 90576 {'Type': ['CUSTOMERINFO'], 'TaxPwd': ['abcd1234'], 'TaxId': ['440300692516197'], 'jobparams': ['工作中'], 'BatchYear': ['2018'], 'CompanyID': ['0'], 'BatchID': ['111'], 'jobname': ['工程1'], 'BatchMonth': ['1'], 'CustomerID': ['0'], 'Request': ['登录账号：13590240680 密码：abcd1234']}
+Sat 14 Apr 2018 16:58:56 INFO views.py 73 121260 90576 爬取信用信息
+Sat 14 Apr 2018 16:58:56 INFO views.py 77 121260 90576 任务信息接收成功
+Sat 14 Apr 2018 16:58:56 INFO views.py 102 121260 90576 添加任务到数据库
+Sat 14 Apr 2018 16:58:56 INFO views.py 106 121260 90576 任务添加成功,开始爬取
+Sat 14 Apr 2018 17:14:18 INFO views.py 29 119616 90576 开始接受请求
+Sat 14 Apr 2018 17:14:18 INFO views.py 32 119616 90576 接受请求成功
+Sat 14 Apr 2018 17:14:18 INFO views.py 33 119616 90576 {'BatchID': ['111'], 'TaxPwd': ['abcd1234'], 'TaxId': ['440300692516197'], 'jobparams': ['工作中'], 'BatchYear': ['2018'], 'CompanyID': ['0'], 'Type': ['CUSTOMERINFO'], 'jobname': ['工程1'], 'BatchMonth': ['1'], 'CustomerID': ['0'], 'Request': ['登录账号：13590240680 密码：abcd1234']}
+Sat 14 Apr 2018 17:14:18 INFO views.py 73 119616 90576 爬取信用信息
+Sat 14 Apr 2018 17:14:18 INFO views.py 77 119616 90576 任务信息接收成功
+Sat 14 Apr 2018 17:14:18 INFO views.py 102 119616 90576 添加任务到数据库
+Sat 14 Apr 2018 17:14:18 INFO views.py 106 119616 90576 任务添加成功,开始爬取
+Sat 14 Apr 2018 17:15:06 INFO views.py 29 114612 90576 开始接受请求
+Sat 14 Apr 2018 17:15:06 INFO views.py 32 114612 90576 接受请求成功
+Sat 14 Apr 2018 17:15:06 INFO views.py 33 114612 90576 {'BatchID': ['111'], 'TaxPwd': ['abcd1234'], 'TaxId': ['440300692516197'], 'jobparams': ['工作中'], 'BatchYear': ['2018'], 'CompanyID': ['0'], 'Type': ['CUSTOMERINFO'], 'jobname': ['工程1'], 'BatchMonth': ['1'], 'CustomerID': ['0'], 'Request': ['登录账号：13590240680 密码：abcd1234']}
+Sat 14 Apr 2018 17:15:06 INFO views.py 73 114612 90576 爬取信用信息
+Sat 14 Apr 2018 17:15:06 INFO views.py 77 114612 90576 任务信息接收成功
+Sat 14 Apr 2018 17:15:06 INFO views.py 102 114612 90576 添加任务到数据库
+Sat 14 Apr 2018 17:15:06 INFO views.py 106 114612 90576 任务添加成功,开始爬取
+Sat 14 Apr 2018 17:28:08 INFO views.py 29 119648 90576 开始接受请求
+Sat 14 Apr 2018 17:28:08 INFO views.py 32 119648 90576 接受请求成功
+Sat 14 Apr 2018 17:28:08 INFO views.py 33 119648 90576 {'Type': ['CUSTOMERINFO'], 'TaxPwd': ['abcd1234'], 'TaxId': ['440300692516197'], 'jobparams': ['工作中'], 'BatchYear': ['2018'], 'CompanyID': ['0'], 'BatchID': ['111'], 'jobname': ['工程1'], 'BatchMonth': ['1'], 'CustomerID': ['0'], 'Request': ['登录账号：13590240680 密码：abcd1234']}
+Sat 14 Apr 2018 17:28:08 INFO views.py 73 119648 90576 爬取信用信息
+Sat 14 Apr 2018 17:28:08 INFO views.py 77 119648 90576 任务信息接收成功
+Sat 14 Apr 2018 17:28:08 INFO views.py 102 119648 90576 添加任务到数据库
+Sat 14 Apr 2018 17:28:08 INFO views.py 106 119648 90576 任务添加成功,开始爬取
+Sat 14 Apr 2018 17:29:00 INFO views.py 29 120676 90576 开始接受请求
+Sat 14 Apr 2018 17:29:00 INFO views.py 32 120676 90576 接受请求成功
+Sat 14 Apr 2018 17:29:00 INFO views.py 33 120676 90576 {'Type': ['CUSTOMERINFO'], 'TaxPwd': ['abcd1234'], 'TaxId': ['440300692516197'], 'jobparams': ['工作中'], 'BatchYear': ['2018'], 'CompanyID': ['0'], 'BatchID': ['111'], 'jobname': ['工程1'], 'BatchMonth': ['1'], 'CustomerID': ['0'], 'Request': ['登录账号：13590240680 密码：abcd1234']}
+Sat 14 Apr 2018 17:29:00 INFO views.py 73 120676 90576 爬取信用信息
+Sat 14 Apr 2018 17:29:00 INFO views.py 77 120676 90576 任务信息接收成功
+Sat 14 Apr 2018 17:29:00 INFO views.py 102 120676 90576 添加任务到数据库
+Sat 14 Apr 2018 17:29:00 INFO views.py 106 120676 90576 任务添加成功,开始爬取
+Sat 14 Apr 2018 17:29:59 INFO views.py 29 94464 90576 开始接受请求
+Sat 14 Apr 2018 17:29:59 INFO views.py 32 94464 90576 接受请求成功
+Sat 14 Apr 2018 17:29:59 INFO views.py 33 94464 90576 {'Type': ['CUSTOMERINFO'], 'TaxPwd': ['abcd1234'], 'TaxId': ['440300692516197'], 'jobparams': ['工作中'], 'BatchYear': ['2018'], 'CompanyID': ['0'], 'BatchID': ['111'], 'jobname': ['工程1'], 'BatchMonth': ['1'], 'CustomerID': ['0'], 'Request': ['登录账号：13590240680 密码：abcd1234']}
+Sat 14 Apr 2018 17:29:59 INFO views.py 73 94464 90576 爬取信用信息
+Sat 14 Apr 2018 17:29:59 INFO views.py 77 94464 90576 任务信息接收成功
+Sat 14 Apr 2018 17:29:59 INFO views.py 102 94464 90576 添加任务到数据库
+Sat 14 Apr 2018 17:29:59 INFO views.py 106 94464 90576 任务添加成功,开始爬取
+Sat 14 Apr 2018 17:39:57 INFO views.py 29 99572 90576 开始接受请求
+Sat 14 Apr 2018 17:39:57 INFO views.py 32 99572 90576 接受请求成功
+Sat 14 Apr 2018 17:39:57 INFO views.py 33 99572 90576 {'BatchID': ['111'], 'TaxPwd': ['abcd1234'], 'TaxId': ['440300692516197'], 'jobparams': ['工作中'], 'BatchYear': ['2018'], 'CompanyID': ['0'], 'Type': ['CUSTOMERINFO'], 'jobname': ['工程1'], 'BatchMonth': ['1'], 'CustomerID': ['0'], 'Request': ['登录账号：13590240680 密码：abcd1234']}
+Sat 14 Apr 2018 17:39:57 INFO views.py 73 99572 90576 爬取信用信息
+Sat 14 Apr 2018 17:39:57 INFO views.py 77 99572 90576 任务信息接收成功
+Sat 14 Apr 2018 17:39:57 INFO views.py 102 99572 90576 添加任务到数据库
+Sat 14 Apr 2018 17:39:57 INFO views.py 106 99572 90576 任务添加成功,开始爬取
+Sat 14 Apr 2018 18:16:35 INFO views.py 29 123676 90576 开始接受请求
+Sat 14 Apr 2018 18:16:35 INFO views.py 32 123676 90576 接受请求成功
+Sat 14 Apr 2018 18:16:35 INFO views.py 33 123676 90576 {'BatchID': ['111'], 'TaxPwd': ['abcd1234'], 'TaxId': ['440300692516197'], 'jobparams': ['工作中'], 'BatchYear': ['2018'], 'CompanyID': ['0'], 'Type': ['CUSTOMERINFO'], 'jobname': ['工程1'], 'BatchMonth': ['1'], 'CustomerID': ['0'], 'Request': ['登录账号：13590240680 密码：abcd1234']}
+Sat 14 Apr 2018 18:16:35 INFO views.py 73 123676 90576 爬取信用信息
+Sat 14 Apr 2018 18:16:35 INFO views.py 77 123676 90576 任务信息接收成功
+Sat 14 Apr 2018 18:16:35 INFO views.py 102 123676 90576 添加任务到数据库
+Sat 14 Apr 2018 18:16:35 INFO views.py 106 123676 90576 任务添加成功,开始爬取
+Sat 14 Apr 2018 18:17:09 INFO views.py 29 123584 90576 开始接受请求
+Sat 14 Apr 2018 18:17:09 INFO views.py 32 123584 90576 接受请求成功
+Sat 14 Apr 2018 18:17:09 INFO views.py 33 123584 90576 {'BatchID': ['111'], 'TaxPwd': ['abcd1234'], 'TaxId': ['440300692516197'], 'jobparams': ['工作中'], 'BatchYear': ['2018'], 'CompanyID': ['0'], 'Type': ['CUSTOMERINFO'], 'jobname': ['工程1'], 'BatchMonth': ['1'], 'CustomerID': ['0'], 'Request': ['登录账号：13590240680 密码：abcd1234']}
+Sat 14 Apr 2018 18:17:09 INFO views.py 73 123584 90576 爬取信用信息
+Sat 14 Apr 2018 18:17:09 INFO views.py 77 123584 90576 任务信息接收成功
+Sat 14 Apr 2018 18:17:09 INFO views.py 102 123584 90576 添加任务到数据库
+Sat 14 Apr 2018 18:17:09 INFO views.py 106 123584 90576 任务添加成功,开始爬取
+Sat 14 Apr 2018 18:18:10 INFO views.py 29 123072 90576 开始接受请求
+Sat 14 Apr 2018 18:18:10 INFO views.py 32 123072 90576 接受请求成功
+Sat 14 Apr 2018 18:18:10 INFO views.py 33 123072 90576 {'Type': ['CUSTOMERINFO'], 'TaxPwd': ['abcd1234'], 'TaxId': ['440300692516197'], 'jobparams': ['工作中'], 'BatchYear': ['2018'], 'CompanyID': ['0'], 'BatchID': ['111'], 'jobname': ['工程1'], 'BatchMonth': ['1'], 'CustomerID': ['0'], 'Request': ['登录账号：13590240680 密码：abcd1234']}
+Sat 14 Apr 2018 18:18:10 INFO views.py 73 123072 90576 爬取信用信息
+Sat 14 Apr 2018 18:18:10 INFO views.py 77 123072 90576 任务信息接收成功
+Sat 14 Apr 2018 18:18:10 INFO views.py 102 123072 90576 添加任务到数据库
+Sat 14 Apr 2018 18:18:10 INFO views.py 106 123072 90576 任务添加成功,开始爬取
+Sat 14 Apr 2018 19:13:26 INFO views.py 29 125008 90576 开始接受请求
+Sat 14 Apr 2018 19:13:26 INFO views.py 32 125008 90576 接受请求成功
+Sat 14 Apr 2018 19:13:26 INFO views.py 33 125008 90576 {'BatchID': ['111'], 'TaxPwd': ['abcd1234'], 'TaxId': ['440300692516197'], 'jobparams': ['工作中'], 'BatchYear': ['2018'], 'CompanyID': ['0'], 'Type': ['CUSTOMERINFO'], 'jobname': ['工程1'], 'BatchMonth': ['1'], 'CustomerID': ['0'], 'Request': ['登录账号：13590240680 密码：abcd1234']}
+Sat 14 Apr 2018 19:13:26 INFO views.py 73 125008 90576 爬取信用信息
+Sat 14 Apr 2018 19:13:26 INFO views.py 77 125008 90576 任务信息接收成功
+Sat 14 Apr 2018 19:13:26 INFO views.py 102 125008 90576 添加任务到数据库
+Sat 14 Apr 2018 19:13:26 INFO views.py 106 125008 90576 任务添加成功,开始爬取
+Sat 14 Apr 2018 19:14:36 INFO views.py 29 88892 90576 开始接受请求
+Sat 14 Apr 2018 19:14:36 INFO views.py 32 88892 90576 接受请求成功
+Sat 14 Apr 2018 19:14:36 INFO views.py 33 88892 90576 {'Type': ['CUSTOMERINFO'], 'TaxPwd': ['abcd1234'], 'TaxId': ['440300692516197'], 'jobparams': ['工作中'], 'BatchYear': ['2018'], 'CompanyID': ['0'], 'BatchID': ['111'], 'jobname': ['工程1'], 'BatchMonth': ['1'], 'CustomerID': ['0'], 'Request': ['登录账号：13590240680 密码：abcd1234']}
+Sat 14 Apr 2018 19:14:36 INFO views.py 73 88892 90576 爬取信用信息
+Sat 14 Apr 2018 19:14:36 INFO views.py 77 88892 90576 任务信息接收成功
+Sat 14 Apr 2018 19:14:36 INFO views.py 102 88892 90576 添加任务到数据库
+Sat 14 Apr 2018 19:14:36 INFO views.py 106 88892 90576 任务添加成功,开始爬取
+Sat 14 Apr 2018 19:16:20 INFO views.py 29 125060 90576 开始接受请求
+Sat 14 Apr 2018 19:16:20 INFO views.py 32 125060 90576 接受请求成功
+Sat 14 Apr 2018 19:16:20 INFO views.py 33 125060 90576 {'BatchID': ['111'], 'TaxPwd': ['abcd1234'], 'TaxId': ['440300692516197'], 'jobparams': ['工作中'], 'BatchYear': ['2018'], 'CompanyID': ['0'], 'Type': ['CUSTOMERINFO'], 'jobname': ['工程1'], 'BatchMonth': ['1'], 'CustomerID': ['0'], 'Request': ['登录账号：13590240680 密码：abcd1234']}
+Sat 14 Apr 2018 19:16:20 INFO views.py 73 125060 90576 爬取信用信息
+Sat 14 Apr 2018 19:16:20 INFO views.py 77 125060 90576 任务信息接收成功
+Sat 14 Apr 2018 19:16:20 INFO views.py 102 125060 90576 添加任务到数据库
+Sat 14 Apr 2018 19:16:20 INFO views.py 106 125060 90576 任务添加成功,开始爬取
+Sat 14 Apr 2018 19:17:35 INFO views.py 29 125884 90576 开始接受请求
+Sat 14 Apr 2018 19:17:35 INFO views.py 32 125884 90576 接受请求成功
+Sat 14 Apr 2018 19:17:35 INFO views.py 33 125884 90576 {'BatchID': ['111'], 'TaxPwd': ['abcd1234'], 'TaxId': ['440300692516197'], 'jobparams': ['工作中'], 'BatchYear': ['2018'], 'CompanyID': ['0'], 'Type': ['CUSTOMERINFO'], 'jobname': ['工程1'], 'BatchMonth': ['1'], 'CustomerID': ['0'], 'Request': ['登录账号：13590240680 密码：abcd1234']}
+Sat 14 Apr 2018 19:17:35 INFO views.py 73 125884 90576 爬取信用信息
+Sat 14 Apr 2018 19:17:35 INFO views.py 77 125884 90576 任务信息接收成功
+Sat 14 Apr 2018 19:17:35 INFO views.py 102 125884 90576 添加任务到数据库
+Sat 14 Apr 2018 19:17:35 INFO views.py 106 125884 90576 任务添加成功,开始爬取
+Sat 14 Apr 2018 19:32:10 INFO views.py 29 125848 90576 开始接受请求
+Sat 14 Apr 2018 19:32:10 INFO views.py 32 125848 90576 接受请求成功
+Sat 14 Apr 2018 19:32:10 INFO views.py 33 125848 90576 {'Type': ['CUSTOMERINFO'], 'TaxPwd': ['abcd1234'], 'TaxId': ['440300692516197'], 'jobparams': ['工作中'], 'BatchYear': ['2018'], 'CompanyID': ['0'], 'BatchID': ['111'], 'jobname': ['工程1'], 'BatchMonth': ['1'], 'CustomerID': ['0'], 'Request': ['登录账号：13590240680 密码：abcd1234']}
+Sat 14 Apr 2018 19:32:10 INFO views.py 73 125848 90576 爬取信用信息
+Sat 14 Apr 2018 19:32:10 INFO views.py 77 125848 90576 任务信息接收成功
+Sat 14 Apr 2018 19:32:10 INFO views.py 102 125848 90576 添加任务到数据库
+Sat 14 Apr 2018 19:32:10 INFO views.py 106 125848 90576 任务添加成功,开始爬取
+Sat 14 Apr 2018 19:34:00 INFO views.py 29 124232 90576 开始接受请求
+Sat 14 Apr 2018 19:34:00 INFO views.py 32 124232 90576 接受请求成功
+Sat 14 Apr 2018 19:34:00 INFO views.py 33 124232 90576 {'BatchID': ['111'], 'TaxPwd': ['abcd1234'], 'TaxId': ['440300692516197'], 'jobparams': ['工作中'], 'BatchYear': ['2018'], 'CompanyID': ['0'], 'Type': ['CUSTOMERINFO'], 'jobname': ['工程1'], 'BatchMonth': ['1'], 'CustomerID': ['0'], 'Request': ['登录账号：13590240680 密码：abcd1234']}
+Sat 14 Apr 2018 19:34:00 INFO views.py 73 124232 90576 爬取信用信息
+Sat 14 Apr 2018 19:34:00 INFO views.py 77 124232 90576 任务信息接收成功
+Sat 14 Apr 2018 19:34:00 INFO views.py 102 124232 90576 添加任务到数据库
+Sat 14 Apr 2018 19:34:00 INFO views.py 106 124232 90576 任务添加成功,开始爬取
+Sat 14 Apr 2018 19:34:15 INFO views.py 29 124380 90576 开始接受请求
+Sat 14 Apr 2018 19:34:15 INFO views.py 32 124380 90576 接受请求成功
+Sat 14 Apr 2018 19:34:15 INFO views.py 33 124380 90576 {'BatchID': ['111'], 'TaxPwd': ['abcd1234'], 'TaxId': ['440300692516197'], 'jobparams': ['工作中'], 'BatchYear': ['2018'], 'CompanyID': ['0'], 'Type': ['CUSTOMERINFO'], 'jobname': ['工程1'], 'BatchMonth': ['1'], 'CustomerID': ['0'], 'Request': ['登录账号：13590240680 密码：abcd1234']}
+Sat 14 Apr 2018 19:34:15 INFO views.py 73 124380 90576 爬取信用信息
+Sat 14 Apr 2018 19:34:15 INFO views.py 77 124380 90576 任务信息接收成功
+Sat 14 Apr 2018 19:34:15 INFO views.py 102 124380 90576 添加任务到数据库
+Sat 14 Apr 2018 19:34:15 INFO views.py 106 124380 90576 任务添加成功,开始爬取
+Sat 14 Apr 2018 19:35:06 INFO views.py 29 125240 90576 开始接受请求
+Sat 14 Apr 2018 19:35:06 INFO views.py 32 125240 90576 接受请求成功
+Sat 14 Apr 2018 19:35:06 INFO views.py 33 125240 90576 {'BatchID': ['111'], 'TaxPwd': ['abcd1234'], 'TaxId': ['440300692516197'], 'jobparams': ['工作中'], 'BatchYear': ['2018'], 'CompanyID': ['0'], 'Type': ['CUSTOMERINFO'], 'jobname': ['工程1'], 'BatchMonth': ['1'], 'CustomerID': ['0'], 'Request': ['登录账号：13590240680 密码：abcd1234']}
+Sat 14 Apr 2018 19:35:06 INFO views.py 73 125240 90576 爬取信用信息
+Sat 14 Apr 2018 19:35:06 INFO views.py 77 125240 90576 任务信息接收成功
+Sat 14 Apr 2018 19:35:06 INFO views.py 102 125240 90576 添加任务到数据库
+Sat 14 Apr 2018 19:35:06 INFO views.py 106 125240 90576 任务添加成功,开始爬取
+Sat 14 Apr 2018 19:47:06 INFO views.py 29 119732 90576 开始接受请求
+Sat 14 Apr 2018 19:47:06 INFO views.py 32 119732 90576 接受请求成功
+Sat 14 Apr 2018 19:47:06 INFO views.py 33 119732 90576 {'Type': ['CUSTOMERINFO'], 'TaxPwd': ['abcd1234'], 'TaxId': ['440300692516197'], 'jobparams': ['工作中'], 'BatchYear': ['2018'], 'CompanyID': ['0'], 'BatchID': ['111'], 'jobname': ['工程1'], 'BatchMonth': ['1'], 'CustomerID': ['0'], 'Request': ['登录账号：13590240680 密码：abcd1234']}
+Sat 14 Apr 2018 19:47:06 INFO views.py 73 119732 90576 爬取信用信息
+Sat 14 Apr 2018 19:47:06 INFO views.py 77 119732 90576 任务信息接收成功
+Sat 14 Apr 2018 19:47:06 INFO views.py 102 119732 90576 添加任务到数据库
+Sat 14 Apr 2018 19:47:06 INFO views.py 106 119732 90576 任务添加成功,开始爬取
+Sat 14 Apr 2018 19:54:17 INFO views.py 29 119324 90576 开始接受请求
+Sat 14 Apr 2018 19:54:17 INFO views.py 32 119324 90576 接受请求成功
+Sat 14 Apr 2018 19:54:17 INFO views.py 33 119324 90576 {'BatchID': ['111'], 'TaxPwd': ['abcd1234'], 'TaxId': ['440300692516197'], 'jobparams': ['工作中'], 'BatchYear': ['2018'], 'CompanyID': ['0'], 'Type': ['CUSTOMERINFO'], 'jobname': ['工程1'], 'BatchMonth': ['1'], 'CustomerID': ['0'], 'Request': ['登录账号：13590240680 密码：abcd1234']}
+Sat 14 Apr 2018 19:54:17 INFO views.py 73 119324 90576 爬取信用信息
+Sat 14 Apr 2018 19:54:17 INFO views.py 77 119324 90576 任务信息接收成功
+Sat 14 Apr 2018 19:54:17 INFO views.py 102 119324 90576 添加任务到数据库
+Sat 14 Apr 2018 19:54:17 INFO views.py 106 119324 90576 任务添加成功,开始爬取
+Sat 14 Apr 2018 21:09:04 INFO views.py 29 80808 90576 开始接受请求
+Sat 14 Apr 2018 21:09:04 INFO views.py 32 80808 90576 接受请求成功
+Sat 14 Apr 2018 21:09:04 INFO views.py 33 80808 90576 {'Type': ['CUSTOMERINFO'], 'TaxPwd': ['abcd1234'], 'TaxId': ['440300692516197'], 'jobparams': ['工作中'], 'BatchYear': ['2018'], 'CompanyID': ['0'], 'BatchID': ['111'], 'jobname': ['工程1'], 'BatchMonth': ['1'], 'CustomerID': ['0'], 'Request': ['登录账号：13590240680 密码：abcd1234']}
+Sat 14 Apr 2018 21:09:04 INFO views.py 73 80808 90576 爬取信用信息
+Sat 14 Apr 2018 21:09:04 INFO views.py 77 80808 90576 任务信息接收成功
+Sat 14 Apr 2018 21:09:04 INFO views.py 102 80808 90576 添加任务到数据库
+Sat 14 Apr 2018 21:09:04 INFO views.py 106 80808 90576 任务添加成功,开始爬取
+Sat 14 Apr 2018 21:09:46 INFO views.py 29 126340 90576 开始接受请求
+Sat 14 Apr 2018 21:09:46 INFO views.py 32 126340 90576 接受请求成功
+Sat 14 Apr 2018 21:09:46 INFO views.py 33 126340 90576 {'Type': ['CUSTOMERINFO'], 'TaxPwd': ['abcd1234'], 'TaxId': ['440300692516197'], 'jobparams': ['工作中'], 'BatchYear': ['2018'], 'CompanyID': ['0'], 'BatchID': ['111'], 'jobname': ['工程1'], 'BatchMonth': ['1'], 'CustomerID': ['0'], 'Request': ['登录账号：13590240680 密码：abcd1234']}
+Sat 14 Apr 2018 21:09:46 INFO views.py 73 126340 90576 爬取信用信息
+Sat 14 Apr 2018 21:09:46 INFO views.py 77 126340 90576 任务信息接收成功
+Sat 14 Apr 2018 21:09:46 INFO views.py 102 126340 90576 添加任务到数据库
+Sat 14 Apr 2018 21:09:46 INFO views.py 106 126340 90576 任务添加成功,开始爬取
+Sat 14 Apr 2018 21:20:49 INFO views.py 29 129416 90576 开始接受请求
+Sat 14 Apr 2018 21:20:49 INFO views.py 32 129416 90576 接受请求成功
+Sat 14 Apr 2018 21:20:49 INFO views.py 33 129416 90576 {'BatchID': ['111'], 'TaxPwd': ['abcd1234'], 'TaxId': ['440300692516197'], 'jobparams': ['工作中'], 'BatchYear': ['2018'], 'CompanyID': ['0'], 'Type': ['CUSTOMERINFO'], 'jobname': ['工程1'], 'BatchMonth': ['1'], 'CustomerID': ['0'], 'Request': ['登录账号：13590240680 密码：abcd1234']}
+Sat 14 Apr 2018 21:20:49 INFO views.py 73 129416 90576 爬取信用信息
+Sat 14 Apr 2018 21:20:49 INFO views.py 77 129416 90576 任务信息接收成功
+Sat 14 Apr 2018 21:20:49 INFO views.py 102 129416 90576 添加任务到数据库
+Sat 14 Apr 2018 21:20:49 INFO views.py 106 129416 90576 任务添加成功,开始爬取
+Sat 14 Apr 2018 21:36:42 INFO views.py 29 127420 90576 开始接受请求
+Sat 14 Apr 2018 21:36:42 INFO views.py 32 127420 90576 接受请求成功
+Sat 14 Apr 2018 21:36:42 INFO views.py 33 127420 90576 {'Type': ['CUSTOMERINFO'], 'TaxPwd': ['abcd1234'], 'TaxId': ['440300692516197'], 'jobparams': ['工作中'], 'BatchYear': ['2018'], 'CompanyID': ['0'], 'BatchID': ['111'], 'jobname': ['工程1'], 'BatchMonth': ['1'], 'CustomerID': ['0'], 'Request': ['登录账号：13590240680 密码：abcd1234']}
+Sat 14 Apr 2018 21:36:42 INFO views.py 73 127420 90576 爬取信用信息
+Sat 14 Apr 2018 21:36:42 INFO views.py 77 127420 90576 任务信息接收成功
+Sat 14 Apr 2018 21:36:42 INFO views.py 102 127420 90576 添加任务到数据库
+Sat 14 Apr 2018 21:36:42 INFO views.py 106 127420 90576 任务添加成功,开始爬取
+Sat 14 Apr 2018 21:52:52 INFO views.py 29 116796 90576 开始接受请求
+Sat 14 Apr 2018 21:52:52 INFO views.py 32 116796 90576 接受请求成功
+Sat 14 Apr 2018 21:52:52 INFO views.py 33 116796 90576 {'BatchID': ['111'], 'TaxPwd': ['abcd1234'], 'TaxId': ['440300692516197'], 'jobparams': ['工作中'], 'BatchYear': ['2018'], 'CompanyID': ['0'], 'Type': ['CUSTOMERINFO'], 'jobname': ['工程1'], 'BatchMonth': ['1'], 'CustomerID': ['0'], 'Request': ['登录账号：13590240680 密码：abcd1234']}
+Sat 14 Apr 2018 21:52:52 INFO views.py 73 116796 90576 爬取信用信息
+Sat 14 Apr 2018 21:52:52 INFO views.py 77 116796 90576 任务信息接收成功
+Sat 14 Apr 2018 21:52:52 INFO views.py 102 116796 90576 添加任务到数据库
+Sat 14 Apr 2018 21:52:52 INFO views.py 106 116796 90576 任务添加成功,开始爬取
+Sat 14 Apr 2018 21:57:06 INFO views.py 29 130000 90576 开始接受请求
+Sat 14 Apr 2018 21:57:06 INFO views.py 32 130000 90576 接受请求成功
+Sat 14 Apr 2018 21:57:06 INFO views.py 33 130000 90576 {'Type': ['CUSTOMERINFO'], 'TaxPwd': ['abcd1234'], 'TaxId': ['440300692516197'], 'jobparams': ['工作中'], 'BatchYear': ['2018'], 'CompanyID': ['0'], 'BatchID': ['111'], 'jobname': ['工程1'], 'BatchMonth': ['1'], 'CustomerID': ['0'], 'Request': ['登录账号：13590240680 密码：abcd1234']}
+Sat 14 Apr 2018 21:57:06 INFO views.py 73 130000 90576 爬取信用信息
+Sat 14 Apr 2018 21:57:06 INFO views.py 77 130000 90576 任务信息接收成功
+Sat 14 Apr 2018 21:57:06 INFO views.py 102 130000 90576 添加任务到数据库
+Sat 14 Apr 2018 21:57:06 INFO views.py 106 130000 90576 任务添加成功,开始爬取
+Sat 14 Apr 2018 21:57:21 INFO views.py 29 120104 90576 开始接受请求
+Sat 14 Apr 2018 21:57:21 INFO views.py 32 120104 90576 接受请求成功
+Sat 14 Apr 2018 21:57:21 INFO views.py 33 120104 90576 {'BatchID': ['111'], 'TaxPwd': ['abcd1234'], 'TaxId': ['440300692516197'], 'jobparams': ['工作中'], 'BatchYear': ['2018'], 'CompanyID': ['0'], 'Type': ['CUSTOMERINFO'], 'jobname': ['工程1'], 'BatchMonth': ['1'], 'CustomerID': ['0'], 'Request': ['登录账号：13590240680 密码：abcd1234']}
+Sat 14 Apr 2018 21:57:21 INFO views.py 73 120104 90576 爬取信用信息
+Sat 14 Apr 2018 21:57:21 INFO views.py 77 120104 90576 任务信息接收成功
+Sat 14 Apr 2018 21:57:21 INFO views.py 102 120104 90576 添加任务到数据库
+Sat 14 Apr 2018 21:57:21 INFO views.py 106 120104 90576 任务添加成功,开始爬取
+Sat 14 Apr 2018 22:01:49 INFO views.py 29 129548 90576 开始接受请求
+Sat 14 Apr 2018 22:01:49 INFO views.py 32 129548 90576 接受请求成功
+Sat 14 Apr 2018 22:01:49 INFO views.py 33 129548 90576 {'BatchID': ['111'], 'TaxPwd': ['abcd1234'], 'TaxId': ['440300692516197'], 'jobparams': ['工作中'], 'BatchYear': ['2018'], 'CompanyID': ['0'], 'Type': ['CUSTOMERINFO'], 'jobname': ['工程1'], 'BatchMonth': ['1'], 'CustomerID': ['0'], 'Request': ['登录账号：13590240680 密码：abcd1234']}
+Sat 14 Apr 2018 22:01:49 INFO views.py 73 129548 90576 爬取信用信息
+Sat 14 Apr 2018 22:01:49 INFO views.py 77 129548 90576 任务信息接收成功
+Sat 14 Apr 2018 22:01:49 INFO views.py 102 129548 90576 添加任务到数据库
+Sat 14 Apr 2018 22:01:49 INFO views.py 106 129548 90576 任务添加成功,开始爬取
+Sat 14 Apr 2018 22:11:25 INFO views.py 29 129452 90576 开始接受请求
+Sat 14 Apr 2018 22:11:25 INFO views.py 32 129452 90576 接受请求成功
+Sat 14 Apr 2018 22:11:25 INFO views.py 33 129452 90576 {'BatchID': ['111'], 'TaxPwd': ['10716674'], 'TaxId': ['91440300MA5EQUCD5J'], 'jobparams': ['工作中'], 'BatchYear': ['2018'], 'CompanyID': ['0'], 'Type': ['CUSTOMERINFO'], 'jobname': ['工程1'], 'BatchMonth': ['1'], 'CustomerID': ['0']}
+Sat 14 Apr 2018 22:11:25 INFO views.py 73 129452 90576 爬取信用信息
+Sat 14 Apr 2018 22:11:25 INFO views.py 77 129452 90576 任务信息接收成功
+Sat 14 Apr 2018 22:11:25 INFO views.py 102 129452 90576 添加任务到数据库
+Sat 14 Apr 2018 22:11:26 INFO views.py 106 129452 90576 任务添加成功,开始爬取
+Sat 14 Apr 2018 22:11:45 INFO views.py 29 128564 90576 开始接受请求
+Sat 14 Apr 2018 22:11:45 INFO views.py 32 128564 90576 接受请求成功
+Sat 14 Apr 2018 22:11:45 INFO views.py 33 128564 90576 {'BatchID': ['111'], 'TaxPwd': ['10716674'], 'TaxId': ['91440300MA5EQUCD5J'], 'jobparams': ['工作中'], 'BatchYear': ['2018'], 'CompanyID': ['0'], 'Type': ['CUSTOMERINFO'], 'jobname': ['工程1'], 'BatchMonth': ['1'], 'CustomerID': ['0']}
+Sat 14 Apr 2018 22:11:45 INFO views.py 73 128564 90576 爬取信用信息
+Sat 14 Apr 2018 22:11:45 INFO views.py 77 128564 90576 任务信息接收成功
+Sat 14 Apr 2018 22:11:45 INFO views.py 102 128564 90576 添加任务到数据库
+Sat 14 Apr 2018 22:11:45 INFO views.py 106 128564 90576 任务添加成功,开始爬取
+Sat 14 Apr 2018 22:20:53 INFO views.py 29 129932 90576 开始接受请求
+Sat 14 Apr 2018 22:20:53 INFO views.py 32 129932 90576 接受请求成功
+Sat 14 Apr 2018 22:20:53 INFO views.py 33 129932 90576 {'Type': ['CUSTOMERINFO'], 'TaxPwd': ['10716674'], 'TaxId': ['91440300MA5EQUCD5J'], 'jobparams': ['工作中'], 'BatchYear': ['2018'], 'CompanyID': ['0'], 'BatchID': ['111'], 'jobname': ['工程1'], 'BatchMonth': ['1'], 'CustomerID': ['0']}
+Sat 14 Apr 2018 22:20:53 INFO views.py 73 129932 90576 爬取信用信息
+Sat 14 Apr 2018 22:20:53 INFO views.py 77 129932 90576 任务信息接收成功
+Sat 14 Apr 2018 22:20:53 INFO views.py 102 129932 90576 添加任务到数据库
+Sat 14 Apr 2018 22:20:54 INFO views.py 106 129932 90576 任务添加成功,开始爬取
+Sat 14 Apr 2018 22:39:28 INFO views.py 29 131076 90576 开始接受请求
+Sat 14 Apr 2018 22:39:28 INFO views.py 32 131076 90576 接受请求成功
+Sat 14 Apr 2018 22:39:28 INFO views.py 33 131076 90576 {'BatchID': ['111'], 'TaxPwd': ['10716674'], 'TaxId': ['91440300MA5EQUCD5J'], 'jobparams': ['工作中'], 'BatchYear': ['2018'], 'CompanyID': ['0'], 'Type': ['CUSTOMERINFO'], 'jobname': ['工程1'], 'BatchMonth': ['1'], 'CustomerID': ['0']}
+Sat 14 Apr 2018 22:39:28 INFO views.py 73 131076 90576 爬取信用信息
+Sat 14 Apr 2018 22:39:28 INFO views.py 77 131076 90576 任务信息接收成功
+Sat 14 Apr 2018 22:39:28 INFO views.py 102 131076 90576 添加任务到数据库
+Sat 14 Apr 2018 22:39:29 INFO views.py 106 131076 90576 任务添加成功,开始爬取
+Sat 14 Apr 2018 22:40:21 INFO views.py 29 131784 90576 开始接受请求
+Sat 14 Apr 2018 22:40:21 INFO views.py 32 131784 90576 接受请求成功
+Sat 14 Apr 2018 22:40:21 INFO views.py 33 131784 90576 {'BatchID': ['111'], 'TaxPwd': ['10716674'], 'TaxId': ['91440300MA5EQUCD5J'], 'jobparams': ['工作中'], 'BatchYear': ['2018'], 'CompanyID': ['0'], 'Type': ['CUSTOMERINFO'], 'jobname': ['工程1'], 'BatchMonth': ['1'], 'CustomerID': ['0']}
+Sat 14 Apr 2018 22:40:21 INFO views.py 73 131784 90576 爬取信用信息
+Sat 14 Apr 2018 22:40:21 INFO views.py 77 131784 90576 任务信息接收成功
+Sat 14 Apr 2018 22:40:21 INFO views.py 102 131784 90576 添加任务到数据库
+Sat 14 Apr 2018 22:40:21 INFO views.py 106 131784 90576 任务添加成功,开始爬取
+Mon 16 Apr 2018 09:55:01 INFO views.py 29 181112 178300 开始接受请求
+Mon 16 Apr 2018 09:55:01 INFO views.py 32 181112 178300 接受请求成功
+Mon 16 Apr 2018 09:55:01 INFO views.py 33 181112 178300 {'TaxPwd': ['10716674'], 'BatchYear': ['2018'], 'jobname': ['工程1'], 'BatchMonth': ['1'], 'TaxId': ['91440300MA5EQUCD5J'], 'CompanyID': ['0'], 'BatchID': ['111'], 'Type': ['CUSTOMERINFO'], 'jobparams': ['工作中'], 'CustomerID': ['0']}
+Mon 16 Apr 2018 09:55:01 INFO views.py 73 181112 178300 爬取信用信息
+Mon 16 Apr 2018 09:55:01 INFO views.py 77 181112 178300 任务信息接收成功
+Mon 16 Apr 2018 09:55:01 INFO views.py 102 181112 178300 添加任务到数据库
+Mon 16 Apr 2018 09:55:01 INFO views.py 106 181112 178300 任务添加成功,开始爬取
+Mon 16 Apr 2018 09:58:40 INFO views.py 29 179812 178300 开始接受请求
+Mon 16 Apr 2018 09:58:40 INFO views.py 32 179812 178300 接受请求成功
+Mon 16 Apr 2018 09:58:40 INFO views.py 33 179812 178300 {'TaxPwd': ['10716674'], 'BatchYear': ['2018'], 'jobname': ['工程1'], 'BatchMonth': ['1'], 'TaxId': ['91440300MA5EQUCD5J'], 'CompanyID': ['0'], 'BatchID': ['111'], 'Type': ['CUSTOMERINFO'], 'jobparams': ['工作中'], 'CustomerID': ['0']}
+Mon 16 Apr 2018 09:58:40 INFO views.py 73 179812 178300 爬取信用信息
+Mon 16 Apr 2018 09:58:40 INFO views.py 77 179812 178300 任务信息接收成功
+Mon 16 Apr 2018 09:58:40 INFO views.py 102 179812 178300 添加任务到数据库
+Mon 16 Apr 2018 09:58:40 INFO views.py 106 179812 178300 任务添加成功,开始爬取
+Mon 16 Apr 2018 10:00:07 INFO views.py 29 175752 178300 开始接受请求
+Mon 16 Apr 2018 10:00:07 INFO views.py 32 175752 178300 接受请求成功
+Mon 16 Apr 2018 10:00:07 INFO views.py 33 175752 178300 {'TaxPwd': ['10716674'], 'BatchYear': ['2018'], 'jobname': ['工程1'], 'BatchMonth': ['1'], 'TaxId': ['91440300MA5EQUCD5J'], 'CompanyID': ['0'], 'BatchID': ['111'], 'Type': ['CUSTOMERINFO'], 'jobparams': ['工作中'], 'CustomerID': ['0']}
+Mon 16 Apr 2018 10:00:07 INFO views.py 73 175752 178300 爬取信用信息
+Mon 16 Apr 2018 10:00:07 INFO views.py 77 175752 178300 任务信息接收成功
+Mon 16 Apr 2018 10:00:07 INFO views.py 102 175752 178300 添加任务到数据库
+Mon 16 Apr 2018 10:00:07 INFO views.py 106 175752 178300 任务添加成功,开始爬取
+Mon 16 Apr 2018 10:22:37 INFO views.py 29 177552 181876 开始接受请求
+Mon 16 Apr 2018 10:22:37 INFO views.py 32 177552 181876 接受请求成功
+Mon 16 Apr 2018 10:22:37 INFO views.py 33 177552 181876 {'CustomerID': ['0'], 'jobparams': ['工作中'], 'TaxId': ['914403003598159193'], 'jobname': ['工程1'], 'BatchMonth': ['1'], 'CompanyID': ['0'], 'TaxPwd': ['rrl88888'], 'BatchID': ['111'], 'Type': ['CUSTOMERINFO'], 'BatchYear': ['2018']}
+Mon 16 Apr 2018 10:22:37 INFO views.py 73 177552 181876 爬取信用信息
+Mon 16 Apr 2018 10:22:37 INFO views.py 77 177552 181876 任务信息接收成功
+Mon 16 Apr 2018 10:22:37 INFO views.py 102 177552 181876 添加任务到数据库
+Mon 16 Apr 2018 10:22:37 INFO views.py 106 177552 181876 任务添加成功,开始爬取
+Mon 16 Apr 2018 10:25:02 INFO views.py 29 181784 181876 开始接受请求
+Mon 16 Apr 2018 10:25:02 INFO views.py 32 181784 181876 接受请求成功
+Mon 16 Apr 2018 10:25:02 INFO views.py 33 181784 181876 {'CustomerID': ['0'], 'TaxId': ['914403003598159193'], 'jobname': ['工程1'], 'BatchMonth': ['1'], 'jobparams': ['工作中'], 'TaxPwd': ['rrl88888'], 'BatchID': ['111'], 'Type': ['CUSTOMERINFO'], 'CompanyID': ['0'], 'BatchYear': ['2018']}
+Mon 16 Apr 2018 10:25:02 INFO views.py 73 181784 181876 爬取信用信息
+Mon 16 Apr 2018 10:25:02 INFO views.py 77 181784 181876 任务信息接收成功
+Mon 16 Apr 2018 10:25:02 INFO views.py 102 181784 181876 添加任务到数据库
+Mon 16 Apr 2018 10:25:02 INFO views.py 106 181784 181876 任务添加成功,开始爬取
+Mon 16 Apr 2018 10:26:39 INFO views.py 29 176472 181876 开始接受请求
+Mon 16 Apr 2018 10:26:39 INFO views.py 32 176472 181876 接受请求成功
+Mon 16 Apr 2018 10:26:39 INFO views.py 33 176472 181876 {'CustomerID': ['0'], 'TaxId': ['914403003598159193'], 'jobname': ['工程1'], 'BatchMonth': ['1'], 'jobparams': ['工作中'], 'TaxPwd': ['rrl88888'], 'BatchID': ['111'], 'Type': ['CUSTOMERINFO'], 'CompanyID': ['0'], 'BatchYear': ['2018']}
+Mon 16 Apr 2018 10:26:39 INFO views.py 73 176472 181876 爬取信用信息
+Mon 16 Apr 2018 10:26:39 INFO views.py 77 176472 181876 任务信息接收成功
+Mon 16 Apr 2018 10:26:39 INFO views.py 102 176472 181876 添加任务到数据库
+Mon 16 Apr 2018 10:26:40 INFO views.py 106 176472 181876 任务添加成功,开始爬取
+Mon 16 Apr 2018 10:27:54 INFO views.py 29 178892 181876 开始接受请求
+Mon 16 Apr 2018 10:27:54 INFO views.py 32 178892 181876 接受请求成功
+Mon 16 Apr 2018 10:27:54 INFO views.py 33 178892 181876 {'CustomerID': ['0'], 'jobparams': ['工作中'], 'jobname': ['工程1'], 'BatchMonth': ['1'], 'CompanyID': ['0'], 'TaxPwd': ['rrl88888'], 'BatchID': ['111'], 'Type': ['CUSTOMERINFO'], 'TaxId': ['914403003598159193'], 'BatchYear': ['2018']}
+Mon 16 Apr 2018 10:27:54 INFO views.py 73 178892 181876 爬取信用信息
+Mon 16 Apr 2018 10:27:54 INFO views.py 77 178892 181876 任务信息接收成功
+Mon 16 Apr 2018 10:27:54 INFO views.py 102 178892 181876 添加任务到数据库
+Mon 16 Apr 2018 10:27:54 INFO views.py 106 178892 181876 任务添加成功,开始爬取
+Mon 16 Apr 2018 10:31:45 INFO views.py 29 180632 181876 开始接受请求
+Mon 16 Apr 2018 10:31:45 INFO views.py 32 180632 181876 接受请求成功
+Mon 16 Apr 2018 10:31:45 INFO views.py 33 180632 181876 {'CustomerID': ['0'], 'CompanyID': ['0'], 'jobname': ['工程1'], 'BatchMonth': ['1'], 'jobparams': ['工作中'], 'TaxPwd': ['10716674'], 'BatchID': ['111'], 'Type': ['CUSTOMERINFO'], 'TaxId': ['91440300MA5EQUCD5J'], 'BatchYear': ['2018']}
+Mon 16 Apr 2018 10:31:45 INFO views.py 73 180632 181876 爬取信用信息
+Mon 16 Apr 2018 10:31:45 INFO views.py 77 180632 181876 任务信息接收成功
+Mon 16 Apr 2018 10:31:45 INFO views.py 102 180632 181876 添加任务到数据库
+Mon 16 Apr 2018 10:31:45 INFO views.py 106 180632 181876 任务添加成功,开始爬取
+Mon 16 Apr 2018 10:42:55 INFO views.py 29 183128 181876 开始接受请求
+Mon 16 Apr 2018 10:42:55 INFO views.py 32 183128 181876 接受请求成功
+Mon 16 Apr 2018 10:42:55 INFO views.py 33 183128 181876 {'CustomerID': ['0'], 'jobparams': ['工作中'], 'jobname': ['工程1'], 'BatchMonth': ['1'], 'TaxId': ['91440300MA5EQUCD5J'], 'TaxPwd': ['10716674'], 'BatchID': ['111'], 'Type': ['CUSTOMERINFO'], 'CompanyID': ['0'], 'BatchYear': ['2018']}
+Mon 16 Apr 2018 10:42:55 INFO views.py 73 183128 181876 爬取信用信息
+Mon 16 Apr 2018 10:42:55 INFO views.py 77 183128 181876 任务信息接收成功
+Mon 16 Apr 2018 10:42:55 INFO views.py 102 183128 181876 添加任务到数据库
+Mon 16 Apr 2018 10:42:55 INFO views.py 106 183128 181876 任务添加成功,开始爬取
+Mon 16 Apr 2018 10:44:41 INFO views.py 29 124372 181876 开始接受请求
+Mon 16 Apr 2018 10:44:41 INFO views.py 32 124372 181876 接受请求成功
+Mon 16 Apr 2018 10:44:41 INFO views.py 33 124372 181876 {'CustomerID': ['0'], 'jobparams': ['工作中'], 'CompanyID': ['0'], 'jobname': ['工程1'], 'BatchMonth': ['1'], 'TaxId': ['914403003598159193'], 'TaxPwd': ['rrl88888'], 'BatchID': ['111'], 'Type': ['CUSTOMERINFO'], 'BatchYear': ['2018']}
+Mon 16 Apr 2018 10:44:41 INFO views.py 73 124372 181876 爬取信用信息
+Mon 16 Apr 2018 10:44:41 INFO views.py 77 124372 181876 任务信息接收成功
+Mon 16 Apr 2018 10:44:41 INFO views.py 102 124372 181876 添加任务到数据库
+Mon 16 Apr 2018 10:44:41 INFO views.py 106 124372 181876 任务添加成功,开始爬取
+Mon 16 Apr 2018 11:34:21 INFO views.py 29 182360 175048 开始接受请求
+Mon 16 Apr 2018 11:34:21 INFO views.py 32 182360 175048 接受请求成功
+Mon 16 Apr 2018 11:34:21 INFO views.py 33 182360 175048 {'jobname': ['工程1'], 'BatchID': ['111'], 'CustomerID': ['0'], 'BatchMonth': ['1'], 'jobparams': ['工作中'], 'CompanyID': ['0'], 'Type': ['CUSTOMERINFO'], 'TaxPwd': ['rrl88888'], 'BatchYear': ['2018'], 'TaxId': ['914403003598159193']}
+Mon 16 Apr 2018 11:34:21 INFO views.py 73 182360 175048 爬取信用信息
+Mon 16 Apr 2018 11:34:21 INFO views.py 77 182360 175048 任务信息接收成功
+Mon 16 Apr 2018 11:34:21 INFO views.py 102 182360 175048 添加任务到数据库
+Mon 16 Apr 2018 11:34:21 INFO views.py 106 182360 175048 任务添加成功,开始爬取
+Mon 16 Apr 2018 11:34:39 INFO views.py 29 179876 175048 开始接受请求
+Mon 16 Apr 2018 11:34:39 INFO views.py 32 179876 175048 接受请求成功
+Mon 16 Apr 2018 11:34:39 INFO views.py 33 179876 175048 {'jobname': ['工程1'], 'BatchID': ['111'], 'CustomerID': ['0'], 'BatchMonth': ['1'], 'jobparams': ['工作中'], 'CompanyID': ['0'], 'Type': ['CUSTOMERINFO'], 'TaxPwd': ['cc868788'], 'BatchYear': ['2018'], 'TaxId': ['440300080759032']}
+Mon 16 Apr 2018 11:34:39 INFO views.py 73 179876 175048 爬取信用信息
+Mon 16 Apr 2018 11:34:39 INFO views.py 77 179876 175048 任务信息接收成功
+Mon 16 Apr 2018 11:34:39 INFO views.py 102 179876 175048 添加任务到数据库
+Mon 16 Apr 2018 11:34:39 INFO views.py 106 179876 175048 任务添加成功,开始爬取
+Mon 16 Apr 2018 11:35:45 INFO views.py 29 132684 175048 开始接受请求
+Mon 16 Apr 2018 11:35:45 INFO views.py 32 132684 175048 接受请求成功
+Mon 16 Apr 2018 11:35:45 INFO views.py 33 132684 175048 {'jobname': ['工程1'], 'BatchID': ['111'], 'CustomerID': ['0'], 'BatchMonth': ['1'], 'jobparams': ['工作中'], 'CompanyID': ['0'], 'Type': ['CUSTOMERINFO'], 'TaxPwd': ['cc868788'], 'BatchYear': ['2018'], 'TaxId': ['440300080759032']}
+Mon 16 Apr 2018 11:35:45 INFO views.py 73 132684 175048 爬取信用信息
+Mon 16 Apr 2018 11:35:45 INFO views.py 77 132684 175048 任务信息接收成功
+Mon 16 Apr 2018 11:35:45 INFO views.py 102 132684 175048 添加任务到数据库
+Mon 16 Apr 2018 11:35:45 INFO views.py 106 132684 175048 任务添加成功,开始爬取
+Mon 16 Apr 2018 11:36:40 INFO views.py 29 179304 175048 开始接受请求
+Mon 16 Apr 2018 11:36:40 INFO views.py 32 179304 175048 接受请求成功
+Mon 16 Apr 2018 11:36:40 INFO views.py 33 179304 175048 {'jobname': ['工程1'], 'BatchID': ['111'], 'CustomerID': ['0'], 'BatchMonth': ['1'], 'jobparams': ['工作中'], 'CompanyID': ['0'], 'Type': ['CUSTOMERINFO'], 'TaxPwd': ['cc868788'], 'BatchYear': ['2018'], 'TaxId': ['440300080759032']}
+Mon 16 Apr 2018 11:36:40 INFO views.py 73 179304 175048 爬取信用信息
+Mon 16 Apr 2018 11:36:40 INFO views.py 77 179304 175048 任务信息接收成功
+Mon 16 Apr 2018 11:36:40 INFO views.py 102 179304 175048 添加任务到数据库
+Mon 16 Apr 2018 11:36:40 INFO views.py 106 179304 175048 任务添加成功,开始爬取
+Mon 16 Apr 2018 11:36:54 INFO views.py 29 183648 175048 开始接受请求
+Mon 16 Apr 2018 11:36:54 INFO views.py 32 183648 175048 接受请求成功
+Mon 16 Apr 2018 11:36:54 INFO views.py 33 183648 175048 {'BatchID': ['111'], 'CustomerID': ['0'], 'BatchMonth': ['1'], 'jobparams': ['工作中'], 'CompanyID': ['0'], 'Type': ['CUSTOMERINFO'], 'TaxPwd': ['cc868788'], 'TaxId': ['440300080759032'], 'BatchYear': ['2018'], 'jobname': ['工程1']}
+Mon 16 Apr 2018 11:36:54 INFO views.py 73 183648 175048 爬取信用信息
+Mon 16 Apr 2018 11:36:54 INFO views.py 77 183648 175048 任务信息接收成功
+Mon 16 Apr 2018 11:36:54 INFO views.py 102 183648 175048 添加任务到数据库
+Mon 16 Apr 2018 11:36:54 INFO views.py 106 183648 175048 任务添加成功,开始爬取
+Mon 16 Apr 2018 11:38:15 INFO views.py 29 182928 175048 开始接受请求
+Mon 16 Apr 2018 11:38:15 INFO views.py 32 182928 175048 接受请求成功
+Mon 16 Apr 2018 11:38:15 INFO views.py 33 182928 175048 {'BatchID': ['111'], 'CustomerID': ['0'], 'BatchMonth': ['1'], 'jobparams': ['工作中'], 'CompanyID': ['0'], 'Type': ['CUSTOMERINFO'], 'TaxPwd': ['cc868788'], 'TaxId': ['440300080759032'], 'BatchYear': ['2018'], 'jobname': ['工程1']}
+Mon 16 Apr 2018 11:38:15 INFO views.py 73 182928 175048 爬取信用信息
+Mon 16 Apr 2018 11:38:15 INFO views.py 77 182928 175048 任务信息接收成功
+Mon 16 Apr 2018 11:38:15 INFO views.py 102 182928 175048 添加任务到数据库
+Mon 16 Apr 2018 11:38:15 INFO views.py 106 182928 175048 任务添加成功,开始爬取
+Mon 16 Apr 2018 11:38:16 INFO views.py 29 173816 175048 开始接受请求
+Mon 16 Apr 2018 11:38:16 INFO views.py 32 173816 175048 接受请求成功
+Mon 16 Apr 2018 11:38:16 INFO views.py 33 173816 175048 {'BatchID': ['111'], 'CustomerID': ['0'], 'BatchMonth': ['1'], 'jobparams': ['工作中'], 'CompanyID': ['0'], 'Type': ['CUSTOMERINFO'], 'TaxPwd': ['cc868788'], 'TaxId': ['440300080759032'], 'BatchYear': ['2018'], 'jobname': ['工程1']}
+Mon 16 Apr 2018 11:38:16 INFO views.py 73 173816 175048 爬取信用信息
+Mon 16 Apr 2018 11:38:16 INFO views.py 77 173816 175048 任务信息接收成功
+Mon 16 Apr 2018 11:38:16 INFO views.py 102 173816 175048 添加任务到数据库
+Mon 16 Apr 2018 11:38:16 INFO views.py 106 173816 175048 任务添加成功,开始爬取
+Mon 16 Apr 2018 11:38:18 INFO views.py 29 173784 175048 开始接受请求
+Mon 16 Apr 2018 11:38:18 INFO views.py 32 173784 175048 接受请求成功
+Mon 16 Apr 2018 11:38:18 INFO views.py 33 173784 175048 {'BatchID': ['111'], 'CustomerID': ['0'], 'BatchMonth': ['1'], 'jobparams': ['工作中'], 'CompanyID': ['0'], 'Type': ['CUSTOMERINFO'], 'TaxPwd': ['cc868788'], 'TaxId': ['440300080759032'], 'BatchYear': ['2018'], 'jobname': ['工程1']}
+Mon 16 Apr 2018 11:38:18 INFO views.py 73 173784 175048 爬取信用信息
+Mon 16 Apr 2018 11:38:18 INFO views.py 77 173784 175048 任务信息接收成功
+Mon 16 Apr 2018 11:38:18 INFO views.py 102 173784 175048 添加任务到数据库
+Mon 16 Apr 2018 11:38:18 INFO views.py 106 173784 175048 任务添加成功,开始爬取
+Mon 16 Apr 2018 12:08:06 INFO views.py 29 182236 175048 开始接受请求
+Mon 16 Apr 2018 12:08:06 INFO views.py 32 182236 175048 接受请求成功
+Mon 16 Apr 2018 12:08:06 INFO views.py 33 182236 175048 {'jobname': ['工程1'], 'BatchID': ['111'], 'CustomerID': ['0'], 'BatchMonth': ['1'], 'jobparams': ['工作中'], 'CompanyID': ['0'], 'Type': ['CUSTOMERINFO'], 'TaxPwd': ['cc868788'], 'BatchYear': ['2018'], 'TaxId': ['440300080759032']}
+Mon 16 Apr 2018 12:08:06 INFO views.py 73 182236 175048 爬取信用信息
+Mon 16 Apr 2018 12:08:06 INFO views.py 77 182236 175048 任务信息接收成功
+Mon 16 Apr 2018 12:08:06 INFO views.py 102 182236 175048 添加任务到数据库
+Mon 16 Apr 2018 12:08:06 INFO views.py 106 182236 175048 任务添加成功,开始爬取
+Mon 16 Apr 2018 14:41:56 INFO views.py 29 178180 175048 开始接受请求
+Mon 16 Apr 2018 14:41:56 INFO views.py 32 178180 175048 接受请求成功
+Mon 16 Apr 2018 14:41:56 INFO views.py 33 178180 175048 {'jobname': ['工程1'], 'BatchID': ['111'], 'CustomerID': ['0'], 'BatchMonth': ['1'], 'jobparams': ['工作中'], 'CompanyID': ['0'], 'Type': ['CUSTOMERINFO'], 'TaxPwd': ['cc868788'], 'BatchYear': ['2018'], 'TaxId': ['440300080759032']}
+Mon 16 Apr 2018 14:41:56 INFO views.py 73 178180 175048 爬取信用信息
+Mon 16 Apr 2018 14:41:56 INFO views.py 77 178180 175048 任务信息接收成功
+Mon 16 Apr 2018 14:41:56 INFO views.py 102 178180 175048 添加任务到数据库
+Mon 16 Apr 2018 14:41:56 INFO views.py 106 178180 175048 任务添加成功,开始爬取
+Mon 16 Apr 2018 14:44:21 INFO views.py 29 187284 175048 开始接受请求
+Mon 16 Apr 2018 14:44:21 INFO views.py 32 187284 175048 接受请求成功
+Mon 16 Apr 2018 14:44:21 INFO views.py 33 187284 175048 {'jobname': ['工程1'], 'BatchID': ['111'], 'CustomerID': ['0'], 'BatchMonth': ['1'], 'jobparams': ['工作中'], 'CompanyID': ['0'], 'Type': ['CUSTOMERINFO'], 'TaxPwd': ['cc868788'], 'BatchYear': ['2018'], 'TaxId': ['440300080759032']}
+Mon 16 Apr 2018 14:44:21 INFO views.py 73 187284 175048 爬取信用信息
+Mon 16 Apr 2018 14:44:21 INFO views.py 77 187284 175048 任务信息接收成功
+Mon 16 Apr 2018 14:44:21 INFO views.py 102 187284 175048 添加任务到数据库
+Mon 16 Apr 2018 14:44:21 INFO views.py 106 187284 175048 任务添加成功,开始爬取
+Mon 16 Apr 2018 14:48:07 INFO views.py 29 187932 175048 开始接受请求
+Mon 16 Apr 2018 14:48:07 INFO views.py 32 187932 175048 接受请求成功
+Mon 16 Apr 2018 14:48:07 INFO views.py 33 187932 175048 {'jobname': ['工程1'], 'BatchID': ['111'], 'CustomerID': ['0'], 'BatchMonth': ['1'], 'jobparams': ['工作中'], 'CompanyID': ['0'], 'Type': ['CUSTOMERINFO'], 'TaxPwd': ['cc868788'], 'BatchYear': ['2018'], 'TaxId': ['440300080759032']}
+Mon 16 Apr 2018 14:48:07 INFO views.py 73 187932 175048 爬取信用信息
+Mon 16 Apr 2018 14:48:07 INFO views.py 77 187932 175048 任务信息接收成功
+Mon 16 Apr 2018 14:48:07 INFO views.py 102 187932 175048 添加任务到数据库
+Mon 16 Apr 2018 14:48:08 INFO views.py 106 187932 175048 任务添加成功,开始爬取
+Mon 16 Apr 2018 15:02:44 INFO views.py 29 172136 175048 开始接受请求
+Mon 16 Apr 2018 15:02:44 INFO views.py 32 172136 175048 接受请求成功
+Mon 16 Apr 2018 15:02:44 INFO views.py 33 172136 175048 {'BatchID': ['111'], 'CustomerID': ['0'], 'BatchMonth': ['1'], 'jobparams': ['工作中'], 'CompanyID': ['0'], 'Type': ['CUSTOMERINFO'], 'TaxPwd': ['cc868788'], 'TaxId': ['440300080759032'], 'BatchYear': ['2018'], 'jobname': ['工程1']}
+Mon 16 Apr 2018 15:02:44 INFO views.py 73 172136 175048 爬取信用信息
+Mon 16 Apr 2018 15:02:44 INFO views.py 77 172136 175048 任务信息接收成功
+Mon 16 Apr 2018 15:02:44 INFO views.py 102 172136 175048 添加任务到数据库
+Mon 16 Apr 2018 15:02:45 INFO views.py 106 172136 175048 任务添加成功,开始爬取
+Mon 16 Apr 2018 15:04:33 INFO views.py 29 186496 175048 开始接受请求
+Mon 16 Apr 2018 15:04:33 INFO views.py 32 186496 175048 接受请求成功
+Mon 16 Apr 2018 15:04:33 INFO views.py 33 186496 175048 {'jobname': ['工程1'], 'BatchID': ['111'], 'CustomerID': ['0'], 'BatchMonth': ['1'], 'jobparams': ['工作中'], 'CompanyID': ['0'], 'Type': ['CUSTOMERINFO'], 'TaxPwd': ['cc868788'], 'BatchYear': ['2018'], 'TaxId': ['440300080759032']}
+Mon 16 Apr 2018 15:04:33 INFO views.py 73 186496 175048 爬取信用信息
+Mon 16 Apr 2018 15:04:33 INFO views.py 77 186496 175048 任务信息接收成功
+Mon 16 Apr 2018 15:04:33 INFO views.py 102 186496 175048 添加任务到数据库
+Mon 16 Apr 2018 15:04:34 INFO views.py 106 186496 175048 任务添加成功,开始爬取
+Mon 16 Apr 2018 15:14:27 INFO views.py 29 177100 175048 开始接受请求
+Mon 16 Apr 2018 15:14:27 INFO views.py 32 177100 175048 接受请求成功
+Mon 16 Apr 2018 15:14:27 INFO views.py 33 177100 175048 {'jobname': ['工程1'], 'BatchID': ['111'], 'CustomerID': ['0'], 'BatchMonth': ['1'], 'jobparams': ['工作中'], 'CompanyID': ['0'], 'Type': ['CUSTOMERINFO'], 'TaxPwd': ['cc868788'], 'BatchYear': ['2018'], 'TaxId': ['440300080759032']}
+Mon 16 Apr 2018 15:14:27 INFO views.py 73 177100 175048 爬取信用信息
+Mon 16 Apr 2018 15:14:27 INFO views.py 77 177100 175048 任务信息接收成功
+Mon 16 Apr 2018 15:14:27 INFO views.py 102 177100 175048 添加任务到数据库
+Mon 16 Apr 2018 15:14:27 INFO views.py 106 177100 175048 任务添加成功,开始爬取
+Mon 16 Apr 2018 15:29:22 INFO views.py 29 190392 175048 开始接受请求
+Mon 16 Apr 2018 15:29:22 INFO views.py 32 190392 175048 接受请求成功
+Mon 16 Apr 2018 15:29:22 INFO views.py 33 190392 175048 {'jobname': ['工程1'], 'BatchID': ['111'], 'CustomerID': ['0'], 'BatchMonth': ['1'], 'jobparams': ['工作中'], 'CompanyID': ['0'], 'Type': ['CUSTOMERINFO'], 'TaxPwd': ['cc868788'], 'BatchYear': ['2018'], 'TaxId': ['440300080759032']}
+Mon 16 Apr 2018 15:29:22 INFO views.py 73 190392 175048 爬取信用信息
+Mon 16 Apr 2018 15:29:22 INFO views.py 77 190392 175048 任务信息接收成功
+Mon 16 Apr 2018 15:29:22 INFO views.py 102 190392 175048 添加任务到数据库
+Mon 16 Apr 2018 15:29:22 INFO views.py 106 190392 175048 任务添加成功,开始爬取
+Mon 16 Apr 2018 15:31:50 INFO views.py 29 191284 175048 开始接受请求
+Mon 16 Apr 2018 15:31:50 INFO views.py 32 191284 175048 接受请求成功
+Mon 16 Apr 2018 15:31:50 INFO views.py 33 191284 175048 {'jobname': ['工程1'], 'BatchID': ['111'], 'CustomerID': ['0'], 'BatchMonth': ['1'], 'jobparams': ['工作中'], 'CompanyID': ['0'], 'Type': ['CUSTOMERINFO'], 'TaxPwd': ['cc868788'], 'BatchYear': ['2018'], 'TaxId': ['440300080759032']}
+Mon 16 Apr 2018 15:31:50 INFO views.py 73 191284 175048 爬取信用信息
+Mon 16 Apr 2018 15:31:50 INFO views.py 77 191284 175048 任务信息接收成功
+Mon 16 Apr 2018 15:31:50 INFO views.py 102 191284 175048 添加任务到数据库
+Mon 16 Apr 2018 15:31:51 INFO views.py 106 191284 175048 任务添加成功,开始爬取
+Fri 20 Apr 2018 11:32:41 INFO views.py 29 17988 18248 开始接受请求
+Fri 20 Apr 2018 11:32:41 INFO views.py 32 17988 18248 接受请求成功
+Fri 20 Apr 2018 11:32:41 INFO views.py 33 17988 18248 {'CompanyID': ['0'], 'BatchYear': ['2018'], 'BatchMonth': ['1'], 'Type': ['CUSTOMERINFO'], 'jobname': ['工程1'], 'CustomerID': ['0'], 'jobparams': ['工作中'], 'BatchID': ['111'], 'TaxPwd': ['89114658'], 'TaxId': ['440300088410820']}
+Fri 20 Apr 2018 11:32:41 INFO views.py 73 17988 18248 爬取信用信息
+Fri 20 Apr 2018 11:32:41 INFO views.py 77 17988 18248 任务信息接收成功
+Fri 20 Apr 2018 11:32:41 INFO views.py 102 17988 18248 添加任务到数据库
+Fri 20 Apr 2018 11:32:41 INFO views.py 106 17988 18248 任务添加成功,开始爬取
+Fri 20 Apr 2018 11:39:34 INFO views.py 29 11424 18248 开始接受请求
+Fri 20 Apr 2018 11:39:34 INFO views.py 32 11424 18248 接受请求成功
+Fri 20 Apr 2018 11:39:34 INFO views.py 33 11424 18248 {'CompanyID': ['0'], 'BatchYear': ['2018'], 'BatchMonth': ['1'], 'BatchID': ['111'], 'jobname': ['工程1'], 'CustomerID': ['0'], 'jobparams': ['工作中'], 'Type': ['CUSTOMERINFO'], 'TaxPwd': ['89114658'], 'TaxId': ['440300088410820']}
+Fri 20 Apr 2018 11:39:34 INFO views.py 73 11424 18248 爬取信用信息
+Fri 20 Apr 2018 11:39:34 INFO views.py 77 11424 18248 任务信息接收成功
+Fri 20 Apr 2018 11:39:34 INFO views.py 102 11424 18248 添加任务到数据库
+Fri 20 Apr 2018 11:39:34 INFO views.py 106 11424 18248 任务添加成功,开始爬取
+Fri 20 Apr 2018 11:44:46 INFO views.py 29 19184 18248 开始接受请求
+Fri 20 Apr 2018 11:44:46 INFO views.py 32 19184 18248 接受请求成功
+Fri 20 Apr 2018 11:44:46 INFO views.py 33 19184 18248 {'CompanyID': ['0'], 'BatchYear': ['2018'], 'BatchMonth': ['1'], 'BatchID': ['111'], 'jobname': ['工程1'], 'CustomerID': ['0'], 'jobparams': ['工作中'], 'Type': ['CUSTOMERINFO'], 'TaxPwd': ['89114658'], 'TaxId': ['440300088410820']}
+Fri 20 Apr 2018 11:44:46 INFO views.py 73 19184 18248 爬取信用信息
+Fri 20 Apr 2018 11:44:46 INFO views.py 77 19184 18248 任务信息接收成功
+Fri 20 Apr 2018 11:44:46 INFO views.py 102 19184 18248 添加任务到数据库
+Fri 20 Apr 2018 11:44:46 INFO views.py 106 19184 18248 任务添加成功,开始爬取
+Fri 20 Apr 2018 11:49:45 INFO views.py 29 15412 18248 开始接受请求
+Fri 20 Apr 2018 11:49:45 INFO views.py 32 15412 18248 接受请求成功
+Fri 20 Apr 2018 11:49:45 INFO views.py 33 15412 18248 {'CompanyID': ['0'], 'BatchYear': ['2018'], 'BatchMonth': ['1'], 'BatchID': ['111'], 'jobname': ['工程1'], 'CustomerID': ['0'], 'jobparams': ['工作中'], 'Type': ['CUSTOMERINFO'], 'TaxPwd': ['89114658'], 'TaxId': ['440300088410820']}
+Fri 20 Apr 2018 11:49:45 INFO views.py 73 15412 18248 爬取信用信息
+Fri 20 Apr 2018 11:49:45 INFO views.py 77 15412 18248 任务信息接收成功
+Fri 20 Apr 2018 11:49:45 INFO views.py 102 15412 18248 添加任务到数据库
+Fri 20 Apr 2018 11:49:45 INFO views.py 106 15412 18248 任务添加成功,开始爬取
+Fri 20 Apr 2018 11:59:29 INFO views.py 29 20380 18248 开始接受请求
+Fri 20 Apr 2018 11:59:29 INFO views.py 32 20380 18248 接受请求成功
+Fri 20 Apr 2018 11:59:29 INFO views.py 33 20380 18248 {'TaxId': ['440300088410820'], 'BatchYear': ['2018'], 'BatchMonth': ['1'], 'Type': ['CUSTOMERINFO'], 'jobname': ['工程1'], 'CustomerID': ['0'], 'jobparams': ['工作中'], 'BatchID': ['111'], 'CompanyID': ['0'], 'TaxPwd': ['89114658']}
+Fri 20 Apr 2018 11:59:29 INFO views.py 73 20380 18248 爬取信用信息
+Fri 20 Apr 2018 11:59:29 INFO views.py 77 20380 18248 任务信息接收成功
+Fri 20 Apr 2018 11:59:29 INFO views.py 102 20380 18248 添加任务到数据库
+Fri 20 Apr 2018 11:59:29 INFO views.py 106 20380 18248 任务添加成功,开始爬取
+Fri 20 Apr 2018 12:01:27 INFO views.py 29 1812 18248 开始接受请求
+Fri 20 Apr 2018 12:01:27 INFO views.py 32 1812 18248 接受请求成功
+Fri 20 Apr 2018 12:01:27 INFO views.py 33 1812 18248 {'CompanyID': ['0'], 'BatchYear': ['2018'], 'BatchMonth': ['1'], 'BatchID': ['111'], 'jobname': ['工程1'], 'CustomerID': ['0'], 'jobparams': ['工作中'], 'Type': ['CUSTOMERINFO'], 'TaxPwd': ['89114658'], 'TaxId': ['440300088410820']}
+Fri 20 Apr 2018 12:01:27 INFO views.py 73 1812 18248 爬取信用信息
+Fri 20 Apr 2018 12:01:27 INFO views.py 77 1812 18248 任务信息接收成功
+Fri 20 Apr 2018 12:01:27 INFO views.py 102 1812 18248 添加任务到数据库
+Fri 20 Apr 2018 12:01:27 INFO views.py 106 1812 18248 任务添加成功,开始爬取
+Fri 20 Apr 2018 12:07:40 INFO views.py 29 10512 18248 开始接受请求
+Fri 20 Apr 2018 12:07:40 INFO views.py 32 10512 18248 接受请求成功
+Fri 20 Apr 2018 12:07:40 INFO views.py 33 10512 18248 {'CompanyID': ['0'], 'BatchYear': ['2018'], 'BatchMonth': ['1'], 'Type': ['CUSTOMERINFO'], 'jobname': ['工程1'], 'CustomerID': ['0'], 'jobparams': ['工作中'], 'BatchID': ['111'], 'TaxPwd': ['89114658'], 'TaxId': ['440300088410820']}
+Fri 20 Apr 2018 12:07:40 INFO views.py 73 10512 18248 爬取信用信息
+Fri 20 Apr 2018 12:07:40 INFO views.py 77 10512 18248 任务信息接收成功
+Fri 20 Apr 2018 12:07:40 INFO views.py 102 10512 18248 添加任务到数据库
+Fri 20 Apr 2018 12:07:40 INFO views.py 106 10512 18248 任务添加成功,开始爬取
+Fri 20 Apr 2018 12:11:53 INFO views.py 29 2040 18248 开始接受请求
+Fri 20 Apr 2018 12:11:53 INFO views.py 32 2040 18248 接受请求成功
+Fri 20 Apr 2018 12:11:53 INFO views.py 33 2040 18248 {'CompanyID': ['0'], 'BatchYear': ['2018'], 'BatchMonth': ['1'], 'BatchID': ['111'], 'jobname': ['工程1'], 'CustomerID': ['0'], 'jobparams': ['工作中'], 'Type': ['CUSTOMERINFO'], 'TaxPwd': ['89114658'], 'TaxId': ['440300088410820']}
+Fri 20 Apr 2018 12:11:53 INFO views.py 73 2040 18248 爬取信用信息
+Fri 20 Apr 2018 12:11:53 INFO views.py 77 2040 18248 任务信息接收成功
+Fri 20 Apr 2018 12:11:53 INFO views.py 102 2040 18248 添加任务到数据库
+Fri 20 Apr 2018 12:11:53 INFO views.py 106 2040 18248 任务添加成功,开始爬取
+Fri 20 Apr 2018 12:59:54 INFO views.py 29 21804 18248 开始接受请求
+Fri 20 Apr 2018 12:59:54 INFO views.py 32 21804 18248 接受请求成功
+Fri 20 Apr 2018 12:59:54 INFO views.py 33 21804 18248 {'TaxId': ['440300692516197'], 'BatchYear': ['2018'], 'BatchMonth': ['1'], 'BatchID': ['111'], 'jobname': ['工程1'], 'CustomerID': ['0'], 'jobparams': ['工作中'], 'Type': ['CUSTOMERINFO'], 'CompanyID': ['0'], 'TaxPwd': ['abcd1234']}
+Fri 20 Apr 2018 12:59:54 INFO views.py 73 21804 18248 爬取信用信息
+Fri 20 Apr 2018 12:59:54 INFO views.py 77 21804 18248 任务信息接收成功
+Fri 20 Apr 2018 12:59:54 INFO views.py 102 21804 18248 添加任务到数据库
+Fri 20 Apr 2018 12:59:54 INFO views.py 106 21804 18248 任务添加成功,开始爬取
+Fri 20 Apr 2018 13:06:01 INFO views.py 29 23044 18248 开始接受请求
+Fri 20 Apr 2018 13:06:01 INFO views.py 32 23044 18248 接受请求成功
+Fri 20 Apr 2018 13:06:01 INFO views.py 33 23044 18248 {'CompanyID': ['0'], 'BatchYear': ['2018'], 'BatchMonth': ['1'], 'Type': ['CUSTOMERINFO'], 'jobname': ['工程1'], 'CustomerID': ['0'], 'jobparams': ['工作中'], 'BatchID': ['111'], 'TaxPwd': ['79606847'], 'TaxId': ['440300782766261']}
+Fri 20 Apr 2018 13:06:01 INFO views.py 73 23044 18248 爬取信用信息
+Fri 20 Apr 2018 13:06:01 INFO views.py 77 23044 18248 任务信息接收成功
+Fri 20 Apr 2018 13:06:01 INFO views.py 102 23044 18248 添加任务到数据库
+Fri 20 Apr 2018 13:06:01 INFO views.py 106 23044 18248 任务添加成功,开始爬取
+Fri 20 Apr 2018 13:14:28 INFO views.py 29 13608 18248 开始接受请求
+Fri 20 Apr 2018 13:14:28 INFO views.py 32 13608 18248 接受请求成功
+Fri 20 Apr 2018 13:14:28 INFO views.py 33 13608 18248 {'TaxId': ['440300088410820'], 'BatchYear': ['2018'], 'BatchMonth': ['1'], 'BatchID': ['111'], 'jobname': ['工程1'], 'CustomerID': ['0'], 'jobparams': ['工作中'], 'Type': ['CUSTOMERINFO'], 'CompanyID': ['0'], 'TaxPwd': ['89114658']}
+Fri 20 Apr 2018 13:14:28 INFO views.py 73 13608 18248 爬取信用信息
+Fri 20 Apr 2018 13:14:28 INFO views.py 77 13608 18248 任务信息接收成功
+Fri 20 Apr 2018 13:14:28 INFO views.py 102 13608 18248 添加任务到数据库
+Fri 20 Apr 2018 13:14:28 INFO views.py 106 13608 18248 任务添加成功,开始爬取
+Fri 20 Apr 2018 13:18:19 INFO views.py 29 7452 18248 开始接受请求
+Fri 20 Apr 2018 13:18:19 INFO views.py 32 7452 18248 接受请求成功
+Fri 20 Apr 2018 13:18:19 INFO views.py 33 7452 18248 {'CompanyID': ['0'], 'BatchYear': ['2018'], 'BatchMonth': ['1'], 'Type': ['CUSTOMERINFO'], 'jobname': ['工程1'], 'CustomerID': ['0'], 'jobparams': ['工作中'], 'BatchID': ['111'], 'TaxPwd': ['89114658'], 'TaxId': ['440300088410820']}
+Fri 20 Apr 2018 13:18:19 INFO views.py 73 7452 18248 爬取信用信息
+Fri 20 Apr 2018 13:18:19 INFO views.py 77 7452 18248 任务信息接收成功
+Fri 20 Apr 2018 13:18:19 INFO views.py 102 7452 18248 添加任务到数据库
+Fri 20 Apr 2018 13:18:19 INFO views.py 106 7452 18248 任务添加成功,开始爬取
+Fri 20 Apr 2018 13:20:45 INFO views.py 29 23564 18248 开始接受请求
+Fri 20 Apr 2018 13:20:45 INFO views.py 32 23564 18248 接受请求成功
+Fri 20 Apr 2018 13:20:45 INFO views.py 33 23564 18248 {'TaxId': ['440300088410820'], 'BatchYear': ['2018'], 'BatchMonth': ['1'], 'BatchID': ['111'], 'jobname': ['工程1'], 'CustomerID': ['0'], 'jobparams': ['工作中'], 'Type': ['CUSTOMERINFO'], 'CompanyID': ['0'], 'TaxPwd': ['89114658']}
+Fri 20 Apr 2018 13:20:45 INFO views.py 73 23564 18248 爬取信用信息
+Fri 20 Apr 2018 13:20:45 INFO views.py 77 23564 18248 任务信息接收成功
+Fri 20 Apr 2018 13:20:45 INFO views.py 102 23564 18248 添加任务到数据库
+Fri 20 Apr 2018 13:20:45 INFO views.py 106 23564 18248 任务添加成功,开始爬取
+Fri 20 Apr 2018 13:23:56 INFO views.py 29 24120 18248 开始接受请求
+Fri 20 Apr 2018 13:23:56 INFO views.py 32 24120 18248 接受请求成功
+Fri 20 Apr 2018 13:23:56 INFO views.py 33 24120 18248 {'TaxId': ['440300088410820'], 'BatchYear': ['2018'], 'BatchMonth': ['1'], 'Type': ['CUSTOMERINFO'], 'jobname': ['工程1'], 'CustomerID': ['0'], 'jobparams': ['工作中'], 'BatchID': ['111'], 'CompanyID': ['0'], 'TaxPwd': ['89114658']}
+Fri 20 Apr 2018 13:23:56 INFO views.py 73 24120 18248 爬取信用信息
+Fri 20 Apr 2018 13:23:56 INFO views.py 77 24120 18248 任务信息接收成功
+Fri 20 Apr 2018 13:23:56 INFO views.py 102 24120 18248 添加任务到数据库
+Fri 20 Apr 2018 13:23:56 INFO views.py 106 24120 18248 任务添加成功,开始爬取
+Fri 20 Apr 2018 13:24:40 INFO views.py 29 24176 18248 开始接受请求
+Fri 20 Apr 2018 13:24:40 INFO views.py 32 24176 18248 接受请求成功
+Fri 20 Apr 2018 13:24:40 INFO views.py 33 24176 18248 {'CompanyID': ['0'], 'BatchYear': ['2018'], 'BatchMonth': ['1'], 'BatchID': ['111'], 'jobname': ['工程1'], 'CustomerID': ['0'], 'jobparams': ['工作中'], 'Type': ['CUSTOMERINFO'], 'TaxPwd': ['89114658'], 'TaxId': ['440300088410820']}
+Fri 20 Apr 2018 13:24:40 INFO views.py 73 24176 18248 爬取信用信息
+Fri 20 Apr 2018 13:24:40 INFO views.py 77 24176 18248 任务信息接收成功
+Fri 20 Apr 2018 13:24:40 INFO views.py 102 24176 18248 添加任务到数据库
+Fri 20 Apr 2018 13:24:40 INFO views.py 106 24176 18248 任务添加成功,开始爬取
+Fri 20 Apr 2018 14:10:04 INFO views.py 29 18372 18248 开始接受请求
+Fri 20 Apr 2018 14:10:04 INFO views.py 32 18372 18248 接受请求成功
+Fri 20 Apr 2018 14:10:04 INFO views.py 33 18372 18248 {'TaxId': ['440300088410820'], 'BatchYear': ['2018'], 'BatchMonth': ['1'], 'Type': ['CUSTOMERINFO'], 'jobname': ['工程1'], 'CustomerID': ['0'], 'jobparams': ['工作中'], 'BatchID': ['111'], 'CompanyID': ['0'], 'TaxPwd': ['89114658']}
+Fri 20 Apr 2018 14:10:04 INFO views.py 73 18372 18248 爬取信用信息
+Fri 20 Apr 2018 14:10:04 INFO views.py 77 18372 18248 任务信息接收成功
+Fri 20 Apr 2018 14:10:04 INFO views.py 102 18372 18248 添加任务到数据库
+Fri 20 Apr 2018 14:10:04 INFO views.py 106 18372 18248 任务添加成功,开始爬取
+Fri 20 Apr 2018 14:14:07 INFO views.py 29 3888 18248 开始接受请求
+Fri 20 Apr 2018 14:14:07 INFO views.py 32 3888 18248 接受请求成功
+Fri 20 Apr 2018 14:14:07 INFO views.py 33 3888 18248 {'CompanyID': ['0'], 'BatchYear': ['2018'], 'BatchMonth': ['1'], 'BatchID': ['111'], 'jobname': ['工程1'], 'CustomerID': ['0'], 'jobparams': ['工作中'], 'Type': ['CUSTOMERINFO'], 'TaxPwd': ['89114658'], 'TaxId': ['440300088410820']}
+Fri 20 Apr 2018 14:14:07 INFO views.py 73 3888 18248 爬取信用信息
+Fri 20 Apr 2018 14:14:07 INFO views.py 77 3888 18248 任务信息接收成功
+Fri 20 Apr 2018 14:14:07 INFO views.py 102 3888 18248 添加任务到数据库
+Fri 20 Apr 2018 14:14:07 INFO views.py 106 3888 18248 任务添加成功,开始爬取
